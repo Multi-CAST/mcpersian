@@ -1,0 +1,33 @@
+{
+    "creators": [
+        {
+            "name": "Shirin Adibifar"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Geoffrey Haig",
+            "type": "Editor"
+        },
+        {
+            "name": "Stefan Schnell",
+            "type": "Editor"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "multicast"
+        }
+    ],
+    "title": "Multi-CAST Persian",
+    "access_right": "open",
+    "keywords": [
+        "cldf:TextCorpus",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Adibifar, Shirin. 2016. Multi-CAST Persian. In Haig, Geoffrey &amp; Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1606. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#persian) (date accessed)</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

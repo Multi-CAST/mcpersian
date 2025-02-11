@@ -1,0 +1,311 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+persian	g2-m-15	0001	#	#	#	#				
+persian	g2-m-15	0001	Yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0001	āqāyi	man.indef	np.h:s	np	h	s		
+persian	g2-m-15	0001	bud	be.pst.3sg	predex	predex				
+persian	g2-m-15	0001	#	#	#	#				
+persian	g2-m-15	0001	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0001	bāqdār	gardner	np.h:pred	np	h	pred		
+persian	g2-m-15	0001	bud	be.pst.3sg	cop	cop				
+persian	g2-m-15	0001	zāheran	obviously	other	other				
+persian	g2-m-15	0002	#	#	#	#				
+persian	g2-m-15	0002	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0002	dar	in	other	other				
+persian	g2-m-15	0002	hāle	condition.of	other	other				
+persian	g2-m-15	0002	čidane	picking	vother	vother				
+persian	g2-m-15	0002	miveh	fruit	np:p	np		p		
+persian	g2-m-15	0002	bud	be.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0003	#	#	# 	# 				
+persian	g2-m-15	0003	ke	that	ke	ke				
+persian	g2-m-15	0003	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0003	be	to	adp	adp				
+persian	g2-m-15	0003	ān	that	ln_dem	ln_dem				
+persian	g2-m-15	0003	zahmat	trouble	np:obl	np		obl		
+persian	g2-m-15	0003	mivehā	fruit.pl	np:p	np		p		
+persian	g2-m-15	0003	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0003	čid	pick.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0004	#	#	#	#				
+persian	g2-m-15	0004	va	and	other	other				
+persian	g2-m-15	0004	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0004	radif	aligning	lvc	lvc				
+persian	g2-m-15	0004	=aš	=pro.3sg	=pro:p	=pro		p		
+persian	g2-m-15	0004	kard	do.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0004	barāye	for	adp	adp				
+persian	g2-m-15	0004	xod	self	refl.h:obl	refl	h	obl		
+persian	g2-m-15	0004	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0004	#	#	#	#				
+persian	g2-m-15	0004	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0004	dobāre	again	other	other				
+persian	g2-m-15	0004	raft	go.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0004	#cc	#cc	#cc	#cc				
+persian	g2-m-15	0004	ke	that	ke	ke				
+persian	g2-m-15	0004	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0004	bečinad	pick.prs.subj.3sg	v:pred	v		pred		
+persian	g2-m-15	0004	0	0	0:p	0		p		
+persian	g2-m-15	0005	#	#	#	#				
+persian	g2-m-15	0005	yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0005	pesari	boy.indef	np.h:s	np	h	s		
+persian	g2-m-15	0005	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0005	#	#	#	#				
+persian	g2-m-15	0005	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0005	in	this	ln_dem	ln_dem				
+persian	g2-m-15	0005	mivehā	fruit.pl	np:p	np		p		
+persian	g2-m-15	0005	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0005	dozdid	steal.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0006	#	#	#	#				
+persian	g2-m-15	0006	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0006	bedune	without	other	other				
+persian	g2-m-15	0006	ejāze	permission	other	other				
+persian	g2-m-15	0006	=aš	=poss.3sg	other	other				
+persian	g2-m-15	0006	0	0	0:p	0		p		
+persian	g2-m-15	0006	bardāšt	pick.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0006	#	#	#	#				
+persian	g2-m-15	0006	va	and	other	other				
+persian	g2-m-15	0006	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0006	yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0006	sabad	basket	np:p	np		p		
+persian	g2-m-15	0006	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0006	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0006	bord	take.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0007	#	#	#	#				
+persian	g2-m-15	0007	bad	then	other	other				
+persian	g2-m-15	0007	pesarbače	little.boy	np.h:s	np	h	s		
+persian	g2-m-15	0007	tuye	in	adp	adp				
+persian	g2-m-15	0007	rāh	way	np:l	np		l		
+persian	g2-m-15	0007	ke	that	ke	ke				
+persian	g2-m-15	0007	dāšt	aux.pst.3sg	aux	aux				
+persian	g2-m-15	0007	miraft	go.pst.impf.3sg	v:pred	v		pred		
+persian	g2-m-15	0007	#	#	#	#				
+persian	g2-m-15	0007	0	0	0.h:ncs	0	h	ncs		
+persian	g2-m-15	0007	havās	attention	lvc	lvc				
+persian	g2-m-15	0007	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0007	part	seperated	lvc	lvc				
+persian	g2-m-15	0007	šod	become.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0007	be	to	adp	adp				
+persian	g2-m-15	0007	yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0007	doxtarbačeyi	little.girl	np.h:obl	np	h	obl		
+persian	g2-m-15	0007	#rc	#rc	#rc	#rc				
+persian	g2-m-15	0007	ke	that	ke	ke				
+persian	g2-m-15	0007	hālā	now	other	other				
+persian	g2-m-15	0007	hamsennosale	the.same.age	other:pred	other		pred		
+persian	g2-m-15	0007	xod	self	rn_lex	rn_lex				
+persian	g2-m-15	0007	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0007	ham	add	other	other				
+persian	g2-m-15	0007	bud	be.pst.3sg	cop	cop				
+persian	g2-m-15	0008	#	#	#	#				
+persian	g2-m-15	0008	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0008	bā	with	adp	adp				
+persian	g2-m-15	0008	dočarxe	bike	np:obl	np		obl		
+persian	g2-m-15	0008	mixorad	collide.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-15	0008	be	to	adp	adp				
+persian	g2-m-15	0008	sang	stone	np:g	np		g		
+persian	g2-m-15	0008	#	#	#	#				
+persian	g2-m-15	0008	0	0	0.h:s_cp	0	h	s_cp		
+persian	g2-m-15	0008	tasādof	accident	lvc	lvc				
+persian	g2-m-15	0008	mikonad	do.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-15	0008	#	#	#	#				
+persian	g2-m-15	0008	0	0	0.h:s_cp	0	h	s_cp		
+persian	g2-m-15	0008	mixorad	eat.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-15	0008	zamin	ground	lvc	lvc				
+persian	g2-m-15	0008	#	#	#	#				
+persian	g2-m-15	0008	mivehā	fruit.pl	np:s	np		s		
+persian	g2-m-15	0008	ham	add	other	other				
+persian	g2-m-15	0008	mirizad	spill.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-15	0009	#	#	#	#				
+persian	g2-m-15	0009	mivehā	fruit.pl	np:s	np		s		
+persian	g2-m-15	0009	ke	that	ke	ke				
+persian	g2-m-15	0009	rixt	spill.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0009	#	#	#	#				
+persian	g2-m-15	0009	yek	one	ln_qu	ln_qu				
+persian	g2-m-15	0009	čandtāyi	several	ln_qu	ln_qu				
+persian	g2-m-15	0009	bačeye	kid	np.h:s	np	h	s		
+persian	g2-m-15	0009	digar	other	rn_lex	rn_lex				
+persian	g2-m-15	0009	ke	that	ke	ke				
+persian	g2-m-15	0009	ānjā	there	other:l	other		l		
+persian	g2-m-15	0009	istāde	stand.pst.ptcp	v:pred	v		pred		
+persian	g2-m-15	0009	budand	aux.pst.3pl	aux	aux				
+persian	g2-m-15	0010	#	#	#neg	#neg				
+persian	g2-m-15	0010	hālā	now	other	other				
+persian	g2-m-15	0010	ehtemālan	probably	other	other				
+persian	g2-m-15	0010	ānhā	pro.3pl	pro.h:a	pro	h	a		
+persian	g2-m-15	0010	nemidānestand	neg.know.pst.indic.1sg	v:pred	v		pred		
+persian	g2-m-15	0010	#cc	#cc	#cc:p	#cc		p		
+persian	g2-m-15	0010	ke	that	ke	ke				
+persian	g2-m-15	0010	in	pro.3sg	pro.h:a	pro	h	a		
+persian	g2-m-15	0010	dozdid	steal.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0010	mivehā	fruit.pl	np:p	np		p		
+persian	g2-m-15	0010	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0011	#	#	#	#				
+persian	g2-m-15	0011	bad	then	other	other				
+persian	g2-m-15	0011	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0011	āmadand	come.pst.3pl	aux	aux				
+persian	g2-m-15	0011	be	to	adp	adp				
+persian	g2-m-15	0011	=heš	=pro.3sg	=pro.h:p	=pro	h	p		
+persian	g2-m-15	0011	komak	help	lvc	lvc				
+persian	g2-m-15	0011	kardand	do.pst.3pl	v:pred	v		pred		
+persian	g2-m-15	0011	#cc	#cc	#cc	#cc				
+persian	g2-m-15	0011	ke	that	ke	ke				
+persian	g2-m-15	0011	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0011	mivehā	fruit.pl	np:p	np		p		
+persian	g2-m-15	0011	=yaš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0011	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0011	jam	collected	lvc	lvc				
+persian	g2-m-15	0011	kardand	do.pst.3pl	v:pred	v		pred		
+persian	g2-m-15	0012	#	#	#	#				
+persian	g2-m-15	0012	bad	then	other	other				
+persian	g2-m-15	0012	in	pro.3sg	pro.h:s	pro	h	s		
+persian	g2-m-15	0012	ke	that	ke	ke				
+persian	g2-m-15	0012	boland	high	lvc	lvc				
+persian	g2-m-15	0012	šod	become.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0012	#cc	#cc	#cc	#cc				
+persian	g2-m-15	0012	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0012	beravad	go.prs.subj.3sg	v:pred	v		pred		
+persian	g2-m-15	0012	#	#	#neg	#neg				
+persian	g2-m-15	0012	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0012	kolāh	hat	np:p	np		p		
+persian	g2-m-15	0012	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0012	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0012	nagerefte	neg.get.pst.ptcp	v:pred	v		pred		
+persian	g2-m-15	0012	bud	aux.pst.3sg	aux	aux				
+persian	g2-m-15	0012	#	#	#	#				
+persian	g2-m-15	0012	kolāh	hat	np:s	np		s		
+persian	g2-m-15	0012	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0012	ruye	on	adp	adp				
+persian	g2-m-15	0012	zamin	ground	np:l	np		l		
+persian	g2-m-15	0012	oftāde	fall.pst.ptcp	v:pred	v		pred		
+persian	g2-m-15	0012	bud	aux.pst.3sg	aux	aux				
+persian	g2-m-15	0012	#	#	#	#				
+persian	g2-m-15	0012	yeki	one	ind_pro.h:a	ind_pro	h	a		
+persian	g2-m-15	0012	az	from	rn_adp	rn_adp				
+persian	g2-m-15	0012	ān	that	rn_dem	rn_dem				
+persian	g2-m-15	0012	bačehā	kid.pl	rn_np.h:obl	rn_np	h	obl		
+persian	g2-m-15	0012	kolāh	hat	np:p	np		p		
+persian	g2-m-15	0012	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0012	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0012	dobāre	again	other	other				
+persian	g2-m-15	0012	bardāšt	pick.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0012	#	#	#	#				
+persian	g2-m-15	0012	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0012	be	to	adp	adp				
+persian	g2-m-15	0012	=heš	=pro.3sg	=pro.h:g	=pro	h	g		
+persian	g2-m-15	0012	dād	give.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0012	0	0	0:p	0		p		
+persian	g2-m-15	0013	#ac	#ac	#ac	#ac				
+persian	g2-m-15	0013	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0013	vaqti	when	other	other				
+persian	g2-m-15	0013	kolāh	hat	np:p	np		p		
+persian	g2-m-15	0013	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0013	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0013	dād	give.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0013	#	#	#	#				
+persian	g2-m-15	0013	yek	one	ln_qu	ln_qu				
+persian	g2-m-15	0013	do	two	ln_qu	ln_qu				
+persian	g2-m-15	0013	se	three	ln_qu	ln_qu				
+persian	g2-m-15	0013	tā	piece	ln_class	ln_class				
+persian	g2-m-15	0013	miveh	fruit	np:p	np		p		
+persian	g2-m-15	0013	ham	add	other	other				
+persian	g2-m-15	0013	hālā	now	other	other				
+persian	g2-m-15	0013	#	#	#neg	#neg				
+persian	g2-m-15	0013	0	0	0.1:a_cp	0	1	a_cp		
+persian	g2-m-15	0013	motevajeh	noticed	lvc	lvc				
+persian	g2-m-15	0013	našodam	neg.become.pst.1sg	v:pred	v		pred		
+persian	g2-m-15	0013	#rc	#rc	#rc	#rc				
+persian	g2-m-15	0013	u	pro.3sg	pro.h:a	pro	h	a		
+persian	g2-m-15	0013	be	to	adp	adp				
+persian	g2-m-15	0013	=heš	=pro.3sg	=pro.h:g	=pro	h	g		
+persian	g2-m-15	0013	dād	give.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0013	%	%	%	%				
+persian	g2-m-15	0013	yā	or	other	other				
+persian	g2-m-15	0013	0	0	0.h:dt	0	h	dt		
+persian	g2-m-15	0013	xod	self	refl.h:a	refl	h	a		
+persian	g2-m-15	0013	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0013	bardāšt	pick.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0014	#	#	#	#				
+persian	g2-m-15	0014	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0014	gereft	get.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0014	0	0	0:p	0		p		
+persian	g2-m-15	0014	#	#	#	#				
+persian	g2-m-15	0014	va	and	other	other				
+persian	g2-m-15	0014	0	0	0.h:s	0	h	s		
+persian	g2-m-15	0014	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0014	#	#	#	#				
+persian	g2-m-15	0014	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0014	nafari	each.person	other	other				
+persian	g2-m-15	0014	yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0014	miveh	fruit	np:p	np		p		
+persian	g2-m-15	0014	gereft	get.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0015	#	#	#	#				
+persian	g2-m-15	0015	Bad	then	other	other				
+persian	g2-m-15	0015	Ān	that	ln_dem	ln_dem				
+persian	g2-m-15	0015	bačehā	kid.pl	np.h:a	np	h	a		
+persian	g2-m-15	0015	nafari	each.person	other	other				
+persian	g2-m-15	0015	yek	one	ln_deti	ln_deti				
+persian	g2-m-15	0015	miveh	fruit	np:p	np		p		
+persian	g2-m-15	0015	bardāštand	pick.up.pst.3pl	v:pred	v		pred		
+persian	g2-m-15	0015	#	#	#	#				
+persian	g2-m-15	0015	va	and	other	other				
+persian	g2-m-15	0015	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0015	be	to	adp	adp				
+persian	g2-m-15	0015	rāh	way	np:p	np		p		
+persian	g2-m-15	0015	=ešān	=poss.3pl	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0015	edāme	continuing	lvc	lvc				
+persian	g2-m-15	0015	dādand	give.pst.3pl	v:pred	v		pred		
+persian	g2-m-15	0016	#	#	#	#				
+persian	g2-m-15	0016	ān	that	ln_dem	ln_dem				
+persian	g2-m-15	0016	bāqdār	gardner	np.h:a	np	h	a		
+persian	g2-m-15	0016	ham	add	other	other				
+persian	g2-m-15	0016	#rc	#rc	#rc	#rc				
+persian	g2-m-15	0016	az	from	adp	adp				
+persian	g2-m-15	0016	deraxt	tree	np:l	np		l		
+persian	g2-m-15	0016	ke	that	ke	ke				
+persian	g2-m-15	0016	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0016	pāyin	down	rv	rv				
+persian	g2-m-15	0016	%	%	%	%				
+persian	g2-m-15	0016	motevajeh	noticed	lvc	lvc				
+persian	g2-m-15	0016	šod	become.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0016	#cc	#cc	#cc:p	#cc		p		
+persian	g2-m-15	0016	ke	that	ke	ke				
+persian	g2-m-15	0016	sabade	basket=ezafe	np:s	np		s		
+persian	g2-m-15	0016	mivehā	fruit.pl	rn_lex	rn_lex				
+persian	g2-m-15	0016	=yaš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-15	0016	yek	one	ln_qu	ln_qu				
+persian	g2-m-15	0016	dāne	piece	ln_class	ln_class				
+persian	g2-m-15	0016	kam	less	other:pred	other		pred		
+persian	g2-m-15	0016	ast	be.prs.3sg	cop	cop				
+persian	g2-m-15	0016	#	#	#neg	#neg				
+persian	g2-m-15	0016	0	0	0:s	0		s		
+persian	g2-m-15	0016	nist	neg.be.prs.3sg	predex	predex				
+persian	g2-m-15	0017	#	#	#	#				
+persian	g2-m-15	0017	ke	that	ke	ke				
+persian	g2-m-15	0017	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0017	mivehā	fruit.pl	np:p	np		p		
+persian	g2-m-15	0017	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0017	daste	hand	np:l	np		l		
+persian	g2-m-15	0017	ān	that	ln_dem	ln_dem				
+persian	g2-m-15	0017	bačehā	kid.pl	np.h:poss	np	h	poss		
+persian	g2-m-15	0017	did	see.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0017	#	#	#	#				
+persian	g2-m-15	0017	0	0	0.h:a_cp	0	h	a_cp		
+persian	g2-m-15	0017	zāheran	obviously	other	other				
+persian	g2-m-15	0017	motevajeh	noticed	lvc	lvc				
+persian	g2-m-15	0017	šod	become.pst.indic.3sg	v:pred	v		pred		
+persian	g2-m-15	0017	#cc	#cc	#cc:p	#cc		p		
+persian	g2-m-15	0017	ke	that	ke	ke				
+persian	g2-m-15	0017	hala	now	other	other				
+persian	g2-m-15	0017	yeki	one	ind_pro.h:a	ind_pro	h	a		
+persian	g2-m-15	0017	mive	fruit	np:p	np		p		
+persian	g2-m-15	0017	=rā	=acc	=acc_rn	=acc_rn				
+persian	g2-m-15	0017	dozdide	steal.pst.ptcp	v:pred	v		pred		
+persian	g2-m-15	0017	#	#	#	#				
+persian	g2-m-15	0017	0	0	0.h:s_cp	0	h	s_cp		
+persian	g2-m-15	0017	be	to	adp	adp				
+persian	g2-m-15	0017	inhā	pro.3pl	pro.h:obl	pro	h	obl		
+persian	g2-m-15	0017	šak	doubt	lvc	lvc				
+persian	g2-m-15	0017	ham	add	other	other				
+persian	g2-m-15	0017	kard	do.pst.3sg	v:pred	v		pred		
+persian	g2-m-15	0018	#	#	#neg	#neg				
+persian	g2-m-15	0018	vali	but	other	other				
+persian	g2-m-15	0018	0	0	0.h:a	0	h	a		
+persian	g2-m-15	0018	čizi	something	ind_pro.h:p	ind_pro	h	p		
+persian	g2-m-15	0018	ham	add	other	other				
+persian	g2-m-15	0018	nagoft	neg.say.pst.3sg	v:pred	v		pred		

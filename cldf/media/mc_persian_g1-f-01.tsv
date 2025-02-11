@@ -1,0 +1,304 @@
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+persian	g1-f-01	0001	#	#	#	#				
+persian	g1-f-01	0001	yek	one	ln_deti	ln_deti				
+persian	g1-f-01	0001	āghayi	man.indef	np.h:a	np	h	a		
+persian	g1-f-01	0001	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-01	0001	az	from	adp	adp				
+persian	g1-f-01	0001	deraxt	tree	np:obl	np		obl		
+persian	g1-f-01	0001	golābi	pear	np:p	np		p		
+persian	g1-f-01	0001	mičide	pick.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-01	0002	#	#	#	#				
+persian	g1-f-01	0002	bad	then	other	other				
+persian	g1-f-01	0002	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0002	az	from	adp	adp				
+persian	g1-f-01	0002	deraxt	tree	np:l	np		l		
+persian	g1-f-01	0002	miāyad	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0002	pāyin	down	rv	rv				
+persian	g1-f-01	0002	#	#	#	#				
+persian	g1-f-01	0002	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0002	sabade	basket=ezafe	np:p	np		p		
+persian	g1-f-01	0002	golābihā	pear.pl	rn_lex	rn_lex				
+persian	g1-f-01	0002	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0002	migozārad	put.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0002	ān	that	ln_dem	ln_dem				
+persian	g1-f-01	0002	pāyin	down	np:l	np		l		
+persian	g1-f-01	0002	#	#	#	#				
+persian	g1-f-01	0002	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0002	az	from	adp	adp				
+persian	g1-f-01	0002	tuye	inside	adp	adp				
+persian	g1-f-01	0002	pišband	apron	np:l	np		l		
+persian	g1-f-01	0002	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0002	darmiyāvarad	take.out.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0002	golābihā	pear.pl	np:p	np		p		
+persian	g1-f-01	0002	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0003	#	#	#	#				
+persian	g1-f-01	0003	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0003	mirizad	spill.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0003	tuye	inside	adp	adp				
+persian	g1-f-01	0003	sabad	basket	np:g	np		g		
+persian	g1-f-01	0003	0	0	0:p	0		p		
+persian	g1-f-01	0004	#	#	#	#				
+persian	g1-f-01	0004	bad	then	other	other				
+persian	g1-f-01	0004	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0004	yeki	one	ind_pro:p	ind_pro		p		
+persian	g1-f-01	0004	=š	=poss.3sg	=pro:obl	=pro		obl		
+persian	g1-f-01	0004	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0004	barmidārad	pick.up.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0004	#	#	#	#				
+persian	g1-f-01	0004	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0004	mimālad	rub.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0004	0	0	0:p	0		p		
+persian	g1-f-01	0004	be	to	adp	adp				
+persian	g1-f-01	0004	pirāhan	shirt	np:obl	np		obl		
+persian	g1-f-01	0004	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0004	#cc	#cc	#cc	#cc				
+persian	g1-f-01	0004	ke	that	ke	ke				
+persian	g1-f-01	0004	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0004	boxorad	eat.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-01	0004	0	0	0:p	0		p		
+persian	g1-f-01	0005	#	#	#	#				
+persian	g1-f-01	0005	yek	one	ln_deti	ln_deti				
+persian	g1-f-01	0005	āghāyi	man.indef	np.h:s	np	h	s		
+persian	g1-f-01	0005	ham	add	other	other				
+persian	g1-f-01	0005	az	from	adp	adp				
+persian	g1-f-01	0005	ān	that	ln_dem	ln_dem				
+persian	g1-f-01	0005	kenār	side	np:l	np		l		
+persian	g1-f-01	0005	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-01	0005	rad	passing	lvc	lvc				
+persian	g1-f-01	0005	mišode	become.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-01	0005	#	#	#	#				
+persian	g1-f-01	0005	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0005	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-01	0005	gusfand	sheep	np:p	np		p		
+persian	g1-f-01	0005	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0005	boz	goat	other	other				
+persian	g1-f-01	0005	=aš	=poss.3sg	other	other				
+persian	g1-f-01	0005	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0005	miborde	take.pst.impf.3sgl	v:pred	v		pred		
+persian	g1-f-01	0005	čerā	grazing	lvc	lvc				
+persian	g1-f-01	0006	#	#	#	#				
+persian	g1-f-01	0006	bad	then	other	other				
+persian	g1-f-01	0006	in	this	ln_dem	ln_dem				
+persian	g1-f-01	0006	āgha	man	np.h:s	np	h	s		
+persian	g1-f-01	0006	dobāre	again	other	other				
+persian	g1-f-01	0006	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0006	bālāye	top.of	adp	adp				
+persian	g1-f-01	0006	deraxt	tree	np:l	np		l		
+persian	g1-f-01	0006	#cc	#cc	#cc	#cc				
+persian	g1-f-01	0006	ke	that	ke	ke				
+persian	g1-f-01	0006	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0006	golābi	pear	np:p	np		p		
+persian	g1-f-01	0006	bečinad	pick.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-01	0006	#	#	#	#				
+persian	g1-f-01	0006	yek	one	ln_deti	ln_deti				
+persian	g1-f-01	0006	pesarbačeyi	little.boy.indef	np.h:s	np	h	s		
+persian	g1-f-01	0006	bā	with	adp	adp				
+persian	g1-f-01	0006	dočarxe	bike	np:obl	np		obl		
+persian	g1-f-01	0006	miāyād	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0007	#	#	#	#				
+persian	g1-f-01	0007	in	this	ln_dem	ln_dem				
+persian	g1-f-01	0007	pesarbače	little.boy	np.h:a	np	h	a		
+persian	g1-f-01	0007	barmidārad	pick.up.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0007	sabade	basket=ezafe	np:p	np		p		
+persian	g1-f-01	0007	golābihā	pear.pl	rn_lex	rn_lex				
+persian	g1-f-01	0007	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0007	#	#	#	#				
+persian	g1-f-01	0007	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0007	migozārad	put.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0007	0	0	0:p	0		p		
+persian	g1-f-01	0007	jeloye	front.of	adp	adp				
+persian	g1-f-01	0007	dočarxe	bike	np:l	np		l		
+persian	g1-f-01	0007	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0008	#	#	#	#				
+persian	g1-f-01	0008	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0008	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0009	#	#	#	#				
+persian	g1-f-01	0009	Tuye	inside	adp	adp				
+persian	g1-f-01	0009	rāh	way	np:l	np		l		
+persian	g1-f-01	0009	ke	that	ke	ke				
+persian	g1-f-01	0009	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0009	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-01	0009	mirafte	go.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-01	0009	#	#	#	#				
+persian	g1-f-01	0009	yek	one	ln_deti	ln_deti				
+persian	g1-f-01	0009	dočarxesavāre	bike.rider	np.h:s	np	h	s		
+persian	g1-f-01	0009	digar	another	rn_lex	rn_lex				
+persian	g1-f-01	0009	az	from	adp	adp				
+persian	g1-f-01	0009	kenār	side	adp	adp				
+persian	g1-f-01	0009	=aš	=poss.3sg	=pro.h:l	=pro	h	l		
+persian	g1-f-01	0009	rad	passing	lvc	lvc				
+persian	g1-f-01	0009	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0009	#	#	#	#				
+persian	g1-f-01	0009	In	this	pro.h:ncs	pro	h	ncs		
+persian	g1-f-01	0009	havās	attention	lvc	lvc				
+persian	g1-f-01	0009	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0009	part	distracted	lvc	lvc				
+persian	g1-f-01	0009	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0009	#	#	#	#				
+persian	g1-f-01	0009	čarxe	wheel=ezafe	np:s	np		s		
+persian	g1-f-01	0009	dočarxe	bike	np:poss	np		poss		
+persian	g1-f-01	0009	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0009	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0009	ruye	on	adp	adp				
+persian	g1-f-01	0009	sang	stone	np:l	np		l		
+persian	g1-f-01	0010	#	#	#	#				
+persian	g1-f-01	0010	Dočarxe	bike	np:s	np		s		
+persian	g1-f-01	0010	barmigardad	fall.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0010	#	#	#	#				
+persian	g1-f-01	0010	hameye	all.of	ln_qu	ln_qu				
+persian	g1-f-01	0010	golābihā	pear.pl	np:s	np		s		
+persian	g1-f-01	0010	mirizad	spill.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0011	#	#	#	#				
+persian	g1-f-01	0011	Se	three	ln_qu	ln_qu				
+persian	g1-f-01	0011	tā	piece	ln_class	ln_class				
+persian	g1-f-01	0011	pesarbače	little.boy	np.h:s_cp	np	h	s_cp		
+persian	g1-f-01	0011	dāštand	aux.pst.3pl	aux	aux				
+persian	g1-f-01	0011	ānjā	there	other:l	other		l		
+persian	g1-f-01	0011	bāzi	playing	lvc	lvc				
+persian	g1-f-01	0011	mikardand	do.pst.impf.3pl	v:pred	v		pred		
+persian	g1-f-01	0012	#	#	#	#				
+persian	g1-f-01	0012	in	this	ln_dem	ln_dem				
+persian	g1-f-01	0012	se	three	ln_qu	ln_qu				
+persian	g1-f-01	0012	tā	piece	ln_class	ln_class				
+persian	g1-f-01	0012	pesarbače	little.boy	np.h:s	np	h	s		
+persian	g1-f-01	0012	miāyand	come.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0012	#	#	#	#				
+persian	g1-f-01	0012	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0012	be	to	adp	adp				
+persian	g1-f-01	0012	=heš	=pro.3sg	=pro.h:p	=pro	h	p		
+persian	g1-f-01	0012	komak	help	lvc	lvc				
+persian	g1-f-01	0012	mikonand	do.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0012	#	#	#	#				
+persian	g1-f-01	0012	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0012	Golābihā	pear.pl	np:p	np		p		
+persian	g1-f-01	0012	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0012	jam	collected	lvc	lvc				
+persian	g1-f-01	0012	mikonand	do.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0013	#	#	#	#				
+persian	g1-f-01	0013	Pesarbačehe	little.boy.def	np.h:s	np	h	s		
+persian	g1-f-01	0013	āmad	come.pst.prosp.3sg	aux	aux				
+persian	g1-f-01	0013	ke	that	ke	ke				
+persian	g1-f-01	0013	dobāre	again	other	other				
+persian	g1-f-01	0013	savāre	sitting	lvc	lvc				
+persian	g1-f-01	0013	dočarxe	bike	np:l	np		l		
+persian	g1-f-01	0013	beshavad	become.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-01	0013	#	#	#	#				
+persian	g1-f-01	0013	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0013	beravad	go.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-01	0014	#	#	#	#				
+persian	g1-f-01	0014	Yekdafe	suddenly	other	other				
+persian	g1-f-01	0014	ān	that	ln_dem	ln_dem				
+persian	g1-f-01	0014	se	three	ln_qu	ln_qu				
+persian	g1-f-01	0014	tā	piece	ln_class	ln_class				
+persian	g1-f-01	0014	pesarbače	little.boy	np.h:a	np	h	a		
+persian	g1-f-01	0014	mibinand	see.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0014	#cc	#cc	#cc:p	#cc		p		
+persian	g1-f-01	0014	ke	that	ke	ke				
+persian	g1-f-01	0014	kolāh	hat	np:s	np		s		
+persian	g1-f-01	0014	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0014	oftāde	fall.pst.ptcpl	v:pred	v		pred		
+persian	g1-f-01	0014	#	#	#	#				
+persian	g1-f-01	0014	0	0	0.h:s_cp	0	h	s_cp		
+persian	g1-f-01	0014	Sut	whistle	lvc	lvc				
+persian	g1-f-01	0014	mizanand	hit.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0014	#	#	#	#				
+persian	g1-f-01	0014	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0014	miistad	stop.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0015	#	#	#	#				
+persian	g1-f-01	0015	bad	then	other	other				
+persian	g1-f-01	0015	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0015	kolāh	hat	np:p	np		p		
+persian	g1-f-01	0015	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0015	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-01	0015	be	to	adp	adp				
+persian	g1-f-01	0015	=heš	=pro.3sg	=pro.h:g	=pro	h	g		
+persian	g1-f-01	0015	midahand	give.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-01	0015	#	#	#	#				
+persian	g1-f-01	0015	In	pro.3sg	pro.h:a	pro	h	a		
+persian	g1-f-01	0015	ham	add	other	other				
+persian	g1-f-01	0015	se	three	ln_qu	ln_qu				
+persian	g1-f-01	0015	tā	piece	ln_class	ln_class				
+persian	g1-f-01	0015	golābi	pear	np:p	np		p		
+persian	g1-f-01	0015	be	to	adp	adp				
+persian	g1-f-01	0015	ānhā	pro.3pl	pro.h:g	pro	h	g		
+persian	g1-f-01	0015	midahad	give.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0016	#	#	#	#				
+persian	g1-f-01	0016	Pesarbačehe	little.boy.def	np.h:s	np	h	s		
+persian	g1-f-01	0016	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0016	bā	with	adp	adp				
+persian	g1-f-01	0016	dočarxe	bike	np:obl	np		obl		
+persian	g1-f-01	0016	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0016	va	and	other	other				
+persian	g1-f-01	0017	#	#	#	#				
+persian	g1-f-01	0017	Dobāre	again	other	other				
+persian	g1-f-01	0017	0	0	0:a	0		a		
+persian	g1-f-01	0017	nešān	showing	lvc	lvc				
+persian	g1-f-01	0017	midahad	give.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0017	#	#	#	#				
+persian	g1-f-01	0017	ān	that	ln_dem	ln_dem				
+persian	g1-f-01	0017	āqāyi	man.indef	np.h:s	np	h	s		
+persian	g1-f-01	0017	#rc	#rc	#rc	#rc				
+persian	g1-f-01	0017	ke	that	ke	ke				
+persian	g1-f-01	0017	bālāye	top.of	adp	adp				
+persian	g1-f-01	0017	deraxt	tree	np:l	np		l		
+persian	g1-f-01	0017	bude	be.pst.3sg	cop	cop				
+persian	g1-f-01	0017	#rc	#rc	#rc	#rc				
+persian	g1-f-01	0017	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-01	0017	golābi	pear	np:p	np		p		
+persian	g1-f-01	0017	mičide	pick.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-01	0017	%	%	%	%				
+persian	g1-f-01	0017	miāyad	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0017	pāyin	down	rv	rv				
+persian	g1-f-01	0018	#	#	#	#				
+persian	g1-f-01	0018	0	0	0.h:a	0	h	a		
+persian	g1-f-01	0018	mibinad	see.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0018	#cc	#cc	#cc.neg:p	#cc.neg		p		
+persian	g1-f-01	0018	ey	interj	other	other				
+persian	g1-f-01	0018	vāy	interj	other	other				
+persian	g1-f-01	0018	yeki	one	ind_pro.h:s	ind_pro	h	s		
+persian	g1-f-01	0018	az	of	rn_adp	rn_adp				
+persian	g1-f-01	0018	sabadhāye	basket.pl=ezafe	rn_np:obl	rn_np		obl		
+persian	g1-f-01	0018	golābi	pear	rn_lex	rn_lex				
+persian	g1-f-01	0018	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-01	0018	nist	neg.be.prs.3sg	cop	cop				
+persian	g1-f-01	0018	#	#	#	#				
+persian	g1-f-01	0018	0	0	0:s	0		s		
+persian	g1-f-01	0018	kam	less	other:pred	other		pred		
+persian	g1-f-01	0018	=e	=be.prs.3sg	=cop	=cop				
+persian	g1-f-01	0019	#	#	#	#				
+persian	g1-f-01	0019	Hamān	same	other	other				
+persian	g1-f-01	0019	moqe	time	other	other				
+persian	g1-f-01	0019	ān	that	ln_dem	ln_dem				
+persian	g1-f-01	0019	se	three	ln_qu	ln_qu				
+persian	g1-f-01	0019	tā	piece	ln_class	ln_class				
+persian	g1-f-01	0019	pesarbačeyi	little.boy.pl.indef	np.h:a	np	h	a		
+persian	g1-f-01	0019	#rc	#rc	#rc	#rc				
+persian	g1-f-01	0019	ke	that	ke	ke				
+persian	g1-f-01	0019	dāštand	aux.pst.3pl	aux	aux				
+persian	g1-f-01	0019	golābi	pear	np:p	np		p		
+persian	g1-f-01	0019	mixordand	eat.pst.impf.3pl	v:pred	v		pred		
+persian	g1-f-01	0019	%	%	%	%				
+persian	g1-f-01	0019	az	from	adp	adp				
+persian	g1-f-01	0019	kenār	side	adp	adp				
+persian	g1-f-01	0019	=aš	=poss.3sg	=pro.h:l	=pro	h	l		
+persian	g1-f-01	0019	rad	passing	lvc	lvc				
+persian	g1-f-01	0019	mišavand	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0019	#	#	#	#				
+persian	g1-f-01	0019	0	0	0.h:s	0	h	s		
+persian	g1-f-01	0019	ba	with	adp	adp				
+persian	g1-f-01	0019	ta'ajob	surprise	np:obl	np		obl		
+persian	g1-f-01	0019	az	from	adp	adp				
+persian	g1-f-01	0019	kenār	side	adp	adp				
+persian	g1-f-01	0019	=ešān	=poss.3pl	=pro.h:l	=pro	h	l		
+persian	g1-f-01	0019	rad	passing	lvc	lvc				
+persian	g1-f-01	0019	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0019	#	#	#	#				
+persian	g1-f-01	0019	va	and	other	other				
+persian	g1-f-01	0019	0	0	0.h:s_cp	0	h	s_cp		
+persian	g1-f-01	0019	fekr	thought	lvc	lvc				
+persian	g1-f-01	0019	mikonad	do.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-01	0019	#cc	#cc	#cc	#cc				
+persian	g1-f-01	0019	0	0	0:s	0		s		
+persian	g1-f-01	0019	kāre	work=ezafe	np:pred	np		pred		
+persian	g1-f-01	0019	ānhā	pro.3pl	pro.h:poss	pro	h	poss		
+persian	g1-f-01	0019	ast	be.prs.3sg	cop	cop				
