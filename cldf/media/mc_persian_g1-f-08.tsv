@@ -9,7 +9,7 @@ persian	g1-f-08	0001	āqāye	man=EZAFE	np.h:s	np	h	s
 persian	g1-f-08	0001	xāreji	foreign	rn_lex	rn_lex				
 persian	g1-f-08	0001	tuye	in	adp	adp				
 persian	g1-f-08	0001	mazra'e	farm	np:l	np		l		
-persian	g1-f-08	0001	bude	be.PST.3SG	predex	predex				
+persian	g1-f-08	0001	bude	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-08	0002	#	#	#	#				
 persian	g1-f-08	0002	0	0	0.h:s	0	h	s		
 persian	g1-f-08	0002	miravad	go.PRS.IND.3SG	v:pred	v		pred		

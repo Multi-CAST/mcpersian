@@ -40,7 +40,7 @@ persian	g1-f-09	0004	kolāhe	hat=EZAFE	np:s	np		s
 persian	g1-f-09	0004	bozorgi	big	rn_lex	rn_lex				
 persian	g1-f-09	0004	sar	head	np:l	np		l		
 persian	g1-f-09	0004	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g1-f-09	0004	bud	be.PST.3SG	predex	predex				
+persian	g1-f-09	0004	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-09	0004	#	#	#rc	#rc				
 persian	g1-f-09	0004	yek	one	ln_deti	ln_deti				
 persian	g1-f-09	0004	dastmālgardane	neckerchief=EZAFE	np:s	np		s		
@@ -48,7 +48,7 @@ persian	g1-f-09	0004	qermez	red	rn_lex	rn_lex
 persian	g1-f-09	0004	dore	around	adp	adp				
 persian	g1-f-09	0004	gardan	neck	np:l	np		l		
 persian	g1-f-09	0004	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g1-f-09	0004	bud	be.PST.3SG	predex	predex				
+persian	g1-f-09	0004	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-09	0004	#	#	#	#				
 persian	g1-f-09	0004	ke	that	ke	ke				
 persian	g1-f-09	0004	dar	in	other	other				
@@ -228,7 +228,7 @@ persian	g1-f-09	0013	qermezi	red.INDF	rn_lex	rn_lex
 persian	g1-f-09	0013	dore	around	adp	adp				
 persian	g1-f-09	0013	garden	neck	np:l	np		l		
 persian	g1-f-09	0013	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g1-f-09	0013	bud	be.PST.3SG	predex	predex				
+persian	g1-f-09	0013	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-09	0014	#	#	#	#				
 persian	g1-f-09	0014	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0014	savāre	sitting	other	other				
@@ -320,7 +320,7 @@ persian	g1-f-09	0018	bā	bā	adp	adp
 persian	g1-f-09	0018	har	har	ln_lex	ln_lex				
 persian	g1-f-09	0018	zahmati	zahmati	np:obl	np		obl		
 persian	g1-f-09	0018	ke	ke	ke	ke				
-persian	g1-f-09	0018	bud	bud	predex	predex				
+persian	g1-f-09	0018	bud	bud	v:predex	v		predex		
 persian	g1-f-09	0018	#	#	#	#				
 persian	g1-f-09	0018	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0018	sabad	basket	np:p	np		p		

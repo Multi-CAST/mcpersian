@@ -555,7 +555,7 @@ persian	g1-f-10	0030	#	#	#	#
 persian	g1-f-10	0030	0	0	0:s	0		s		
 persian	g1-f-10	0030	kojā	where	other	other				
 persian	g1-f-10	0030	mitavānand	can.AUX.PRS.3PL	aux	aux				
-persian	g1-f-10	0030	bāšand	be.PRS.SBJV.3PL	predex	predex				
+persian	g1-f-10	0030	bāšand	be.PRS.SBJV.3PL	v:predex	v		predex		
 persian	g1-f-10	0030	#	#	#	#				
 persian	g1-f-10	0030	in	this	ln_dem	ln_dem				
 persian	g1-f-10	0030	bačehā	kid.PL	np.h:a	np	h	a		

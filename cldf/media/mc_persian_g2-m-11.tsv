@@ -7,7 +7,7 @@ persian	g2-m-11	0001	yek	one	ln_deti	ln_deti
 persian	g2-m-11	0001	fardi	person	np.h:s	np	h	s		
 persian	g2-m-11	0001	ruye	on	adp	adp				
 persian	g2-m-11	0001	deraxt	tree	np:l	np		l		
-persian	g2-m-11	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-m-11	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-11	0001	#	#	#	#				
 persian	g2-m-11	0001	0	0	0.h:a	0	h	a		
 persian	g2-m-11	0001	dāšt	AUX.PST.3SG	aux	aux				
@@ -21,7 +21,7 @@ persian	g2-m-11	0002	#	#	#	#
 persian	g2-m-11	0002	yek	one	ln_deti	ln_deti				
 persian	g2-m-11	0002	šaxse	person=EZAFE	np.h:s	np	h	s		
 persian	g2-m-11	0002	digari	another	rn_lex	rn_lex				
-persian	g2-m-11	0002	bud	be.PST.3SG	predex	predex				
+persian	g2-m-11	0002	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-11	0002	#	#	#	#				
 persian	g2-m-11	0002	0	0	0.h:s	0	h	s		
 persian	g2-m-11	0002	šāyad	maybe	other	other				

@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g1-m-06	0001	#	#	#	#				
 persian	g1-m-06	0001	Yek	one	ln_deti	ln_deti				
 persian	g1-m-06	0001	mazrae	farm	np:s	np		s		
-persian	g1-m-06	0001	bud	be.PST.3SG	predex	predex				
+persian	g1-m-06	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-m-06	0001	#	#	#	#				
 persian	g1-m-06	0001	yeki	one	indef_other.h:a	indef_other	h	a		
 persian	g1-m-06	0001	ham	add	other	other				
@@ -50,7 +50,7 @@ persian	g1-m-06	0003	0	0	0.h:a	0	h	a
 persian	g1-m-06	0003	did	see.PST.3SG	v:pred	v		pred		
 persian	g1-m-06	0003	#	#	#cc.neg:p	#cc.neg		p		
 persian	g1-m-06	0003	kasi	somebody	indef_other.h:s	indef_other	h	s		
-persian	g1-m-06	0003	nist	NEG.be.PRS.3SG	predex	predex				
+persian	g1-m-06	0003	nist	NEG.be.PRS.3SG	v:predex	v		predex		
 persian	g1-m-06	0003	#	#	#	#				
 persian	g1-m-06	0003	0	0	0.h:a	0	h	a		
 persian	g1-m-06	0003	yek	one	ln_deti	ln_deti				

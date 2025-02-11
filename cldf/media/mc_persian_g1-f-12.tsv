@@ -110,7 +110,7 @@ persian	g1-f-12	0005	tā	piece	ln_class	ln_class
 persian	g1-f-12	0005	sabade	basket=EZAFE	np:s	np		s		
 persian	g1-f-12	0005	golābi	pear	rn_lex	rn_lex				
 persian	g1-f-12	0005	ānjā	there	other:pred	other		pred		
-persian	g1-f-12	0005	ast	be.PRS.3SG	predex	predex				
+persian	g1-f-12	0005	ast	be.PRS.3SG	v:predex	v		predex		
 persian	g1-f-12	0006	#	#	#	#				
 persian	g1-f-12	0006	0	0	0.h:a	0	h	a		
 persian	g1-f-12	0006	yek	one	ln_deti	ln_deti				
@@ -162,7 +162,7 @@ persian	g1-f-12	0007	yek	one	ln_deti	ln_deti
 persian	g1-f-12	0007	koluxi	stone.INDF	np:s	np		s		
 persian	g1-f-12	0007	jeloy	front	adp	adp				
 persian	g1-f-12	0007	=aš	=POSS.3SG	=pro.h:l	=pro	h	l		
-persian	g1-f-12	0007	bud,	be.PST.3SG	predex	predex				
+persian	g1-f-12	0007	bud,	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-12	0007	#	#	#	#				
 persian	g1-f-12	0007	in	PRO.3SG	pro.h:s	pro	h	s		
 persian	g1-f-12	0007	mixorad	collide.IND.3SG	v:pred	v		pred		

@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g2-m-14	0001	#	#	#	#				
 persian	g2-m-14	0001	Yek	one	ln_deti	ln_deti				
 persian	g2-m-14	0001	āqāyi	man.INDF	np.h:s	np	h	s		
-persian	g2-m-14	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-m-14	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-14	0001	#	#	#	#				
 persian	g2-m-14	0001	0	0	0.h:a	0	h	a		
 persian	g2-m-14	0001	az	from	adp	adp				

@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g1-f-14	0001	#	#	#	#				
 persian	g1-f-14	0001	Yek	one	ln_deti	ln_deti				
 persian	g1-f-14	0001	bāqi	garden	np:s	np		s		
-persian	g1-f-14	0001	bud	be.PST.3SG	predex	predex				
+persian	g1-f-14	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-14	0001	#	#	#	#				
 persian	g1-f-14	0001	0	0	0.1:s_cp	0	1	s_cp		
 persian	g1-f-14	0001	fekr	thought	other:lvc	other		lvc		
@@ -16,12 +16,12 @@ persian	g1-f-14	0001	hič	not	ln_lex	ln_lex
 persian	g1-f-14	0001	hesāri	fence	np:s	np		s		
 persian	g1-f-14	0001	dor	around	adp	adp				
 persian	g1-f-14	0001	=aš	=POSS.3SG	=pro.h:l	=pro	h	l		
-persian	g1-f-14	0001	nabud	NEG.be.PST.3SG	predex	predex				
+persian	g1-f-14	0001	nabud	NEG.be.PST.3SG	v:predex	v		predex		
 persian	g1-f-14	0002	#	#	#	#				
 persian	g1-f-14	0002	yek	one	ln_deti	ln_deti				
 persian	g1-f-14	0002	deraxte	tree=EZAFE	np:s	np		s		
 persian	g1-f-14	0002	golābi	pear	rn_lex	rn_lex				
-persian	g1-f-14	0002	bud	be.PST.3SG	predex	predex				
+persian	g1-f-14	0002	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-14	0003	#	#	#	#				
 persian	g1-f-14	0003	baad	then	other	other				
 persian	g1-f-14	0003	yek	one	ln_deti	ln_deti				
@@ -301,7 +301,7 @@ persian	g1-f-14	0017	#	#	#cc:p	#cc		p
 persian	g1-f-14	0017	se	three	ln_qu	ln_qu				
 persian	g1-f-14	0017	tā	piece	ln_class	ln_class				
 persian	g1-f-14	0017	pesarbače	little.boy	np.h:s	np	h	s		
-persian	g1-f-14	0017	hastand	be.PRS.3PL	predex	predex				
+persian	g1-f-14	0017	hastand	be.PRS.3PL	v:predex	v		predex		
 persian	g1-f-14	0018	#	#	#	#				
 persian	g1-f-14	0018	yeki	one	indef_other.h:a	indef_other	h	a		
 persian	g1-f-14	0018	=šān	=PRO.3PL	=rn_pro.h:poss	=rn_pro	h	poss		

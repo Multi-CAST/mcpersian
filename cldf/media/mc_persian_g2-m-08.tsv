@@ -6,7 +6,7 @@ persian	g2-m-08	0001	aval	first	other	other
 persian	g2-m-08	0001	=aš	=POSS.3SG	=rn_pro:poss	=rn_pro		poss		
 persian	g2-m-08	0001	yek	one	ln_deti	ln_deti				
 persian	g2-m-08	0001	bāqbān	gardner	np.h:s	np	h	s		
-persian	g2-m-08	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-m-08	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-08	0001	#	#	#	#				
 persian	g2-m-08	0001	bālāye	top.of	adp	adp				
 persian	g2-m-08	0001	deraxt	tree	np:l	np		l		
@@ -177,7 +177,7 @@ persian	g2-m-08	0011	samt	side	other	other
 persian	g2-m-08	0011	bālāye	top.of	adp	adp				
 persian	g2-m-08	0011	sar	head	np:l	np		l		
 persian	g2-m-08	0011	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g2-m-08	0011	budand	be.PST.3PL	predex	predex				
+persian	g2-m-08	0011	budand	be.PST.3PL	v:predex	v		predex		
 persian	g2-m-08	0012	#	#	#	#				
 persian	g2-m-08	0012	0	0	0.h:s	0	h	s		
 persian	g2-m-08	0012	āmadand	come.PST.IND.3PL	v:pred	v		pred		
@@ -332,7 +332,7 @@ persian	g2-m-08	0017	ān	that	rn_dem	rn_dem
 persian	g2-m-08	0017	mivehā	fruit.PL	rn_np:poss	rn_np		poss		
 persian	g2-m-08	0017	dast	hand	np:l	np		l		
 persian	g2-m-08	0017	=ešān	=POSS.3PL	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g2-m-08	0017	ast	be.PRS.3SG	predex	predex				
+persian	g2-m-08	0017	ast	be.PRS.3SG	v:predex	v		predex		
 persian	g2-m-08	0017	#	#	#	#				
 persian	g2-m-08	0017	0	0	0.h:s_cp	0	h	s_cp		
 persian	g2-m-08	0017	taajob	surprise	other:lvc	other		lvc		

@@ -110,7 +110,7 @@ persian	g2-m-09	0006	yek	one	ln_deti	ln_deti
 persian	g2-m-09	0006	seri	row	ln_qu	ln_qu				
 persian	g2-m-09	0006	pesar	boy	np.h:s	np	h	s		
 persian	g2-m-09	0006	ānjā	there	other:pred	other		pred		
-persian	g2-m-09	0006	hastand	be.PRS.3PL	predex	predex				
+persian	g2-m-09	0006	hastand	be.PRS.3PL	v:predex	v		predex		
 persian	g2-m-09	0006	#	#	#	#				
 persian	g2-m-09	0006	ke	that	ke	ke				
 persian	g2-m-09	0006	0	0	0.1:s_cp	0	1	s_cp		
@@ -120,7 +120,7 @@ persian	g2-m-09	0006	#	#	#	#
 persian	g2-m-09	0006	aval	first	other	other				
 persian	g2-m-09	0006	yek	one	ln_deti	ln_deti				
 persian	g2-m-09	0006	hālati	condition	np:s	np		s		
-persian	g2-m-09	0006	bud	be.PST.3SG	predex	predex				
+persian	g2-m-09	0006	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-09	0006	#	#	#	#				
 persian	g2-m-09	0006	ke	that	ke	ke				
 persian	g2-m-09	0006	0	0	0.1:s_cp	0	1	s_cp		

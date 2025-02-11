@@ -13,7 +13,7 @@ persian	g2-f-01	0001	#	#	#	#
 persian	g2-f-01	0001	baad	then	other	other				
 persian	g2-f-01	0001	yek	one	ln_deti	ln_deti				
 persian	g2-f-01	0001	mardi	man.INDF	np.h:s	np	h	s		
-persian	g2-f-01	0001	hast	be.PRS.3SG	predex	predex				
+persian	g2-f-01	0001	hast	be.PRS.3SG	v:predex	v		predex		
 persian	g2-f-01	0001	tuye	inside	adp	adp				
 persian	g2-f-01	0001	ān	that	ln_dem	ln_dem				
 persian	g2-f-01	0001	mazrae	farm.DEF	np:l	np		l		
@@ -60,7 +60,7 @@ persian	g2-f-01	0004	tā	piece	ln_class	ln_class
 persian	g2-f-01	0004	sabade	basket=EZAFE	np:s	np		s		
 persian	g2-f-01	0004	pore	full.of	rn_lex	rn_lex				
 persian	g2-f-01	0004	golābi	pear	rn_lex	rn_lex				
-persian	g2-f-01	0004	bude	be.PST.3SG	predex	predex				
+persian	g2-f-01	0004	bude	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-01	0005	#	#	#	#				
 persian	g2-f-01	0005	yek	NC	nc	nc				
 persian	g2-f-01	0005	pesari,	NC	nc	nc				
@@ -166,7 +166,7 @@ persian	g2-f-01	0009	ke	that	ke	ke
 persian	g2-f-01	0009	ruye	on	adp	adp				
 persian	g2-f-01	0009	dočarxe	bike	np:l	np		l		
 persian	g2-f-01	0009	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g2-f-01	0009	bude	be.PST.3SG	predex	predex				
+persian	g2-f-01	0009	bude	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-01	0009	%	%	%	%				
 persian	g2-f-01	0009	0	0	0.h:a	0	h	a		
 persian	g2-f-01	0009	migozārad	put.PRS.IND.3SG	v:pred	v		pred		

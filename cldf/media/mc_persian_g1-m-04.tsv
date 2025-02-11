@@ -147,7 +147,7 @@ persian	g1-m-04	0006	se	three	ln_qu	ln_qu
 persian	g1-m-04	0006	nafar	person	np.h:s	np	h	s		
 persian	g1-m-04	0006	ham	add	other	other				
 persian	g1-m-04	0006	ānjā	there	other:pred	other		pred		
-persian	g1-m-04	0006	budand	be.PST.3PL	predex	predex				
+persian	g1-m-04	0006	budand	be.PST.3PL	v:predex	v		predex		
 persian	g1-m-04	0006	#	#	#	#				
 persian	g1-m-04	0006	0	0	0.h:a	0	h	a		
 persian	g1-m-04	0006	komak	help	other:lvc	other		lvc		
@@ -243,7 +243,7 @@ persian	g1-m-04	0011	#	#	#	#
 persian	g1-m-04	0011	0	0	0:s	0		s		
 persian	g1-m-04	0011	dast	hand	np:l	np		l		
 persian	g1-m-04	0011	=ešān	=POSS.3PL	=rn_pro.h:poss	=rn_pro	h	poss		
-persian	g1-m-04	0011	bud	be.PST.3SG	predex	predex				
+persian	g1-m-04	0011	bud	be.PST.3SG	v:predex	v		predex		
 persian	g1-m-04	0011	#	#	#	#				
 persian	g1-m-04	0011	ke	that	ke	ke				
 persian	g1-m-04	0011	hālā	now	other	other				

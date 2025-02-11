@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g2-f-07	0001	#	#	#	#				
 persian	g2-f-07	0001	Yek	one	ln_deti	ln_deti				
 persian	g2-f-07	0001	āqāyi	man.INDF	np.h:s	np	h	s		
-persian	g2-f-07	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-f-07	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-07	0001	ke	ke	ke	ke				
 persian	g2-f-07	0001	bā	NC	nc	nc				
 persian	g2-f-07	0001	nardebān	NC	nc	nc				
@@ -68,7 +68,7 @@ persian	g2-f-07	0005	tā	piece	ln_class	ln_class
 persian	g2-f-07	0005	zanbil	basket	np:s	np		s		
 persian	g2-f-07	0005	ham	add	other	other				
 persian	g2-f-07	0005	ānjā	there	other:pred	other		pred		
-persian	g2-f-07	0005	bud	be.PST.3SG	predex	predex				
+persian	g2-f-07	0005	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-07	0005	#	#	#cc	#cc				
 persian	g2-f-07	0005	ke	that	ke	ke				
 persian	g2-f-07	0005	0	0	0.h:a	0	h	a		

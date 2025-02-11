@@ -4,7 +4,7 @@ persian	g1-f-05	0001	Yek	one	ln_deti	ln_deti
 persian	g1-f-05	0001	zamine	land=EZAFE	np:s	np		s		
 persian	g1-f-05	0001	xeyli	very	rn_lex	rn_lex				
 persian	g1-f-05	0001	bozorgi	big	rn_lex	rn_lex				
-persian	g1-f-05	0001	bud,	be.PST.3SG	predex	predex				
+persian	g1-f-05	0001	bud,	be.PST.3SG	v:predex	v		predex		
 persian	g1-f-05	0001	mesle	like	other	other				
 persian	g1-f-05	0001	yek	one	ln_deti	ln_deti				
 persian	g1-f-05	0001	bāq	garden	np:s	np		s		
@@ -126,7 +126,7 @@ persian	g1-f-05	0006	kasi	somebody	indef_other.h:s	indef_other	h	s
 persian	g1-f-05	0006	kenāre	beside	ln_lex	ln_lex				
 persian	g1-f-05	0006	in	this	ln_dem	ln_dem				
 persian	g1-f-05	0006	sabadhā	basket.PL	np:l	np		l		
-persian	g1-f-05	0006	nist	NEG.be.PRS.3SG	predex	predex				
+persian	g1-f-05	0006	nist	NEG.be.PRS.3SG	v:predex	v		predex		
 persian	g1-f-05	0006	#	#	#	#				
 persian	g1-f-05	0006	0	0	0.h:a	0	h	a		
 persian	g1-f-05	0006	did	see.PST.3SG	v:pred	v		pred		
@@ -135,7 +135,7 @@ persian	g1-f-05	0006	ke	that	ke	ke
 persian	g1-f-05	0006	mardi	man.INDF	np.h:s	np	h	s		
 persian	g1-f-05	0006	bālāye	top.of	adp	adp				
 persian	g1-f-05	0006	deraxt	tree	np:l	np		l		
-persian	g1-f-05	0006	ast	be.PRS.3SG	predex	predex				
+persian	g1-f-05	0006	ast	be.PRS.3SG	v:predex	v		predex		
 persian	g1-f-05	0007	#	#	#	#				
 persian	g1-f-05	0007	0	0	0.h:a	0	h	a		
 persian	g1-f-05	0007	dārad	AUX.PRS.3SG	aux	aux				

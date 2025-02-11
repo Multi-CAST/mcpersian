@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g2-m-15	0001	#	#	#	#				
 persian	g2-m-15	0001	Yek	one	ln_deti	ln_deti				
 persian	g2-m-15	0001	āqāyi	man.INDF	np.h:s	np	h	s		
-persian	g2-m-15	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-m-15	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-15	0001	#	#	#	#				
 persian	g2-m-15	0001	0	0	0.h:s	0	h	s		
 persian	g2-m-15	0001	bāqdār	gardner	np.h:pred	np	h	pred		
@@ -274,7 +274,7 @@ persian	g2-m-15	0016	kam	less	other:pred	other		pred
 persian	g2-m-15	0016	ast	be.PRS.3SG	cop	cop				
 persian	g2-m-15	0016	#	#	#neg	#neg				
 persian	g2-m-15	0016	0	0	0:s	0		s		
-persian	g2-m-15	0016	nist	NEG.be.PRS.3SG	predex	predex				
+persian	g2-m-15	0016	nist	NEG.be.PRS.3SG	v:predex	v		predex		
 persian	g2-m-15	0017	#	#	#	#				
 persian	g2-m-15	0017	ke	that	ke	ke				
 persian	g2-m-15	0017	0	0	0.h:a	0	h	a		

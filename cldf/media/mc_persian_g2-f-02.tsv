@@ -5,19 +5,19 @@ persian	g2-f-02	0001	=aš	=POSS.3SG	=rn_pro:poss	=rn_pro		poss
 persian	g2-f-02	0001	ke	that	ke	ke				
 persian	g2-f-02	0001	yek	one	ln_deti	ln_deti				
 persian	g2-f-02	0001	mazraei	farm.INDF	np:s	np		s		
-persian	g2-f-02	0001	bude	be.PST.3SG	predex	predex				
+persian	g2-f-02	0001	bude	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-02	0001	#	#	#rc	#rc				
 persian	g2-f-02	0001	ke	that	ke	ke				
 persian	g2-f-02	0001	tu	inside	adp	adp				
 persian	g2-f-02	0001	=yaš	=POSS.3SG	=pro:l	=pro		l		
 persian	g2-f-02	0001	mivehāye	fruits=EZAFE	np:s	np		s		
 persian	g2-f-02	0001	golābi	pear.PL	rn_lex	rn_lex				
-persian	g2-f-02	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-f-02	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-02	0002	#	#	#	#				
 persian	g2-f-02	0002	bad	then	other	other				
 persian	g2-f-02	0002	yek	one	ln_deti	ln_deti				
 persian	g2-f-02	0002	āqāyi	man.INDF	np.h:s	np	h	s		
-persian	g2-f-02	0002	bud	be.PST.3SG	predex	predex				
+persian	g2-f-02	0002	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-02	0002	#	#	#	#				
 persian	g2-f-02	0002	0	0	0.h:s	0	h	s		
 persian	g2-f-02	0002	bāqbān	gardner	np.h:pred	np	h	pred		
@@ -51,7 +51,7 @@ persian	g2-f-02	0004	do	two	ln_qu	ln_qu
 persian	g2-f-02	0004	tā	piece	ln_class	ln_class				
 persian	g2-f-02	0004	sabade	basket=EZAFE	np:s	np		s		
 persian	g2-f-02	0004	por	full	rn_lex	rn_lex				
-persian	g2-f-02	0004	bud	be.PST.3SG	predex	predex				
+persian	g2-f-02	0004	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-f-02	0004	bā	with	adp	adp				
 persian	g2-f-02	0004	yek	one	ln_deti	ln_deti				
 persian	g2-f-02	0004	sabade	basket=EZAFE	np:other	np		other		

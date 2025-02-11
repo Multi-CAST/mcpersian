@@ -5,7 +5,7 @@ persian	g2-m-10	0001	=eš	=POSS.3SG	=rn_pro:poss	=rn_pro		poss
 persian	g2-m-10	0001	ke	that	ke	ke				
 persian	g2-m-10	0001	yek	one	ln_deti	ln_deti				
 persian	g2-m-10	0001	bāqbāni	gardner	np.h:s	np	h	s		
-persian	g2-m-10	0001	bud	be.PST.3SG	predex	predex				
+persian	g2-m-10	0001	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-10	0001	bālāye	top.of	adp	adp				
 persian	g2-m-10	0001	deraxt	tree	np:l	np		l		
 persian	g2-m-10	0001	#	#	#	#				
@@ -42,7 +42,7 @@ persian	g2-m-10	0003	yek	one	ln_deti	ln_deti
 persian	g2-m-10	0003	āqāyi	man.INDF	np.h:s	np	h	s		
 persian	g2-m-10	0003	bā	with	adp	adp				
 persian	g2-m-10	0003	boz	goat	np:obl	np		obl		
-persian	g2-m-10	0003	bud	be.PST.3SG	predex	predex				
+persian	g2-m-10	0003	bud	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-10	0003	#	#	#	#				
 persian	g2-m-10	0003	0	0	0.1:s_cp	0	1	s_cp		
 persian	g2-m-10	0003	fekr	thought	other:lvc	other		lvc		
@@ -151,7 +151,7 @@ persian	g2-m-10	0009	#	#	#	#
 persian	g2-m-10	0009	čand	a.few	ln_qu	ln_qu				
 persian	g2-m-10	0009	nafar	person	np.h:s	np	h	s		
 persian	g2-m-10	0009	ānjā	there	other:pred	other		pred		
-persian	g2-m-10	0009	budand	be.PST.3PL	predex	predex				
+persian	g2-m-10	0009	budand	be.PST.3PL	v:predex	v		predex		
 persian	g2-m-10	0009	#	#	#	#				
 persian	g2-m-10	0009	se	three	ln_qu	ln_qu				
 persian	g2-m-10	0009	tā	piece	ln_class	ln_class				

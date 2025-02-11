@@ -2,7 +2,7 @@ corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g2-f-06	0001	#	#	#	#				
 persian	g2-f-06	0001	Yek	one	ln_deti	ln_deti				
 persian	g2-f-06	0001	āqāyi	man.INDF	np.h:s	np	h	s		
-persian	g2-f-06	0001	bud	be.PST.IND.3SG	predex	predex				
+persian	g2-f-06	0001	bud	be.PST.IND.3SG	v:predex	v		predex		
 persian	g2-f-06	0001	#	#	#rc	#rc				
 persian	g2-f-06	0001	ke	that	ke	ke				
 persian	g2-f-06	0001	čand	several	ln_qu	ln_qu				
@@ -167,7 +167,7 @@ persian	g2-f-06	0013	#	#	#cc:p	#cc		p
 persian	g2-f-06	0013	se	three	ln_qu	ln_qu				
 persian	g2-f-06	0013	tā	piece	ln_class	ln_class				
 persian	g2-f-06	0013	pesarbače	little.boy	np.h:s	np	h	s		
-persian	g2-f-06	0013	hastand	be.PRS.3PL	predex	predex				
+persian	g2-f-06	0013	hastand	be.PRS.3PL	v:predex	v		predex		
 persian	g2-f-06	0013	#	#	#	#				
 persian	g2-f-06	0013	0	0	0.h:s	0	h	s		
 persian	g2-f-06	0013	āmadand	come.PST.3PL	aux	aux				

@@ -153,7 +153,7 @@ persian	g2-m-13	0010	yek	one	ln_deti	ln_deti
 persian	g2-m-13	0010	sangi	stone	np:s	np		s		
 persian	g2-m-13	0010	tuye	in	adp	adp				
 persian	g2-m-13	0010	jade	road	np:l	np		l		
-persian	g2-m-13	0010	bude	be.PST.3SG	predex	predex				
+persian	g2-m-13	0010	bude	be.PST.3SG	v:predex	v		predex		
 persian	g2-m-13	0010	#	#	#	#				
 persian	g2-m-13	0010	bad	then	other	other				
 persian	g2-m-13	0010	0	0	0.h:s	0	h	s		

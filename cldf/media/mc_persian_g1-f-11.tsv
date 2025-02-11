@@ -329,7 +329,7 @@ persian	g1-f-11	0018	kodāme	one.of	rn_lex	rn_lex
 persian	g1-f-11	0018	inhā	PRO.3PL	rn_pro.h:poss	rn_pro	h	poss		
 persian	g1-f-11	0018	yek	one	ln_deti	ln_deti				
 persian	g1-f-11	0018	golābi	pear	np:s	np		s		
-persian	g1-f-11	0018	ast	be.PRS.3SG	predex	predex				
+persian	g1-f-11	0018	ast	be.PRS.3SG	v:predex	v		predex		
 persian	g1-f-11	0019	#	#	#	#				
 persian	g1-f-11	0019	montāhā	but	other	other				
 persian	g1-f-11	0019	ānhā	PRO.3PL	pro.h:s	pro	h	s		
