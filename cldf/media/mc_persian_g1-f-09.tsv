@@ -1,15 +1,15 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g1-f-09	0001	#	#	#	#				
 persian	g1-f-09	0001	Film	film	np:s	np		s		
 persian	g1-f-09	0001	aval	first	other	other				
-persian	g1-f-09	0001	=aš	=poss.3sg	other	other				
+persian	g1-f-09	0001	=aš	=POSS.3SG	other	other				
 persian	g1-f-09	0001	bā	with	adp	adp				
-persian	g1-f-09	0001	sedāye	sound=ezafe	np:obl	np		obl		
-persian	g1-f-09	0001	xorus	rooster	np:poss	np		poss		
+persian	g1-f-09	0001	sedāye	sound=EZAFE	np:obl	np		obl		
+persian	g1-f-09	0001	xorus	rooster	rn_np:poss	rn_np		poss		
 persian	g1-f-09	0001	darvāqe	really	other	other				
-persian	g1-f-09	0001	šoru	start	lvc	lvc				
-persian	g1-f-09	0001	šod	become.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0002	#nc	#nc	#nc	#nc				
+persian	g1-f-09	0001	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0001	šod	become.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0002	#	#	#nc	#nc				
 persian	g1-f-09	0002	nazare	NC	nc	nc				
 persian	g1-f-09	0002	xodam	NC	nc	nc				
 persian	g1-f-09	0002	=am	NC	nc	nc				
@@ -19,53 +19,53 @@ persian	g1-f-09	0002	tozih	NC	nc	nc
 persian	g1-f-09	0002	bedam?	NC	nc	nc				
 persian	g1-f-09	0003	#	#	#	#				
 persian	g1-f-09	0003	Bā	with	adp	adp				
-persian	g1-f-09	0003	sedāye	sound=ezafe	np:obl	np		obl		
-persian	g1-f-09	0003	xorus	rooster	np:poss	np		poss		
-persian	g1-f-09	0003	šoru	start	lvc	lvc				
-persian	g1-f-09	0003	šod	become.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0003	sedāye	sound=EZAFE	np:obl	np		obl		
+persian	g1-f-09	0003	xorus	rooster	rn_np:poss	rn_np		poss		
+persian	g1-f-09	0003	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0003	šod	become.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0003	film	film	np:s	np		s		
 persian	g1-f-09	0004	#	#	#	#				
 persian	g1-f-09	0004	bad	after	other	other				
-persian	g1-f-09	0004	=aš	=poss.3sg	other	other				
+persian	g1-f-09	0004	=aš	=POSS.3SG	other	other				
 persian	g1-f-09	0004	0	0	0:s	0		s		
 persian	g1-f-09	0004	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0004	bāqbāni	gardner.indef	np.h:p	np	h	p		
-persian	g1-f-09	0004	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0004	nešān	show	lvc	lvc				
-persian	g1-f-09	0004	dād	give.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0004	#rc	#rc	#rc	#rc				
+persian	g1-f-09	0004	bāqbāni	gardner.INDF	np.h:p	np	h	p		
+persian	g1-f-09	0004	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0004	nešān	show	other:lvc	other		lvc		
+persian	g1-f-09	0004	dād	give.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0004	#	#	#rc	#rc				
 persian	g1-f-09	0004	ke	that	ke	ke				
 persian	g1-f-09	0004	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0004	kolāhe	hat=ezafe	np:s	np		s		
+persian	g1-f-09	0004	kolāhe	hat=EZAFE	np:s	np		s		
 persian	g1-f-09	0004	bozorgi	big	rn_lex	rn_lex				
-persian	g1-f-09	0004	sar 	head	np:l	np		l		
-persian	g1-f-09	0004	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0004	bud	be.pst.3sg	predex	predex				
-persian	g1-f-09	0004	#rc	#rc	#rc	#rc				
+persian	g1-f-09	0004	sar	head	np:l	np		l		
+persian	g1-f-09	0004	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0004	bud	be.PST.3SG	predex	predex				
+persian	g1-f-09	0004	#	#	#rc	#rc				
 persian	g1-f-09	0004	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0004	dastmālgardane	neckerchief=ezafe	np:s	np		s		
+persian	g1-f-09	0004	dastmālgardane	neckerchief=EZAFE	np:s	np		s		
 persian	g1-f-09	0004	qermez	red	rn_lex	rn_lex				
 persian	g1-f-09	0004	dore	around	adp	adp				
 persian	g1-f-09	0004	gardan	neck	np:l	np		l		
-persian	g1-f-09	0004	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0004	bud	be.pst.3sg	predex	predex				
+persian	g1-f-09	0004	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0004	bud	be.PST.3SG	predex	predex				
 persian	g1-f-09	0004	#	#	#	#				
 persian	g1-f-09	0004	ke	that	ke	ke				
 persian	g1-f-09	0004	dar	in	other	other				
 persian	g1-f-09	0004	hāle	condition.of	other	other				
 persian	g1-f-09	0004	čidane	picking	vother	vother				
 persian	g1-f-09	0004	golābi	pear	np:p	np		p		
-persian	g1-f-09	0004	bud	be.pst.3sg	cop	cop				
+persian	g1-f-09	0004	bud	be.PST.3SG	cop	cop				
 persian	g1-f-09	0004	in	this	ln_dem	ln_dem				
 persian	g1-f-09	0004	bāqbān	gardner	np.h:a	np	h	a		
 persian	g1-f-09	0005	#	#	#	#				
 persian	g1-f-09	0005	bad	then	other	other				
 persian	g1-f-09	0005	ke	that	ke	ke				
 persian	g1-f-09	0005	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0005	golābihā	pear.pl	np:p	np		p		
-persian	g1-f-09	0005	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0005	čid	pick.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0006	#nc	#nc	#nc	#nc				
+persian	g1-f-09	0005	golābihā	pear.PL	np:p	np		p		
+persian	g1-f-09	0005	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0005	čid	pick.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0006	#	#	#nc	#nc				
 persian	g1-f-09	0006	yani	NC	nc	nc				
 persian	g1-f-09	0006	ba	NC	nc	nc				
 persian	g1-f-09	0006	yek	NC	nc	nc				
@@ -81,119 +81,119 @@ persian	g1-f-09	0006	dar	in	other	other
 persian	g1-f-09	0006	vāqe	real	other	other				
 persian	g1-f-09	0006	bā	with	adp	adp				
 persian	g1-f-09	0006	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0006	hālate	status=ezafe	np:obl	np		obl		
+persian	g1-f-09	0006	hālate	status=EZAFE	np:obl	np		obl		
 persian	g1-f-09	0006	xub	good	rn_lex	rn_lex				
 persian	g1-f-09	0006	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0006	golābihā	pear.pl	np:p	np		p		
-persian	g1-f-09	0006	=yaš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0006	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0006	tamiz	clean	lvc	lvc				
-persian	g1-f-09	0006	kard	do.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0006	golābihā	pear.PL	np:p	np		p		
+persian	g1-f-09	0006	=yaš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0006	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0006	tamiz	clean	other:lvc	other		lvc		
+persian	g1-f-09	0006	kard	do.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0006	#	#	#	#				
 persian	g1-f-09	0006	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0006	dobāre	again	other	other				
-persian	g1-f-09	0006	gozāšt	put.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0006	gozāšt	put.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0006	0	0	0:p	0		p		
 persian	g1-f-09	0006	tuye	inside	adp	adp				
 persian	g1-f-09	0006	sabad	basket	np:l	np		l		
-persian	g1-f-09	0006	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0006	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0007	#	#	#	#				
 persian	g1-f-09	0007	bad	then	other	other				
 persian	g1-f-09	0007	dobāre	again	other	other				
 persian	g1-f-09	0007	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0007	az	from	adp	adp				
 persian	g1-f-09	0007	nardebān	ladder	np:obl	np		obl		
-persian	g1-f-09	0007	raft	go.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0007	raft	go.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0007	bālā	up	rv	rv				
 persian	g1-f-09	0007	#	#	#	#				
 persian	g1-f-09	0007	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0007	šoru	start	lvc	lvc				
-persian	g1-f-09	0007	kard	do.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0007	#cc	#cc	#cc:p	#cc		p		
+persian	g1-f-09	0007	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0007	kard	do.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0007	#	#	#cc:p	#cc		p		
 persian	g1-f-09	0007	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0007	be	to	adp	adp				
-persian	g1-f-09	0007	čidane	picking=ezafe	vother	vother				
+persian	g1-f-09	0007	čidane	picking=EZAFE	vother	vother				
 persian	g1-f-09	0007	mojadade	again	other	other				
 persian	g1-f-09	0007	dar	in	other	other				
 persian	g1-f-09	0007	vāqe	real	other	other				
-persian	g1-f-09	0007	golābihā	pear.pl	np:p	np		p		
+persian	g1-f-09	0007	golābihā	pear.PL	np:p	np		p		
 persian	g1-f-09	0008	#	#	#	#				
 persian	g1-f-09	0008	ke	that	ke	ke				
 persian	g1-f-09	0008	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0008	mičid	pick.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0008	mičid	pick.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0008	0	0	0:p	0		p		
 persian	g1-f-09	0008	#	#	#	#				
 persian	g1-f-09	0008	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0008	mirixt	pour.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0008	mirixt	pour.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0008	0	0	0:p	0		p		
 persian	g1-f-09	0008	tuye	inside	adp	adp				
 persian	g1-f-09	0008	dāman	skirt	np:g	np		g		
-persian	g1-f-09	0008	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0008	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0008	#	#	#	#				
 persian	g1-f-09	0008	va	and	other	other				
 persian	g1-f-09	0008	bad	then	other	other				
 persian	g1-f-09	0008	dobāre	again	other	other				
 persian	g1-f-09	0008	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0008	miyāmad	come.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0008	miyāmad	come.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0008	pāyin	down	rv	rv				
 persian	g1-f-09	0009	#	#	#	#				
 persian	g1-f-09	0009	va	and	other	other				
 persian	g1-f-09	0009	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0009	dobāre	again	other	other				
-persian	g1-f-09	0009	mirixt	pour.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0009	mirixt	pour.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0009	tuye	inside	adp	adp				
-persian	g1-f-09	0009	sabadhāy	basket.pl	np:g	np		g		
-persian	g1-f-09	0009	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0009	sabadhāy	basket.PL	np:g	np		g		
+persian	g1-f-09	0009	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0010	#	#	#	#				
 persian	g1-f-09	0010	albate	of.course	other	other				
 persian	g1-f-09	0010	tuye	in	adp	adp				
-persian	g1-f-09	0010	paszamineye	background=ezafe	np:l	np		l		
+persian	g1-f-09	0010	paszamineye	background=EZAFE	np:l	np		l		
 persian	g1-f-09	0010	film	film	rn_lex	rn_lex				
 persian	g1-f-09	0010	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0010	čizi	thing	ind_pro:p	ind_pro		p		
+persian	g1-f-09	0010	čizi	thing	indef_other:p	indef_other		p		
 persian	g1-f-09	0010	ham	add	other	other				
 persian	g1-f-09	0010	0	0	0:a	0		a		
-persian	g1-f-09	0010	nešān	show	lvc	lvc				
-persian	g1-f-09	0010	dād	give.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0010	nešān	show	other:lvc	other		lvc		
+persian	g1-f-09	0010	dād	give.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0010	#	#	#	#				
 persian	g1-f-09	0010	ke	that	ke	ke				
-persian	g1-f-09	0010	sedāye	sound=ezafe	np:s	np		s		
-persian	g1-f-09	0010	boz	goat	np:poss	np		poss		
-persian	g1-f-09	0010	miyāmad	come.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0010	sedāye	sound=EZAFE	np:s	np		s		
+persian	g1-f-09	0010	boz	goat	rn_np:poss	rn_np		poss		
+persian	g1-f-09	0010	miyāmad	come.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0010	dar	in	other	other				
 persian	g1-f-09	0010	vāqe	real	other	other				
 persian	g1-f-09	0011	#	#	#	#				
 persian	g1-f-09	0011	ke	that	ke	ke				
 persian	g1-f-09	0011	yek	one	other	other				
-persian	g1-f-09	0011	kešāvarzi	gardner.indef	other	other				
+persian	g1-f-09	0011	kešāvarzi	gardner.INDF	other	other				
 persian	g1-f-09	0011	hālā	now	other	other				
 persian	g1-f-09	0011	0	0	0.1:a	0	1	a		
-persian	g1-f-09	0011	nemidānam	neg.know.prs.indic.1sg	other	other				
+persian	g1-f-09	0011	nemidānam	NEG.know.PRS.IND.1SG	other	other				
 persian	g1-f-09	0011	yā	or	other	other				
 persian	g1-f-09	0011	#	#	#	#				
 persian	g1-f-09	0011	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0011	kasi	somebody	ind_pro.h:s	ind_pro	h	s		
+persian	g1-f-09	0011	kasi	somebody	indef_other.h:s	indef_other	h	s		
 persian	g1-f-09	0011	tuye	in	adp	adp				
 persian	g1-f-09	0011	zamine	background	other	other				
-persian	g1-f-09	0011	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0011	āmad	come.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0011	bā	with	adp	adp				
 persian	g1-f-09	0011	boz	goat	np:obl	np		obl		
-persian	g1-f-09	0011	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0011	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0011	#	#	#	#				
 persian	g1-f-09	0011	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0011	az	from	adp	adp				
-persian	g1-f-09	0011	kenāre	side=ezafe	adp	adp				
-persian	g1-f-09	0011	golābihā	pear.pl	np:l	np		l		
-persian	g1-f-09	0011	rad	passing	lvc	lvc				
-persian	g1-f-09	0011	šod	become.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0011	kenāre	side=EZAFE	adp	adp				
+persian	g1-f-09	0011	golābihā	pear.PL	np:l	np		l		
+persian	g1-f-09	0011	rad	passing	other:lvc	other		lvc		
+persian	g1-f-09	0011	šod	become.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0012	#	#	#	#				
 persian	g1-f-09	0012	bad	then	other	other				
 persian	g1-f-09	0012	0	0	0:a	0		a		
 persian	g1-f-09	0012	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0012	bačeyi	kid.indef	np.h:p	np	h	p		
-persian	g1-f-09	0012	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0012	nešān	show	lvc	lvc				
-persian	g1-f-09	0012	dād	give.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0012	bačeyi	kid.INDF	np.h:p	np	h	p		
+persian	g1-f-09	0012	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0012	nešān	show	other:lvc	other		lvc		
+persian	g1-f-09	0012	dād	give.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0012	#	#	#	#				
 persian	g1-f-09	0012	ke	that	ke	ke				
 persian	g1-f-09	0012	az	from	other	other				
@@ -202,51 +202,51 @@ persian	g1-f-09	0012	dar	in	other	other
 persian	g1-f-09	0012	vāqe	real	other	other				
 persian	g1-f-09	0012	0	0	0:s	0		s		
 persian	g1-f-09	0012	jāleb	interesting	other:pred	other		pred		
-persian	g1-f-09	0012	bud	be.pst.3sg	cop	cop				
+persian	g1-f-09	0012	bud	be.PST.3SG	cop	cop				
 persian	g1-f-09	0012	ke	that	ke	ke				
 persian	g1-f-09	0012	#	#	#	#				
 persian	g1-f-09	0012	bā	with	adp	adp				
 persian	g1-f-09	0012	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0012	lebāse	clothes=ezafe	np:obl	np		obl		
+persian	g1-f-09	0012	lebāse	clothes=EZAFE	np:obl	np		obl		
 persian	g1-f-09	0012	moštarak	common	rn_lex	rn_lex				
 persian	g1-f-09	0012	bā	with	adp	adp				
-persian	g1-f-09	0012	xode	self=ezafe	refl.h:obl	refl	h	obl		
+persian	g1-f-09	0012	xode	self=EZAFE	refl.h:obl	refl	h	obl		
 persian	g1-f-09	0012	bāqbān	gardner	rn_lex	rn_lex				
-persian	g1-f-09	0012	bud	be.pst.3sg	cop	cop				
-persian	g1-f-09	0012	bačehe	kid.def	np.h:s	np	h	s		
+persian	g1-f-09	0012	bud	be.PST.3SG	cop	cop				
+persian	g1-f-09	0012	bačehe	kid.DEF	np.h:s	np	h	s		
 persian	g1-f-09	0013	#	#	#	#				
 persian	g1-f-09	0013	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0013	ke	that	ke	ke				
 persian	g1-f-09	0013	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0013	kolāhi	hat.indef	np:p	np		p		
-persian	g1-f-09	0013	dāšt	have.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0013	kolāhi	hat.INDF	np:p	np		p		
+persian	g1-f-09	0013	dāšt	have.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0013	#	#	#	#				
 persian	g1-f-09	0013	bāz	again	other	other				
 persian	g1-f-09	0013	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0013	dastmālgardane	neckerchief=ezafe	np:s	np		s		
-persian	g1-f-09	0013	qermezi	red.indef	rn_lex	rn_lex				
+persian	g1-f-09	0013	dastmālgardane	neckerchief=EZAFE	np:s	np		s		
+persian	g1-f-09	0013	qermezi	red.INDF	rn_lex	rn_lex				
 persian	g1-f-09	0013	dore	around	adp	adp				
 persian	g1-f-09	0013	garden	neck	np:l	np		l		
-persian	g1-f-09	0013	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0013	bud	be.pst.3sg	predex	predex				
+persian	g1-f-09	0013	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0013	bud	be.PST.3SG	predex	predex				
 persian	g1-f-09	0014	#	#	#	#				
 persian	g1-f-09	0014	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0014	savāre	sitting	other	other				
 persian	g1-f-09	0014	dočarxe	bike	np:l	np		l		
-persian	g1-f-09	0014	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0014	āmad	come.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0014	#	#	#	#				
 persian	g1-f-09	0014	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0014	rad	passing	lvc	lvc				
-persian	g1-f-09	0014	mišod	become.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0014	rad	passing	other:lvc	other		lvc		
+persian	g1-f-09	0014	mišod	become.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0014	#	#	#	#				
 persian	g1-f-09	0014	aval	first	other	other				
-persian	g1-f-09	0014	=aš	=poss.3sg	other	other				
+persian	g1-f-09	0014	=aš	=POSS.3SG	other	other				
 persian	g1-f-09	0014	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0014	xāst	want.pst.3sg	aux	aux				
+persian	g1-f-09	0014	xāst	want.PST.3SG	aux	aux				
 persian	g1-f-09	0014	yek	one	ln_qu	ln_qu				
 persian	g1-f-09	0014	dāne	piece	ln_class	ln_class				
 persian	g1-f-09	0014	golābi	pear	np:p	np		p		
-persian	g1-f-09	0014	bardārad	pick.up.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-09	0014	bardārad	pick.up.PRS.SBJV.3SG	v:pred	v		pred		
 persian	g1-f-09	0014	az	from	adp	adp				
 persian	g1-f-09	0014	tuye	inside	adp	adp				
 persian	g1-f-09	0014	sabad	basket	np:l	np		l		
@@ -254,63 +254,63 @@ persian	g1-f-09	0015	#	#	#	#
 persian	g1-f-09	0015	bad	then	other	other				
 persian	g1-f-09	0015	0	0	0.h:ncs	0	h	ncs		
 persian	g1-f-09	0015	be	to	adp	adp				
-persian	g1-f-09	0015	fekr	thought	lvc	lvc				
-persian	g1-f-09	0015	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0015	resid	reach.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0015	#cc	#cc	#cc	#cc				
+persian	g1-f-09	0015	fekr	thought	other:lvc	other		lvc		
+persian	g1-f-09	0015	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0015	resid	reach.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0015	#	#	#cc	#cc				
 persian	g1-f-09	0015	ke	that	ke	ke				
 persian	g1-f-09	0015	bahbah	interj	other	other				
 persian	g1-f-09	0015	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0015	mitavānad	can.aux.prs.3sg	aux	aux				
+persian	g1-f-09	0015	mitavānad	can.AUX.PRS.3SG	aux	aux				
 persian	g1-f-09	0015	hameye	all.of	ln_qu	ln_qu				
 persian	g1-f-09	0015	sabad	basket	np:p	np		p		
-persian	g1-f-09	0015	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0015	dāšte	have.pst.ptcp	v:pred	v		pred		
-persian	g1-f-09	0015	bāšad	be.subj.3sg	aux	aux				
-persian	g1-f-09	0015	#ac	#ac	#ac	#ac				
+persian	g1-f-09	0015	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0015	dāšte	have.PST.PTCP	v:pred	v		pred		
+persian	g1-f-09	0015	bāšad	be.SBJV.3SG	aux	aux				
+persian	g1-f-09	0015	#	#	#ac	#ac				
 persian	g1-f-09	0015	čon	because	other	other				
 persian	g1-f-09	0015	bāqbān	gardner	np.h:s	np	h	s		
 persian	g1-f-09	0015	ruye	on	adp	adp				
 persian	g1-f-09	0015	deraxt	tree	np:l	np		l		
-persian	g1-f-09	0015	ast	be.prs.3sg	cop	cop				
+persian	g1-f-09	0015	ast	be.PRS.3SG	cop	cop				
 persian	g1-f-09	0015	#	#	#neg	#neg				
 persian	g1-f-09	0015	0	0	0.h:ncs	0	h	ncs		
-persian	g1-f-09	0015	dast	hand	lvc	lvc				
-persian	g1-f-09	0015	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0015	dast	hand	other:lvc	other		lvc		
+persian	g1-f-09	0015	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0015	be	to	adp	adp				
-persian	g1-f-09	0015	=heš	=pro.3sg	=pro.h:g	=pro	h	g		
-persian	g1-f-09	0015	nemiresad	neg.reach.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0015	=heš	=PRO.3SG	=pro.h:g	=pro	h	g		
+persian	g1-f-09	0015	nemiresad	NEG.reach.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0016	#	#	#	#				
 persian	g1-f-09	0016	bad	then	other	other				
 persian	g1-f-09	0016	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0016	sabad	basket	np:p	np		p		
-persian	g1-f-09	0016	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0016	bardāšt	pick.up.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0016	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0016	bardāšt	pick.up.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0016	#	#	#	#				
 persian	g1-f-09	0016	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0016	gozāšt	put.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0016	gozāšt	put.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0016	0	0	0:p	0		p		
 persian	g1-f-09	0016	ruye	on	adp	adp				
 persian	g1-f-09	0016	dočarxe	bike	np:l	np		l		
-persian	g1-f-09	0016	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0016	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0017	#	#	#	#				
 persian	g1-f-09	0017	ke	that	ke	ke				
 persian	g1-f-09	0017	dočarxe	bike	np:s	np		s		
-persian	g1-f-09	0017	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0017	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0017	bozorgtar	bigger	other:pred	other		pred		
 persian	g1-f-09	0017	az	than	adp	adp				
 persian	g1-f-09	0017	xod	self	refl.h:obl	refl	h	obl		
-persian	g1-f-09	0017	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0017	bud	be.pst.3sg	cop	cop				
+persian	g1-f-09	0017	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0017	bud	be.PST.3SG	cop	cop				
 persian	g1-f-09	0017	#	#	#	#				
 persian	g1-f-09	0017	yek	a	other	other				
 persian	g1-f-09	0017	zare	little	other	other				
 persian	g1-f-09	0017	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0017	nāmoteādel	off-balance	other:pred	other		pred		
-persian	g1-f-09	0017	bud	be.pst.3sg	cop	cop				
+persian	g1-f-09	0017	bud	be.PST.3SG	cop	cop				
 persian	g1-f-09	0018	#	#	#	#				
 persian	g1-f-09	0018	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0018	nešast	sit.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0018	nešast	sit.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0018	ruye	on	adp	adp				
 persian	g1-f-09	0018	dočarxe	bike	np:l	np		l		
 persian	g1-f-09	0018	#	#	#	#				
@@ -324,21 +324,21 @@ persian	g1-f-09	0018	bud	bud	predex	predex
 persian	g1-f-09	0018	#	#	#	#				
 persian	g1-f-09	0018	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0018	sabad	basket	np:p	np		p		
-persian	g1-f-09	0018	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0018	gozāšt	put.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0018	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0018	gozāšt	put.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0018	ruye	on	adp	adp				
 persian	g1-f-09	0018	dočarxe	bike	np:l	np		l		
-persian	g1-f-09	0018	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0018	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0018	#	#	#	#				
 persian	g1-f-09	0018	va	and	other	other				
 persian	g1-f-09	0018	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-09	0018	pedal	pedal	lvc	lvc				
-persian	g1-f-09	0018	zad	hit.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0018	pedal	pedal	other:lvc	other		lvc		
+persian	g1-f-09	0018	zad	hit.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0018	#	#	#	#				
 persian	g1-f-09	0018	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0018	šoru	start	lvc	lvc				
-persian	g1-f-09	0018	kard	do.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0018	#cc	#cc	#cc:p	#cc		p		
+persian	g1-f-09	0018	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0018	kard	do.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0018	#	#	#cc:p	#cc		p		
 persian	g1-f-09	0018	0	0	0:s_cp	0		s_cp		
 persian	g1-f-09	0018	be	to	adp	adp				
 persian	g1-f-09	0018	harkat	moving	other	other				
@@ -348,137 +348,137 @@ persian	g1-f-09	0019	bad	then	other	other
 persian	g1-f-09	0019	hālā	now	other	other				
 persian	g1-f-09	0019	tuye	in	other	other				
 persian	g1-f-09	0019	in	this	other	other				
-persian	g1-f-09	0019	zamine	farm.def	other	other				
+persian	g1-f-09	0019	zamine	farm.DEF	other	other				
 persian	g1-f-09	0019	az	from	adp	adp				
 persian	g1-f-09	0019	ruberuy	opposite	adp	adp				
-persian	g1-f-09	0019	=aš	=poss.3sg	=pro.h:l	=pro	h	l		
+persian	g1-f-09	0019	=aš	=POSS.3SG	=pro.h:l	=pro	h	l		
 persian	g1-f-09	0019	dar	in	other	other				
 persian	g1-f-09	0019	vāqe	real	other	other				
 persian	g1-f-09	0019	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0019	doxtari	girl.indef	np.h:s	np	h	s		
+persian	g1-f-09	0019	doxtari	girl.INDF	np.h:s	np	h	s		
 persian	g1-f-09	0019	bā	with	adp	adp				
 persian	g1-f-09	0019	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0019	dočarxeye	bike=ezafe	np:obl	np		obl		
+persian	g1-f-09	0019	dočarxeye	bike=EZAFE	np:obl	np		obl		
 persian	g1-f-09	0019	digari	another	rn_lex	rn_lex				
-persian	g1-f-09	0019	dāšt	aux.pst.3sg	aux	aux				
-persian	g1-f-09	0019	miyāmad	come.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-09	0019	dāšt	AUX.PST.3SG	aux	aux				
+persian	g1-f-09	0019	miyāmad	come.PST.IPFV.3SG	v:pred	v		pred		
 persian	g1-f-09	0019	#	#	#	#				
 persian	g1-f-09	0019	ke	that	ke	ke				
 persian	g1-f-09	0019	hālā	now	other	other				
-persian	g1-f-09	0019	šayad	probably 	other	other				
+persian	g1-f-09	0019	šayad	probably	other	other				
 persian	g1-f-09	0019	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0019	mahve	faded=ezafe	lvc	lvc				
+persian	g1-f-09	0019	mahve	faded=EZAFE	other:lvc	other		lvc		
 persian	g1-f-09	0019	zibayi	beauty	other	other				
-persian	g1-f-09	0019	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0019	šod	become.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0019	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0019	šod	become.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0019	#	#	#	#				
 persian	g1-f-09	0019	yā	or	other	other				
 persian	g1-f-09	0019	hālā	now	other	other				
 persian	g1-f-09	0019	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0019	bače	kid	np.h:pred	np	h	pred		
-persian	g1-f-09	0019	bud	be.pst.3sg	cop	cop				
-persian	g1-f-09	0019	#neg	#neg	#neg	#neg				
+persian	g1-f-09	0019	bud	be.PST.3SG	cop	cop				
+persian	g1-f-09	0019	#	#	#neg	#neg				
 persian	g1-f-09	0019	0	0	0.1:a	0	1	a		
-persian	g1-f-09	0019	nemidānam	neg.know.prs.indic.1sg	v:pred	v		pred		
+persian	g1-f-09	0019	nemidānam	NEG.know.PRS.IND.1SG	v:pred	v		pred		
 persian	g1-f-09	0019	če	what	other	other				
-persian	g1-f-09	0019	šekli	form.indef	other	other				
+persian	g1-f-09	0019	šekli	form.INDF	other	other				
 persian	g1-f-09	0020	#	#	#	#				
 persian	g1-f-09	0020	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0020	ke	that	ke	ke				
-persian	g1-f-09	0020	mahve	faded=ezafe	lvc	lvc				
-persian	g1-f-09	0020	u	pro.3sg	other	other				
-persian	g1-f-09	0020	šod	become.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	mahve	faded=EZAFE	other:lvc	other		lvc		
+persian	g1-f-09	0020	u	PRO.3SG	other	other				
+persian	g1-f-09	0020	šod	become.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	#	#	#	#				
 persian	g1-f-09	0020	ke	that	ke	ke				
 persian	g1-f-09	0020	kolāh	hat	np:s	np		s		
-persian	g1-f-09	0020	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0020	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0020	dar	in	other	other				
 persian	g1-f-09	0020	vāqe	real	other	other				
-persian	g1-f-09	0020	gereft	stick.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	gereft	stick.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	be	to	adp	adp				
-persian	g1-f-09	0020	doxtare	girl.def	np.h:g	np	h	g		
-persian	g1-f-09	0020	#rc	#rc	#rc	#rc				
+persian	g1-f-09	0020	doxtare	girl.DEF	np.h:g	np	h	g		
+persian	g1-f-09	0020	#	#	#rc	#rc				
 persian	g1-f-09	0020	ke	that	ke	ke				
-persian	g1-f-09	0020	dāšt	aux.pst.3sg	aux	aux				
-persian	g1-f-09	0020	rad	passing	lvc	lvc				
-persian	g1-f-09	0020	mišod	become.pst.impf.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	dāšt	AUX.PST.3SG	aux	aux				
+persian	g1-f-09	0020	rad	passing	other:lvc	other		lvc		
+persian	g1-f-09	0020	mišod	become.PST.IPFV.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	#	#	#	#				
-persian	g1-f-09	0020	hālate	status=ezafe	other	other				
-persian	g1-f-09	0020	bāde	wind=ezafe	np:s	np		s		
+persian	g1-f-09	0020	hālate	status=EZAFE	other	other				
+persian	g1-f-09	0020	bāde	wind=EZAFE	np:s	np		s		
 persian	g1-f-09	0020	dar	in	other	other				
 persian	g1-f-09	0020	vāqe	real	other	other				
-persian	g1-f-09	0020	dočarxeye	bike=ezafe	rn_lex	rn_lex				
+persian	g1-f-09	0020	dočarxeye	bike=EZAFE	rn_lex	rn_lex				
 persian	g1-f-09	0020	ruberuyi	opposite	rn_lex	rn_lex				
-persian	g1-f-09	0020	gereft	get.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	gereft	get.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	be	to	adp	adp				
-persian	g1-f-09	0020	kolāhe	hat=ezafe	np:g	np		g		
-persian	g1-f-09	0020	in	pro.3sg	pro.h:poss	pro	h	poss		
+persian	g1-f-09	0020	kolāhe	hat=EZAFE	np:g	np		g		
+persian	g1-f-09	0020	in	PRO.3SG	rn_pro.h:poss	rn_pro	h	poss		
 persian	g1-f-09	0020	#	#	#	#				
 persian	g1-f-09	0020	kolāh	hat	np:s	np		s		
-persian	g1-f-09	0020	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0020	oftād	fall.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0020	oftād	fall.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	#	#	#	#				
 persian	g1-f-09	0020	0	0	0.h:ncs	0	h	ncs		
-persian	g1-f-09	0020	havās	attention	lvc	lvc				
-persian	g1-f-09	0020	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0020	raft	go.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0020	havās	attention	other:lvc	other		lvc		
+persian	g1-f-09	0020	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0020	raft	go.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0020	be	to	adp	adp				
 persian	g1-f-09	0020	kolāh	hat	np:g	np		g		
-persian	g1-f-09	0020	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0020	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0021	#	#	#	#				
 persian	g1-f-09	0021	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-09	0021	xord	eat.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0021	zamin	ground	lvc	lvc				
+persian	g1-f-09	0021	xord	eat.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0021	zamin	ground	other:lvc	other		lvc		
 persian	g1-f-09	0021	#	#	#	#				
-persian	g1-f-09	0021	golābihāy	pear.pl	np:s	np		s		
-persian	g1-f-09	0021	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0021	rixt	spill.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0021	golābihāy	pear.PL	np:s	np		s		
+persian	g1-f-09	0021	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0021	rixt	spill.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0021	#	#	#	#				
 persian	g1-f-09	0021	albate	of.course	other	other				
 persian	g1-f-09	0021	xob	well	other	other				
 persian	g1-f-09	0021	tuye	in	adp	adp				
-persian	g1-f-09	0021	paszamineye	background=ezafe	np:l	np		l		
+persian	g1-f-09	0021	paszamineye	background=EZAFE	np:l	np		l		
 persian	g1-f-09	0021	film	film	rn_np:poss	rn_np		poss		
 persian	g1-f-09	0021	xeyli	xeyli	other	other				
 persian	g1-f-09	0021	durbin	camera	np:s	np		s		
-persian	g1-f-09	0021	zoom	zoom	lvc	lvc				
-persian	g1-f-09	0021	karde	do.pst.ptcp	v:pred	v		pred		
-persian	g1-f-09	0021	bud	aux.pst.3sg	aux	aux				
+persian	g1-f-09	0021	zoom	zoom	other:lvc	other		lvc		
+persian	g1-f-09	0021	karde	do.PST.PTCP	v:pred	v		pred		
+persian	g1-f-09	0021	bud	AUX.PST.3SG	aux	aux				
 persian	g1-f-09	0021	ruye	on	adp	adp				
-persian	g1-f-09	0021	golābihā	pear.pl	no:obl	no		obl		
+persian	g1-f-09	0021	golābihā	pear.PL	np:obl	np		obl		
 persian	g1-f-09	0021	#	#	#	#				
 persian	g1-f-09	0021	0	0	0:s	0		s		
-persian	g1-f-09	0021	manovr	 manoeuvre	lvc	lvc				
-persian	g1-f-09	0021	midād,	give.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0021	manovr	 manoeuvre	other:lvc	other		lvc		
+persian	g1-f-09	0021	midād,	give.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0021	ruye	on	adp	adp				
 persian	g1-f-09	0021	sabad,	basket	np:obl	np		obl		
 persian	g1-f-09	0021	golābi,	pear	other	other				
 persian	g1-f-09	0021	#	#	#	#				
 persian	g1-f-09	0021	golābi	paer	np:s	np		s		
 persian	g1-f-09	0021	ke	that	ke	ke				
-persian	g1-f-09	0021	oftād	fall.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0021	oftād	fall.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0021	ruye	on	adp	adp				
 persian	g1-f-09	0021	zamin	ground	np:l	np		l		
 persian	g1-f-09	0022	#	#	#	#				
 persian	g1-f-09	0022	bad	then	other	other				
 persian	g1-f-09	0022	dige	so	other	other				
-persian	g1-f-09	0022	pesare	boy.def	np.h:s	np	h	s		
-persian	g1-f-09	0022	boland	high	lvc	lvc				
-persian	g1-f-09	0022	šod	become.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0022	pesare	boy.DEF	np.h:s	np	h	s		
+persian	g1-f-09	0022	boland	high	other:lvc	other		lvc		
+persian	g1-f-09	0022	šod	become.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0022	#	#	#	#				
 persian	g1-f-09	0022	pāy	leg	np:s_cp	np		s_cp		
-persian	g1-f-09	0022	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0022	dard	pain	lvc	lvc				
-persian	g1-f-09	0022	mikard	do.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0022	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0022	dard	pain	other:lvc	other		lvc		
+persian	g1-f-09	0022	mikard	do.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0022	#	#	#	#				
 persian	g1-f-09	0022	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0022	šoru	start	lvc	lvc				
-persian	g1-f-09	0022	kard	do.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0022	#cc	#cc	#cc:p	#cc		p		
+persian	g1-f-09	0022	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0022	kard	do.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0022	#	#	#cc:p	#cc		p		
 persian	g1-f-09	0022	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0022	lebāshāy	clothes.pl	np:p	np		p		
-persian	g1-f-09	0022	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0022	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-09	0022	lebāshāy	clothes.PL	np:p	np		p		
+persian	g1-f-09	0022	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0022	=rā	=ACC	=rn_acc	=rn_acc				
 persian	g1-f-09	0022	tekāndan	shaking	vother	vother				
 persian	g1-f-09	0023	#	#	#	#				
 persian	g1-f-09	0023	yek	a	other	other				
@@ -486,8 +486,8 @@ persian	g1-f-09	0023	zarre	little	other	other
 persian	g1-f-09	0023	dar	in	other	other				
 persian	g1-f-09	0023	vāqe	real	other	other				
 persian	g1-f-09	0023	pāy	leg	np:p	np		p		
-persian	g1-f-09	0023	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0023	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-09	0023	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0023	=rā	=ACC	=rn_acc	=rn_acc				
 persian	g1-f-09	0023	nāz	coddle	other	other				
 persian	g1-f-09	0023	kardan	doing	vother	vother				
 persian	g1-f-09	0023	#	#	#	#				
@@ -496,46 +496,46 @@ persian	g1-f-09	0023	in	this	other	other
 persian	g1-f-09	0023	ke	that	other	other				
 persian	g1-f-09	0023	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0023	dard	pain	np:p	np		p		
-persian	g1-f-09	0023	dārad	have.prs.3sg	v:pred	v		pred		
+persian	g1-f-09	0023	dārad	have.PRS.3SG	v:pred	v		pred		
 persian	g1-f-09	0024	#	#	#	#				
 persian	g1-f-09	0024	bad	then	other	other				
 persian	g1-f-09	0024	0	0	0:a	0		a		
 persian	g1-f-09	0024	se	three	ln_qu	ln_qu				
 persian	g1-f-09	0024	tā	piece	ln_class	ln_class				
 persian	g1-f-09	0024	bače	kid	np.h:p	np	h	p		
-persian	g1-f-09	0024	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0024	nešun	show	lvc	lvc				
-persian	g1-f-09	0024	dād	give.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0024	#rc	#rc	#rc	#rc				
+persian	g1-f-09	0024	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0024	nešun	show	other:lvc	other		lvc		
+persian	g1-f-09	0024	dād	give.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0024	#	#	#rc	#rc				
 persian	g1-f-09	0024	ke	that	ke	ke				
 persian	g1-f-09	0024	az	from	other	other				
 persian	g1-f-09	0024	dur	far	other	other				
-persian	g1-f-09	0024	istāde	stand.pst.ptcp	v:pred	v		pred		
-persian	g1-f-09	0024	budand	aux.pst.3pl	aux	aux				
+persian	g1-f-09	0024	istāde	stand.PST.PTCP	v:pred	v		pred		
+persian	g1-f-09	0024	budand	AUX.PST.3PL	aux	aux				
 persian	g1-f-09	0024	#	#	#	#				
 persian	g1-f-09	0024	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0024	in	pro.3sg	pro.h:p	pro	h	p		
-persian	g1-f-09	0024	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0024	negāh	look	lvc	lvc				
-persian	g1-f-09	0024	mikardand	do.pst.indic.3pl	v:pred	v		pred		
+persian	g1-f-09	0024	in	PRO.3SG	pro.h:p	pro	h	p		
+persian	g1-f-09	0024	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0024	negāh	look	other:lvc	other		lvc		
+persian	g1-f-09	0024	mikardand	do.PST.IND.3PL	v:pred	v		pred		
 persian	g1-f-09	0024	#	#	#	#				
 persian	g1-f-09	0024	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0024	āmadand	come.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0024	āmadand	come.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0024	nazdik	close	other	other				
 persian	g1-f-09	0024	#	#	#	#				
 persian	g1-f-09	0024	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0024	be	to	adp	adp				
-persian	g1-f-09	0024	=heš	=pro.3sg	=pro.h:p	=pro	h	p		
-persian	g1-f-09	0024	komak	help	lvc	lvc				
-persian	g1-f-09	0024	kardand	do.pst.3pl	v:pred	v		pred		
-persian	g1-f-09	0025	#cc	#cc	#cc	#cc				
+persian	g1-f-09	0024	=heš	=PRO.3SG	=pro.h:p	=pro	h	p		
+persian	g1-f-09	0024	komak	help	other:lvc	other		lvc		
+persian	g1-f-09	0024	kardand	do.PST.3PL	v:pred	v		pred		
+persian	g1-f-09	0025	#	#	#cc	#cc				
 persian	g1-f-09	0025	ke	that	ke	ke				
 persian	g1-f-09	0025	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0025	golābihā	pear.pl	np:p	np		p		
-persian	g1-f-09	0025	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0025	jam	collected	lvc	lvc				
-persian	g1-f-09	0025	kard	do.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0025	#nc	#nc	#nc	#nc				
+persian	g1-f-09	0025	golābihā	pear.PL	np:p	np		p		
+persian	g1-f-09	0025	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0025	jam	collected	other:lvc	other		lvc		
+persian	g1-f-09	0025	kard	do.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0025	#	#	#nc	#nc				
 persian	g1-f-09	0025	ye	NC	nc	nc				
 persian	g1-f-09	0025	kodām	NC	nc	nc				
 persian	g1-f-09	0025	az	NC	nc	nc				
@@ -566,95 +566,95 @@ persian	g1-f-09	0025	šāyad	NC	nc	nc
 persian	g1-f-09	0026	#	#	#	#				
 persian	g1-f-09	0026	vali	but	other	other				
 persian	g1-f-09	0026	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0026	komak	help	lvc	lvc				
-persian	g1-f-09	0026	kardand	do.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0026	komak	help	other:lvc	other		lvc		
+persian	g1-f-09	0026	kardand	do.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0026	be	to	adp	adp				
-persian	g1-f-09	0026	pesrare	boy.def	np:p	np		p		
+persian	g1-f-09	0026	pesrare	boy.DEF	np:p	np		p		
 persian	g1-f-09	0026	#	#	#	#				
 persian	g1-f-09	0026	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0026	golābihāy	pear.pl	np:p	np		p		
-persian	g1-f-09	0026	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0026	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0026	jam	collected	lvc	lvc				
-persian	g1-f-09	0026	kard	do.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0026	golābihāy	pear.PL	np:p	np		p		
+persian	g1-f-09	0026	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0026	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0026	jam	collected	other:lvc	other		lvc		
+persian	g1-f-09	0026	kard	do.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0026	#	#	#	#				
 persian	g1-f-09	0026	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0026	tuye	in	adp	adp				
 persian	g1-f-09	0026	sabad	basket	np:l	np		l		
-persian	g1-f-09	0026	gozāšt	put.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0026	gozāšt	put.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0026	0	0	0:p	0		p		
 persian	g1-f-09	0027	#	#	#	#				
 persian	g1-f-09	0027	bad	then	other	other				
 persian	g1-f-09	0027	0	0	0.h:s_cp	0	h	s_cp		
 persian	g1-f-09	0027	bā	with	adp	adp				
 persian	g1-f-09	0027	rāket	racket	np:obl	np		obl		
-persian	g1-f-09	0027	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-09	0027	bāzi	playing	lvc	lvc				
-persian	g1-f-09	0027	mikard	do.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0027	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-09	0027	bāzi	PLaying	other:lvc	other		lvc		
+persian	g1-f-09	0027	mikard	do.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0027	#	#	#	#				
-persian	g1-f-09	0027	pesare	boy.def	np.h:a	np	h	a		
+persian	g1-f-09	0027	pesare	boy.DEF	np.h:a	np	h	a		
 persian	g1-f-09	0027	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0027	raketi	racket.indef	np:p	np		p		
-persian	g1-f-09	0027	dāšt	have.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0027	raketi	racket.INDF	np:p	np		p		
+persian	g1-f-09	0027	dāšt	have.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0027	#	#	#	#				
 persian	g1-f-09	0027	ke	that	ke	ke				
 persian	g1-f-09	0027	modām	nonstop	other	other				
 persian	g1-f-09	0027	yani	meaning	other	other				
-persian	g1-f-09	0027	sedāye	sound=ezafe	np:s	np		s		
+persian	g1-f-09	0027	sedāye	sound=EZAFE	np:s	np		s		
 persian	g1-f-09	0027	ān	that	rn_dem	rn_dem				
 persian	g1-f-09	0027	tup	ball	rn_np:poss	rn_np		poss		
 persian	g1-f-09	0027	engār	like	other	other				
 persian	g1-f-09	0027	ke	that	ke	ke				
 persian	g1-f-09	0027	masalan	for.example	other	other				
 persian	g1-f-09	0027	yek	one	ln_deti	ln_deti				
-persian	g1-f-09	0027	musiqie	music=ezafe	np:pred	np		pred		
+persian	g1-f-09	0027	musiqie	music=EZAFE	np:pred	np		pred		
 persian	g1-f-09	0027	matni	background	rn_lex	rn_lex				
-persian	g1-f-09	0027	bāšad	be.prs.subj.3sg	cop	cop				
+persian	g1-f-09	0027	bāšad	be.PRS.SBJV.3SG	cop	cop				
 persian	g1-f-09	0027	#	#	#	#				
 persian	g1-f-09	0027	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0027	hey	continually	other	other				
 persian	g1-f-09	0027	tup	ball	np:p	np		p		
-persian	g1-f-09	0027	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-09	0027	=rā	=ACC	=rn_acc	=rn_acc				
 persian	g1-f-09	0027	ruye	on	adp	adp				
 persian	g1-f-09	0027	rāket	racket	np:l	np		l		
-persian	g1-f-09	0027	bāzi	playing	lvc	lvc				
-persian	g1-f-09	0027	midād	give.pst.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0027	bāzi	PLaying	other:lvc	other		lvc		
+persian	g1-f-09	0027	midād	give.PST.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0028	#	#	#	#				
 persian	g1-f-09	0028	ke	ke	ke	ke				
 persian	g1-f-09	0028	bad	then	other	other				
 persian	g1-f-09	0028	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-09	0028	komak	help	lvc	lvc				
-persian	g1-f-09	0028	kard	do.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0028	#cc	#cc	#cc	#cc				
+persian	g1-f-09	0028	komak	help	other:lvc	other		lvc		
+persian	g1-f-09	0028	kard	do.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0028	#	#	#cc	#cc				
 persian	g1-f-09	0028	ke	that	ke	ke				
 persian	g1-f-09	0028	dobāre	again	other	other				
 persian	g1-f-09	0028	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0028	sabad	basket	np:p	np		p		
-persian	g1-f-09	0028	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0028	bogzārad	put.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-09	0028	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0028	bogzārad	put.PRS.SBJV.3SG	v:pred	v		pred		
 persian	g1-f-09	0028	#	#	#	#				
 persian	g1-f-09	0028	in	this	ln_dem	ln_dem				
-persian	g1-f-09	0028	pesare	boy.def	np.h:s	np	h	s		
+persian	g1-f-09	0028	pesare	boy.DEF	np.h:s	np	h	s		
 persian	g1-f-09	0028	dobāre	again	other	other				
-persian	g1-f-09	0028	bargašt	return.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0028	#cc	#cc	#cc	#cc				
+persian	g1-f-09	0028	bargašt	return.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0028	#	#	#cc	#cc				
 persian	g1-f-09	0028	ke	that	ke	ke				
 persian	g1-f-09	0028	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0028	sabade	basket=ezafe	np:p	np		p		
+persian	g1-f-09	0028	sabade	basket=EZAFE	np:p	np		p		
 persian	g1-f-09	0028	por	full	rn_lex	rn_lex				
 persian	g1-f-09	0028	az	of	rn_adp	rn_adp				
-persian	g1-f-09	0028	golābi	pear	rn_np:obl	rn_np		obl		
-persian	g1-f-09	0028	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0028	bogzārad	put.prs.subj.3sg	v:pred	v		pred		
+persian	g1-f-09	0028	golābi	pear	rn_np:poss	rn_np		poss		
+persian	g1-f-09	0028	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0028	bogzārad	put.PRS.SBJV.3SG	v:pred	v		pred		
 persian	g1-f-09	0028	ruye	on	adp	adp				
 persian	g1-f-09	0028	dočarxe	bike	np:l	np		l		
 persian	g1-f-09	0028	#	#	#	#				
 persian	g1-f-09	0028	va	and	other	other				
 persian	g1-f-09	0028	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-09	0028	bexahad	want.prs.subj.3sg	aux	aux				
-persian	g1-f-09	0028	harkat	moving	lvc	lvc				
-persian	g1-f-09	0028	konad	do.prs.subj.3sg	v:pred	v		pred		
-persian	g1-f-09	0029	#nc	#nc	#nc	#nc				
+persian	g1-f-09	0028	bexahad	want.PRS.SBJV.3SG	aux	aux				
+persian	g1-f-09	0028	harkat	moving	other:lvc	other		lvc		
+persian	g1-f-09	0028	konad	do.PRS.SBJV.3SG	v:pred	v		pred		
+persian	g1-f-09	0029	#	#	#nc	#nc				
 persian	g1-f-09	0029	bad	NC	nc	nc				
 persian	g1-f-09	0029	se	NC	nc	nc				
 persian	g1-f-09	0029	tā	NC	nc	nc				
@@ -670,106 +670,106 @@ persian	g1-f-09	0029	inke	NC	nc	nc
 persian	g1-f-09	0029	#	#	#	#				
 persian	g1-f-09	0029	0	0	0.h:a	0	h	a		
 persian	g1-f-09	0029	in	this	ln_dem	ln_dem				
-persian	g1-f-09	0029	kārhā	work.pl	np:p	np		p		
-persian	g1-f-09	0029	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0029	kardand	do.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0029	kārhā	work.PL	np:p	np		p		
+persian	g1-f-09	0029	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0029	kardand	do.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0029	#	#	#	#				
 persian	g1-f-09	0029	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0029	golābihā	pear.pl	np:p	np		p		
-persian	g1-f-09	0029	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-09	0029	bardāštand	pick.up.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0029	golābihā	pear.PL	np:p	np		p		
+persian	g1-f-09	0029	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-09	0029	bardāštand	pick.up.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0030	#	#	#	#				
 persian	g1-f-09	0030	va	and	other	other				
 persian	g1-f-09	0030	0	0	0.h:s	0	h	s		
 persian	g1-f-09	0030	dar	in	other	other				
 persian	g1-f-09	0030	hāle	condition.of	other	other				
 persian	g1-f-09	0030	xordan	eating	vother	vother				
-persian	g1-f-09	0030	bargaštand	return.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0030	bargaštand	return.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0030	#	#	#	#				
 persian	g1-f-09	0030	va	and	other	other				
-persian	g1-f-09	0030	pesare	boy.def	np.h:s	np	h	s		
-persian	g1-f-09	0030	raft	go.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0030	pesare	boy.DEF	np.h:s	np	h	s		
+persian	g1-f-09	0030	raft	go.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0031	#	#	#	#				
 persian	g1-f-09	0031	va	and	other	other				
-persian	g1-f-09	0031	inhā	pro.3pl	pro.h:s	pro	h	s		
+persian	g1-f-09	0031	inhā	PRO.3PL	pro.h:s	pro	h	s		
 persian	g1-f-09	0031	ham	add	other	other				
-persian	g1-f-09	0031	bargaštand	return.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0031	bargaštand	return.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0031	#	#	#	#				
 persian	g1-f-09	0031	va	and	other	other				
 persian	g1-f-09	0031	dar	in	other	other				
 persian	g1-f-09	0031	vāqe	real	other	other				
 persian	g1-f-09	0031	bāqbān	gardner	np.h:s	np	h	s		
-persian	g1-f-09	0031	āmad	come.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0031	āmad	come.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0031	pāyin	down	rv	rv				
 persian	g1-f-09	0032	#	#	#	#				
 persian	g1-f-09	0032	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0032	šoru	start	lvc	lvc				
-persian	g1-f-09	0032	kard	do.pst.3sg	v:pred	v		pred		
+persian	g1-f-09	0032	šoru	start	other:lvc	other		lvc		
+persian	g1-f-09	0032	kard	do.PST.3SG	v:pred	v		pred		
 persian	g1-f-09	0032	#	#	#cc:p	#cc		p		
 persian	g1-f-09	0032	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-09	0032	negāh	look	lvc	lvc				
+persian	g1-f-09	0032	negāh	look	other:lvc	other		lvc		
 persian	g1-f-09	0032	kardan	doing	vother	vother				
 persian	g1-f-09	0032	#	#	#	#				
 persian	g1-f-09	0032	0	0	0.h:a	0	h	a		
-persian	g1-f-09	0032	did	see.pst.3sg	v:pred	v		pred		
-persian	g1-f-09	0032	#cc	#cc	#cc:p	#cc		p		
-persian	g1-f-09	0032	yeki	one	ind_pro:s	ind_pro		s		
+persian	g1-f-09	0032	did	see.PST.3SG	v:pred	v		pred		
+persian	g1-f-09	0032	#	#	#cc:p	#cc		p		
+persian	g1-f-09	0032	yeki	one	indef_other:s	indef_other		s		
 persian	g1-f-09	0032	az	of	rn_adp	rn_adp				
-persian	g1-f-09	0032	sabadhāy	basket.pl	rn_np:obl	rn_np		obl		
-persian	g1-f-09	0032	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0032	sabadhāy	basket.PL	rn_np:poss	rn_np		poss		
+persian	g1-f-09	0032	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0032	kam	less	other:pred	other		pred		
-persian	g1-f-09	0032	ast	be.prs.3sg	cop	cop				
+persian	g1-f-09	0032	ast	be.PRS.3SG	cop	cop				
 persian	g1-f-09	0033	#	#	#	#				
 persian	g1-f-09	0033	bad	then	other	other				
 persian	g1-f-09	0033	hālā	now	other	other				
 persian	g1-f-09	0033	durbin	camera	np:a	np		a		
-persian	g1-f-09	0033	nešān	show	lvc	lvc				
-persian	g1-f-09	0033	midād	give.pst.indic.3sg	v:pred	v		pred		
-persian	g1-f-09	0033	#cc	#cc	#cc:p	#cc		p		
+persian	g1-f-09	0033	nešān	show	other:lvc	other		lvc		
+persian	g1-f-09	0033	midād	give.PST.IND.3SG	v:pred	v		pred		
+persian	g1-f-09	0033	#	#	#cc:p	#cc		p		
 persian	g1-f-09	0033	ke	that	ke	ke				
-persian	g1-f-09	0033	golābihā	pear.pl	np:p	np		p		
-persian	g1-f-09	0033	=rā	=acc	=acc_rn	=acc_rn				
+persian	g1-f-09	0033	golābihā	pear.PL	np:p	np		p		
+persian	g1-f-09	0033	=rā	=ACC	=rn_acc	=rn_acc				
 persian	g1-f-09	0033	bāqbān	gardner	np.h:a	np	h	a		
 persian	g1-f-09	0033	dar	in	adp	adp				
-persian	g1-f-09	0033	daste	hand=ezafe	np:l	np		l		
-persian	g1-f-09	0033	inhā	pro.3pl	pro.h:poss	pro	h	poss		
-persian	g1-f-09	0033	darad	aux.prs.3sg	aux	aux				
-persian	g1-f-09	0033	mibinad	see.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0033	daste	hand=EZAFE	np:l	np		l		
+persian	g1-f-09	0033	inhā	PRO.3PL	rn_pro.h:poss	rn_pro	h	poss		
+persian	g1-f-09	0033	darad	AUX.PRS.3SG	aux	aux				
+persian	g1-f-09	0033	mibinad	see.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0033	#	#	#	#				
 persian	g1-f-09	0033	ke	that	ke	ke				
-persian	g1-f-09	0033	inhā	pro.3pl	pro.h:a	pro	h	a		
+persian	g1-f-09	0033	inhā	PRO.3PL	pro.h:a	pro	h	a		
 persian	g1-f-09	0033	bā	with	adp	adp				
 persian	g1-f-09	0033	hālate	condition.of	other	other				
 persian	g1-f-09	0033	xordan	eating	vother	vother				
-persian	g1-f-09	0033	dārand	aux.prs.3pl	aux	aux				
-persian	g1-f-09	0033	mixorand	eat.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-09	0033	dārand	AUX.PRS.3PL	aux	aux				
+persian	g1-f-09	0033	mixorand	eat.PRS.IND.3PL	v:pred	v		pred		
 persian	g1-f-09	0033	#	#	#	#				
 persian	g1-f-09	0033	va	and	other	other				
 persian	g1-f-09	0033	0	0	0:s	0		s		
-persian	g1-f-09	0033	rad	passing	lvc	lvc				
-persian	g1-f-09	0033	mišavand	become.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-09	0033	rad	passing	other:lvc	other		lvc		
+persian	g1-f-09	0033	mišavand	become.PRS.IND.3PL	v:pred	v		pred		
 persian	g1-f-09	0034	#	#	#neg	#neg				
 persian	g1-f-09	0034	va	and	other	other				
-persian	g1-f-09	0034	kāri	work.indef	lvc	lvc				
+persian	g1-f-09	0034	kāri	work.INDF	other:lvc	other		lvc		
 persian	g1-f-09	0034	ham	add	other	other				
 persian	g1-f-09	0034	xob	well	other	other				
 persian	g1-f-09	0034	0	0	0.h:ncs	0	h	ncs		
-persian	g1-f-09	0034	az	from	lvc	lvc				
-persian	g1-f-09	0034	dast	hand	lvc	lvc				
-persian	g1-f-09	0034	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g1-f-09	0034	az	from	other:lvc	other		lvc		
+persian	g1-f-09	0034	dast	hand	other:lvc	other		lvc		
+persian	g1-f-09	0034	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g1-f-09	0034	šāyad	probably	other	other				
-persian	g1-f-09	0034	barnemiyāmad	neg.succeed.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-09	0034	barnemiyāmad	NEG.succeed.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-09	0034	digar	so	other	other				
 persian	g1-f-09	0034	#	#	#	#				
-persian	g1-f-09	0034	sabade	basket=ezafe	np:s	np		s		
-persian	g1-f-09	0034	golābie	pear=ezafe	np:poss	np		poss		
-persian	g1-f-09	0034	u	pro.3sg	pro.h:poss	pro	h	poss		
-persian	g1-f-09	0034	bud	be.pst.3sg	cop	cop				
+persian	g1-f-09	0034	sabade	basket=EZAFE	np:s	np		s		
+persian	g1-f-09	0034	golābie	pear=EZAFE	rn_np:poss	rn_np		poss		
+persian	g1-f-09	0034	u	PRO.3SG	rn_pro.h:poss	rn_pro	h	poss		
+persian	g1-f-09	0034	bud	be.PST.3SG	cop	cop				
 persian	g1-f-09	0034	#	#	#	#				
 persian	g1-f-09	0034	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0034	rad	passing	lvc	lvc				
-persian	g1-f-09	0034	šodand	become.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0034	rad	passing	other:lvc	other		lvc		
+persian	g1-f-09	0034	šodand	become.PST.3PL	v:pred	v		pred		
 persian	g1-f-09	0034	#	#	#	#				
 persian	g1-f-09	0034	va	and	other	other				
 persian	g1-f-09	0034	0	0	0.h:s	0	h	s		
-persian	g1-f-09	0034	raftand.	go.pst.3pl	v:pred	v		pred		
+persian	g1-f-09	0034	raftand.	go.PST.3PL	v:pred	v		pred		

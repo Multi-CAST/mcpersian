@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2016-06-23T15:05:12+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2019-05-07T13:31:16+01:00" FORMAT="2.8" VERSION="2.8" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="mc_persian_g2-f-05.wav" MIME_TYPE="audio/x-wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4811ca0d-c8c8-4a7b-b99d-4aaf66100336</PROPERTY>
@@ -97,7 +97,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a701" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>amā sabadaš rā kollan bardāšt </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>amā sabadaš rā kollan bardāšt</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -184,7 +184,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a718" ANNOTATION_REF="a698" PREVIOUS_ANNOTATION="a717">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -269,7 +269,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a735" ANNOTATION_REF="a699" PREVIOUS_ANNOTATION="a734">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -709,7 +709,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a823" ANNOTATION_REF="a705">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -809,7 +809,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a843" ANNOTATION_REF="a706">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -919,7 +919,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a865" ANNOTATION_REF="a707">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -989,7 +989,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a879" ANNOTATION_REF="a707" PREVIOUS_ANNOTATION="a878">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1056,7 +1056,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a892" ANNOTATION_REF="a710">
-                <ANNOTATION_VALUE>man.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>man.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1081,7 +1081,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a897" ANNOTATION_REF="a715">
-                <ANNOTATION_VALUE>aux.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>AUX.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1091,12 +1091,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a899" ANNOTATION_REF="a717">
-                <ANNOTATION_VALUE>fruit.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a900" ANNOTATION_REF="a718">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1111,12 +1111,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a903" ANNOTATION_REF="a721">
-                <ANNOTATION_VALUE>plant.pst.ptcp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>plant.PST.PTCP</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a904" ANNOTATION_REF="a722">
-                <ANNOTATION_VALUE>aux.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>AUX.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1126,7 +1126,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a906" ANNOTATION_REF="a724">
-                <ANNOTATION_VALUE>aux.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>AUX.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1136,7 +1136,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a908" ANNOTATION_REF="a726">
-                <ANNOTATION_VALUE>do.pst.impf.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PST.IPFV.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1156,7 +1156,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a912" ANNOTATION_REF="a730">
-                <ANNOTATION_VALUE>man.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>man.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1176,12 +1176,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a916" ANNOTATION_REF="a734">
-                <ANNOTATION_VALUE>do.prs.indic.1sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.1SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a917" ANNOTATION_REF="a735">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1201,7 +1201,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a921" ANNOTATION_REF="a739">
-                <ANNOTATION_VALUE>be.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>be.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1211,7 +1211,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a923" ANNOTATION_REF="a741">
-                <ANNOTATION_VALUE>come.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1231,7 +1231,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a927" ANNOTATION_REF="a745">
-                <ANNOTATION_VALUE>become.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>become.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1251,7 +1251,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a931" ANNOTATION_REF="a749">
-                <ANNOTATION_VALUE>boy.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>boy.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1271,7 +1271,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a935" ANNOTATION_REF="a753">
-                <ANNOTATION_VALUE>come.pst..3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come.PST..3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1291,7 +1291,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a939" ANNOTATION_REF="a757">
-                <ANNOTATION_VALUE>want.pst.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>want.PST.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1306,7 +1306,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a942" ANNOTATION_REF="a760">
-                <ANNOTATION_VALUE>pick.prs.subj.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pick.PRS.SBJV.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1331,12 +1331,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a947" ANNOTATION_REF="a765">
-                <ANNOTATION_VALUE>=poss.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=POSS.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a948" ANNOTATION_REF="a766">
-                <ANNOTATION_VALUE>=acc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ACC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1346,7 +1346,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a950" ANNOTATION_REF="a768">
-                <ANNOTATION_VALUE>pick.pst.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>pick.PST.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1391,7 +1391,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a959" ANNOTATION_REF="a777">
-                <ANNOTATION_VALUE>do.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1406,12 +1406,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a962" ANNOTATION_REF="a780">
-                <ANNOTATION_VALUE>fruit.pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a963" ANNOTATION_REF="a781">
-                <ANNOTATION_VALUE>spill.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>spill.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1436,7 +1436,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a968" ANNOTATION_REF="a786">
-                <ANNOTATION_VALUE>fruit.pl.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.PL.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1446,7 +1446,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a970" ANNOTATION_REF="a788">
-                <ANNOTATION_VALUE>spill.pst.ptcp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>spill.PST.PTCP</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1476,7 +1476,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a976" ANNOTATION_REF="a794">
-                <ANNOTATION_VALUE>come.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1496,7 +1496,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a980" ANNOTATION_REF="a798">
-                <ANNOTATION_VALUE>=pro.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1506,7 +1506,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a982" ANNOTATION_REF="a800">
-                <ANNOTATION_VALUE>do.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1526,12 +1526,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a986" ANNOTATION_REF="a804">
-                <ANNOTATION_VALUE>fruit.pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a987" ANNOTATION_REF="a805">
-                <ANNOTATION_VALUE>=acc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ACC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1541,7 +1541,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a989" ANNOTATION_REF="a807">
-                <ANNOTATION_VALUE>do.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1561,12 +1561,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a993" ANNOTATION_REF="a811">
-                <ANNOTATION_VALUE>fruit.pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a994" ANNOTATION_REF="a812">
-                <ANNOTATION_VALUE>=acc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ACC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1581,7 +1581,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a997" ANNOTATION_REF="a815">
-                <ANNOTATION_VALUE>do.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1591,7 +1591,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a999" ANNOTATION_REF="a817">
-                <ANNOTATION_VALUE>hat=ezafe</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hat=EZAFE</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1616,12 +1616,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1004" ANNOTATION_REF="a822">
-                <ANNOTATION_VALUE>fall.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fall.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1005" ANNOTATION_REF="a823">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1641,7 +1641,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1009" ANNOTATION_REF="a827">
-                <ANNOTATION_VALUE>go.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>go.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1656,7 +1656,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1012" ANNOTATION_REF="a830">
-                <ANNOTATION_VALUE>=pro.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1666,7 +1666,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1014" ANNOTATION_REF="a832">
-                <ANNOTATION_VALUE>hit.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hit.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1691,7 +1691,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1019" ANNOTATION_REF="a837">
-                <ANNOTATION_VALUE>hit.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>hit.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1711,17 +1711,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1023" ANNOTATION_REF="a841">
-                <ANNOTATION_VALUE>=pro.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1024" ANNOTATION_REF="a842">
-                <ANNOTATION_VALUE>do.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>do.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1025" ANNOTATION_REF="a843">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1741,7 +1741,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1029" ANNOTATION_REF="a847">
-                <ANNOTATION_VALUE>aux.prs.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>AUX.PRS.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1751,12 +1751,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1031" ANNOTATION_REF="a849">
-                <ANNOTATION_VALUE>=poss.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=POSS.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1032" ANNOTATION_REF="a850">
-                <ANNOTATION_VALUE>=acc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ACC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1766,12 +1766,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1034" ANNOTATION_REF="a852">
-                <ANNOTATION_VALUE>=pro.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1035" ANNOTATION_REF="a853">
-                <ANNOTATION_VALUE>give.prs.subj.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>give.PRS.SBJV.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1821,17 +1821,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1045" ANNOTATION_REF="a863">
-                <ANNOTATION_VALUE>=pro.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1046" ANNOTATION_REF="a864">
-                <ANNOTATION_VALUE>give.prs.indic.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>give.PRS.IND.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1047" ANNOTATION_REF="a865">
-                <ANNOTATION_VALUE>#ac</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1856,22 +1856,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1052" ANNOTATION_REF="a870">
-                <ANNOTATION_VALUE>fruit.pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>fruit.PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1053" ANNOTATION_REF="a871">
-                <ANNOTATION_VALUE>=acc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=ACC</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1054" ANNOTATION_REF="a872">
-                <ANNOTATION_VALUE>aux.prs.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>AUX.PRS.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1055" ANNOTATION_REF="a873">
-                <ANNOTATION_VALUE>eat.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>eat.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1896,12 +1896,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1060" ANNOTATION_REF="a878">
-                <ANNOTATION_VALUE>man.indef</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>man.INDF</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1061" ANNOTATION_REF="a879">
-                <ANNOTATION_VALUE>#rc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1921,17 +1921,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1065" ANNOTATION_REF="a883">
-                <ANNOTATION_VALUE>=pro.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=PRO.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1066" ANNOTATION_REF="a884">
-                <ANNOTATION_VALUE>steal.pst.ptcp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>steal.PST.PTCP</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1067" ANNOTATION_REF="a885">
-                <ANNOTATION_VALUE>become.prs.3sg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>become.PRS.3SG</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1951,7 +1951,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1071" ANNOTATION_REF="a889">
-                <ANNOTATION_VALUE>become.prs.indic.3pl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>become.PRS.IND.3PL</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -2043,7 +2043,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1089" ANNOTATION_REF="a907">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2083,7 +2083,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1097" ANNOTATION_REF="a915">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2138,7 +2138,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1108" ANNOTATION_REF="a926">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2243,12 +2243,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1129" ANNOTATION_REF="a947">
-                <ANNOTATION_VALUE>=pro.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_pro.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a948">
-                <ANNOTATION_VALUE>=acc_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_acc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2298,7 +2298,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1140" ANNOTATION_REF="a958">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2413,7 +2413,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1163" ANNOTATION_REF="a981">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2443,12 +2443,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1169" ANNOTATION_REF="a987">
-                <ANNOTATION_VALUE>=acc_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_acc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1170" ANNOTATION_REF="a988">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2478,7 +2478,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1176" ANNOTATION_REF="a994">
-                <ANNOTATION_VALUE>=acc_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_acc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2488,7 +2488,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1178" ANNOTATION_REF="a996">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2563,17 +2563,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1193" ANNOTATION_REF="a1011">
-                <ANNOTATION_VALUE>ind_pro.h:s_cp</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>indef_other.h:s_cp</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1194" ANNOTATION_REF="a1012">
-                <ANNOTATION_VALUE>=pro.h:obl</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_pro.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1195" ANNOTATION_REF="a1013">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2598,7 +2598,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1200" ANNOTATION_REF="a1018">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2618,7 +2618,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1204" ANNOTATION_REF="a1022">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2663,12 +2663,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1213" ANNOTATION_REF="a1031">
-                <ANNOTATION_VALUE>=pro.h:poss</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_pro.h:poss</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1214" ANNOTATION_REF="a1032">
-                <ANNOTATION_VALUE>=acc_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_acc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2773,7 +2773,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1235" ANNOTATION_REF="a1053">
-                <ANNOTATION_VALUE>=acc_rn</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>=rn_acc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2858,12 +2858,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1252" ANNOTATION_REF="a1070">
-                <ANNOTATION_VALUE>lvc</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>other:lvc</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1253" ANNOTATION_REF="a1071">
-                <ANNOTATION_VALUE>mišavand</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>v:pred</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

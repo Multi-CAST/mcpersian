@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Adibifar, Shirin. 2016. Multi-CAST Persian. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1606. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#persian) (date accessed)
+  > Adibifar, Shirin. 2019. Multi-CAST Persian. In Haig, Geoffrey & Schnell, Stefan (eds.), Multi-CAST: Multilingual corpus of annotated spoken texts. Version 1905. Bamberg: University of Bamberg. (multicast.aspra.uni-bamberg.de/#persian) (date accessed)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ![](cldf/media/image.jpg)
@@ -107,27 +107,27 @@ information on all annotated categories, including those not listed here.
 
 | GRAID | ⟨:s⟩ | ⟨:a⟩ | ⟨:ncs⟩ | ⟨:p⟩ | ⟨:obl⟩ | ⟨:g⟩ | ⟨:l⟩ | ⟨:pred⟩ | ⟨:poss⟩ | ⟨:other⟩ | totals |
 |:--------------|-------:|-------:|---------:|-------:|---------:|-------:|-------:|----------:|----------:|-----------:|---------:|
-| **⟨0.1⟩** | 9 | 20 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 29 |
+| **⟨0.1⟩** | 13 | 22 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35 |
 | **⟨0.2⟩** | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| **⟨0.h⟩** | 273 | 428 | 24 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 727 |
+| **⟨0.h⟩** | 274 | 429 | 24 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 729 |
 | **⟨0.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨0⟩** | 32 | 15 | 0 | 91 | 0 | 0 | 0 | 0 | 0 | 0 | 138 |
-| **⟨pro.1⟩** | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 |
+| **⟨pro.1⟩** | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 3 |
 | **⟨pro.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2 | 0 | 2 |
-| **⟨pro.h⟩** | 40 | 44 | 2 | 50 | 26 | 42 | 25 | 0 | 283 | 0 | 512 |
+| **⟨pro.h⟩** | 23 | 32 | 2 | 48 | 16 | 42 | 26 | 0 | 294 | 0 | 483 |
 | **⟨pro.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨pro⟩** | 19 | 0 | 0 | 31 | 7 | 2 | 3 | 0 | 7 | 0 | 69 |
-| **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 1 |
+| **⟨pro⟩** | 1 | 0 | 0 | 14 | 6 | 1 | 2 | 0 | 9 | 0 | 33 |
+| **⟨np.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨np.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np.h⟩** | 181 | 73 | 3 | 22 | 19 | 8 | 8 | 11 | 26 | 0 | 351 |
+| **⟨np.h⟩** | 182 | 73 | 3 | 22 | 8 | 8 | 8 | 11 | 38 | 0 | 353 |
 | **⟨np.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨np⟩** | 160 | 9 | 0 | 310 | 137 | 45 | 221 | 14 | 18 | 12 | 926 |
+| **⟨np⟩** | 160 | 9 | 0 | 310 | 110 | 45 | 221 | 14 | 46 | 12 | 927 |
 | **⟨other.1⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | **⟨other.2⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other.h⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| **⟨other.h⟩** | 17 | 12 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 31 |
 | **⟨other.d⟩** | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| **⟨other⟩** | 0 | 0 | 0 | 3 | 0 | 1 | 19 | 37 | 0 | 0 | 60 |
-| | 715 | 591 | 29 | 508 | 189 | 99 | 276 | 62 | 337 | 12 | 2818 |
+| **⟨other⟩** | 18 | 0 | 0 | 20 | 0 | 2 | 20 | 37 | 0 | 0 | 97 |
+| | 721 | 594 | 29 | 507 | 141 | 99 | 277 | 62 | 390 | 12 | 2832 |
 
 
 **Clause boundaries**
@@ -135,8 +135,8 @@ information on all annotated categories, including those not listed here.
 | GRAID | count |
 |:-----------|--------:|
 | **⟨##⟩** | 0 |
-| **⟨#⟩** | 1417 |
-| **totals** | 1417 |
+| **⟨#⟩** | 1418 |
+| **totals** | 1418 |
 
 
 

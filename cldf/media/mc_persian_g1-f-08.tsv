@@ -1,104 +1,104 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g1-f-08	0001	#	#	#	#				
 persian	g1-f-08	0001	Yek	one	ln_deti	ln_deti				
-persian	g1-f-08	0001	ruze	day=ezafe	other	other				
-persian	g1-f-08	0001	garme	hot=ezafe	other	other				
+persian	g1-f-08	0001	ruze	day=EZAFE	other	other				
+persian	g1-f-08	0001	garme	hot=EZAFE	other	other				
 persian	g1-f-08	0001	tābestāni	summer	other	other				
 persian	g1-f-08	0001	yek	one	ln_deti	ln_deti				
-persian	g1-f-08	0001	āqāye	man=ezafe	np.h:s	np	h	s		
+persian	g1-f-08	0001	āqāye	man=EZAFE	np.h:s	np	h	s		
 persian	g1-f-08	0001	xāreji	foreign	rn_lex	rn_lex				
 persian	g1-f-08	0001	tuye	in	adp	adp				
 persian	g1-f-08	0001	mazra'e	farm	np:l	np		l		
-persian	g1-f-08	0001	bude	be.pst.3sg	predex	predex				
+persian	g1-f-08	0001	bude	be.PST.3SG	predex	predex				
 persian	g1-f-08	0002	#	#	#	#				
 persian	g1-f-08	0002	0	0	0.h:s	0	h	s		
-persian	g1-f-08	0002	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0002	miravad	go.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0002	bālāye	top.of	adp	adp				
 persian	g1-f-08	0002	deraxt	tree	np:l	np		l		
 persian	g1-f-08	0002	#	#	#	#				
 persian	g1-f-08	0002	0	0	0.h:a	0	h	a		
 persian	g1-f-08	0002	sib	apple	np:p	np		p		
-persian	g1-f-08	0002	mičinad,	pick.prs.indic.3sg	v:pred	v		pred		
-persian	g1-f-08	0002	sibe	apple=ezafe	other	other				
-persian	g1-f-08	0002	sabze	green=ezafe	other	other				
+persian	g1-f-08	0002	mičinad,	pick.PRS.IND.3SG	v:pred	v		pred		
+persian	g1-f-08	0002	sibe	apple=EZAFE	other	other				
+persian	g1-f-08	0002	sabze	green=EZAFE	other	other				
 persian	g1-f-08	0002	torš	sour	other	other				
 persian	g1-f-08	0003	#	#	#	#				
 persian	g1-f-08	0003	bad	then	other	other				
 persian	g1-f-08	0003	0	0	0.h:a	0	h	a		
-persian	g1-f-08	0003	inhā	pro.3pl	pro:p	pro		p		
-persian	g1-f-08	0003	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-08	0003	jam	collected	lvc	lvc				
-persian	g1-f-08	0003	mikonad	do.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0003	inhā	PRO.3PL	pro:p	pro		p		
+persian	g1-f-08	0003	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-08	0003	jam	collected	other:lvc	other		lvc		
+persian	g1-f-08	0003	mikonad	do.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0003	tuye	inside	adp	adp				
 persian	g1-f-08	0003	sabad	basket	np:l	np		l		
 persian	g1-f-08	0004	#	#	#	#				
 persian	g1-f-08	0004	bad	then	other	other				
 persian	g1-f-08	0004	yek	one	ln_deti	ln_deti				
-persian	g1-f-08	0004	āqāyi	man.indef	np.h:s	np	h	s		
+persian	g1-f-08	0004	āqāyi	man.INDF	np.h:s	np	h	s		
 persian	g1-f-08	0004	bā	with	adp	adp				
 persian	g1-f-08	0004	olāq	donckey	np:obl	np		obl		
-persian	g1-f-08	0004	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g1-f-08	0004	rad	passing	lvc	lvc				
-persian	g1-f-08	0004	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0004	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-08	0004	rad	passing	other:lvc	other		lvc		
+persian	g1-f-08	0004	mišavad	become.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0005	#	#	#	#				
 persian	g1-f-08	0005	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-08	0005	salām	hello	lvc	lvc				
+persian	g1-f-08	0005	salām	hello	other:lvc	other		lvc		
 persian	g1-f-08	0005	ham	add	other	other				
-persian	g1-f-08	0005	nemikonad	neg.do.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0005	nemikonad	NEG.do.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0005	#	#	#	#				
 persian	g1-f-08	0005	0	0	0.h:s	0	h	s		
-persian	g1-f-08	0005	rad	passing	lvc	lvc				
-persian	g1-f-08	0005	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0005	rad	passing	other:lvc	other		lvc		
+persian	g1-f-08	0005	mišavad	become.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0006	#	#	#	#				
 persian	g1-f-08	0006	bad	then	other	other				
 persian	g1-f-08	0006	yek	one	ln_deti	ln_deti				
-persian	g1-f-08	0006	pesari	boy.indef	np.h:s	np	h	s		
-persian	g1-f-08	0006	miyāyad	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0006	pesari	boy.INDF	np.h:s	np	h	s		
+persian	g1-f-08	0006	miyāyad	come.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0007	#	#	#	#				
 persian	g1-f-08	0007	0	0	0.h:a	0	h	a		
 persian	g1-f-08	0007	sabad	basket	np:p	np		p		
-persian	g1-f-08	0007	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-f-08	0007	barmidārad	pick.up.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0007	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-f-08	0007	barmidārad	pick.up.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0008	#	#	#	#				
 persian	g1-f-08	0008	šāyad	maybe	other	other				
 persian	g1-f-08	0008	ham	add	other	other				
 persian	g1-f-08	0008	0	0	0.h:a	0	h	a		
-persian	g1-f-08	0008	midozdad	steal.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0008	midozdad	steal.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0008	0	0	0:p	0		p		
 persian	g1-f-08	0009	#	#	#	#				
 persian	g1-f-08	0009	0	0	0.h:s	0	h	s		
-persian	g1-f-08	0009	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0009	miravad	go.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0010	#	#	#	#				
 persian	g1-f-08	0010	bad	then	other	other				
 persian	g1-f-08	0010	xeyli	very	other	other				
 persian	g1-f-08	0010	sāde	simply	other	other				
 persian	g1-f-08	0010	0	0	0.h:s	0	h	s		
 persian	g1-f-08	0010	tuye	in	adp	adp				
-persian	g1-f-08	0010	jādeyi	road.indef	np:l	np		l		
-persian	g1-f-08	0010	bude	be.pst.3sg	cop	cop				
+persian	g1-f-08	0010	jādeyi	road.INDF	np:l	np		l		
+persian	g1-f-08	0010	bude	be.PST.3SG	cop	cop				
 persian	g1-f-08	0011	#	#	#	#				
 persian	g1-f-08	0011	0	0	0.h:s_cp	0	h	s_cp		
-persian	g1-f-08	0011	mixorad	eat.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0011	mixorad	eat.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0011	be	to	adp	adp				
 persian	g1-f-08	0011	yek	one	ln_deti	ln_deti				
-persian	g1-f-08	0011	doxtari	girl.indef	np.h:g	np	h	g		
-persian	g1-f-08	0011	#rc	#rc	#rc	#rc				
+persian	g1-f-08	0011	doxtari	girl.INDF	np.h:g	np	h	g		
+persian	g1-f-08	0011	#	#	#rc	#rc				
 persian	g1-f-08	0011	ke	ke	ke	ke				
-persian	g1-f-08	0011	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-08	0011	dāšte	AUX.PST.3SG	aux	aux				
 persian	g1-f-08	0011	az	from	adp	adp				
 persian	g1-f-08	0011	ān	that	ln_dem	ln_dem				
 persian	g1-f-08	0011	taraf	side	np:l	np		l		
-persian	g1-f-08	0011	barmigašte	return.pst.ptcp	v:pred	v		pred		
+persian	g1-f-08	0011	barmigašte	return.PST.PTCP	v:pred	v		pred		
 persian	g1-f-08	0012	#	#	#	#				
 persian	g1-f-08	0012	0	0	0.h:s_cp	0	h	s_cp		
 persian	g1-f-08	0012	bā	with	adp	adp				
 persian	g1-f-08	0012	dočarxe	bike	np:obl	np		obl		
-persian	g1-f-08	0012	tasādof	accident	lvc	lvc				
-persian	g1-f-08	0012	mikonad	do.prs.indic.3sg	v:pred	v		pred		
+persian	g1-f-08	0012	tasādof	accident	other:lvc	other		lvc		
+persian	g1-f-08	0012	mikonad	do.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-f-08	0013	#	#	#	#				
 persian	g1-f-08	0013	Xolāse	in.short	other	other				
-persian	g1-f-08	0013	inhā	pro.3pl	pro.h:s	pro	h	s		
-persian	g1-f-08	0013	mirizand	spill.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-08	0013	inhā	PRO.3PL	pro.h:s	pro	h	s		
+persian	g1-f-08	0013	mirizand	spill.PRS.IND.3PL	v:pred	v		pred		
 persian	g1-f-08	0013	xeyli	very	other	other				
 persian	g1-f-08	0013	Klišeyi	clichéd	other	other				
 persian	g1-f-08	0014	#	#	#	#				
@@ -108,44 +108,44 @@ persian	g1-f-08	0014	čand	a.few	ln_qu	ln_qu
 persian	g1-f-08	0014	tā	piece	ln_class	ln_class				
 persian	g1-f-08	0014	pesar	boy	np.h:s_cp	np	h	s_cp		
 persian	g1-f-08	0014	či	what	other	other				
-persian	g1-f-08	0014	dāštand	aux.pst.3pl	aux	aux				
+persian	g1-f-08	0014	dāštand	AUX.PST.3PL	aux	aux				
 persian	g1-f-08	0014	ānjā	there	other:l	other		l		
-persian	g1-f-08	0014	bāzi	playing	lvc	lvc				
-persian	g1-f-08	0014	mikardand	do.pst.impf.3pl	v:pred	v		pred		
+persian	g1-f-08	0014	bāzi	PLaying	other:lvc	other		lvc		
+persian	g1-f-08	0014	mikardand	do.PST.IPFV.3PL	v:pred	v		pred		
 persian	g1-f-08	0015	#	#	#	#				
 persian	g1-f-08	0015	bad	then	other	other				
 persian	g1-f-08	0015	pingpong	pingpong	other	other				
 persian	g1-f-08	0015	va	and	other	other				
 persian	g1-f-08	0015	xolāse	in.short	other	other				
 persian	g1-f-08	0015	0	0	0.h:s	0	h	s		
-persian	g1-f-08	0015	miāyand	aux.prs.prosp.3pl	aux	aux				
-persian	g1-f-08	0015	komak	help	lvc	lvc				
-persian	g1-f-08	0015	=aš	=prp.3sg	=pro.h:p	=pro	h	p		
-persian	g1-f-08	0015	mikonand	do.prs.indic.3pl	v:pred	v		pred		
+persian	g1-f-08	0015	miāyand	AUX.PRS.PROSP.3PL	aux	aux				
+persian	g1-f-08	0015	komak	help	other:lvc	other		lvc		
+persian	g1-f-08	0015	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-f-08	0015	mikonand	do.PRS.IND.3PL	v:pred	v		pred		
 persian	g1-f-08	0015	otomātik	automatically	other	other				
 persian	g1-f-08	0015	va	and	other	other				
-persian	g1-f-08	0015	in	3sg	other	other				
+persian	g1-f-08	0015	in	3SG	other	other				
 persian	g1-f-08	0015	be	to	other	other				
-persian	g1-f-08	0015	rāhe	way=ezafe	other	other				
+persian	g1-f-08	0015	rāhe	way=EZAFE	other	other				
 persian	g1-f-08	0015	xod	self	other	other				
-persian	g1-f-08	0015	=aš 	=poss.3sg	other	other				
-persian	g1-f-08	0015	ān	3sg	other	other				
+persian	g1-f-08	0015	=aš	=POSS.3SG	other	other				
+persian	g1-f-08	0015	ān	3SG	other	other				
 persian	g1-f-08	0015	be	to	other	other				
-persian	g1-f-08	0015	rāhe	way=ezafe	other	other				
+persian	g1-f-08	0015	rāhe	way=EZAFE	other	other				
 persian	g1-f-08	0015	xod	self	other	other				
-persian	g1-f-08	0015	=aš 	=poss.3sg	other	other				
+persian	g1-f-08	0015	=aš	=POSS.3SG	other	other				
 persian	g1-f-08	0016	#	#	#	#				
 persian	g1-f-08	0016	bad	then	other	other				
-persian	g1-f-08	0016	barmigardad	return.prs.indic.3sg	v:pred	v		pred		
-persian	g1-f-08	0016	pesare,	boy.def	np.h:s	np	h	s		
-persian	g1-f-08	0016	pesare	boy.def	other	other				
+persian	g1-f-08	0016	barmigardad	return.PRS.IND.3SG	v:pred	v		pred		
+persian	g1-f-08	0016	pesare,	boy.DEF	np.h:s	np	h	s		
+persian	g1-f-08	0016	pesare	boy.DEF	other	other				
 persian	g1-f-08	0016	na,	no	other	other				
-persian	g1-f-08	0016	ānhā	pro.3pl	other	other				
+persian	g1-f-08	0016	ānhā	PRO.3PL	other	other				
 persian	g1-f-08	0017	#	#	#	#				
 persian	g1-f-08	0017	0	0	0.h:s	0	h	s		
-persian	g1-f-08	0017	miravand	go.prs.indic.3pl	v:pred	v		pred		
-persian	g1-f-08	0017	samti	direction.indef	other	other				
-persian	g1-f-08	0017	#nc	#nc	#nc	#nc				
+persian	g1-f-08	0017	miravand	go.PRS.IND.3PL	v:pred	v		pred		
+persian	g1-f-08	0017	samti	direction.INDF	other	other				
+persian	g1-f-08	0017	#	#	#nc	#nc				
 persian	g1-f-08	0017	ke	NC	nc	nc				
 persian	g1-f-08	0017	az	NC	nc	nc				
 persian	g1-f-08	0017	čiz	NC	nc	nc				
@@ -154,26 +154,26 @@ persian	g1-f-08	0017	mišavand	NC	nc	nc
 persian	g1-f-08	0017	#	#	#	#				
 persian	g1-f-08	0017	az	from	other	other				
 persian	g1-f-08	0017	ān	that	ln_dem	ln_dem				
-persian	g1-f-08	0017	āqāhe	man.def	np.h:a	np	h	a		
-persian	g1-f-08	0017	#rc	#rc	#rc	#rc				
+persian	g1-f-08	0017	āqāhe	man.DEF	np.h:a	np	h	a		
+persian	g1-f-08	0017	#	#	#rc	#rc				
 persian	g1-f-08	0017	ke	that	ke	ke				
-persian	g1-f-08	0017	dāšte	aux.pst.3sg	aux	aux				
+persian	g1-f-08	0017	dāšte	AUX.PST.3SG	aux	aux				
 persian	g1-f-08	0017	sib	apple	np:p	np		p		
-persian	g1-f-08	0017	mičide	pick.pst.impf.ptcp	v:pred	v		pred		
+persian	g1-f-08	0017	mičide	pick.PST.IPFV.PTCP	v:pred	v		pred		
 persian	g1-f-08	0018	#	#	#	#				
 persian	g1-f-08	0018	bad	then	other	other				
-persian	g1-f-08	0018	āqāhe	man.def	np.h:a	np	h	a		
-persian	g1-f-08	0018	miguyad	say.prs.indic.3sg	v:pred	v		pred		
-persian	g1-f-08	0018	#ds	#ds	#ds	#ds				
+persian	g1-f-08	0018	āqāhe	man.DEF	np.h:a	np	h	a		
+persian	g1-f-08	0018	miguyad	say.PRS.IND.3SG	v:pred	v		pred		
+persian	g1-f-08	0018	#	#	#ds	#ds				
 persian	g1-f-08	0018	e	interj	other	other				
-persian	g1-f-08	0018	sibhāye	apple.pl=ezafe	np:s	np		s		
-persian	g1-f-08	0018	man	pro.1sg	np.1:poss	np	1	poss		
+persian	g1-f-08	0018	sibhāye	apple.PL=EZAFE	np:s	np		s		
+persian	g1-f-08	0018	man	PRO.1SG	rn_pro.1:poss	rn_pro	1	poss		
 persian	g1-f-08	0018	ku	where.is	cop	cop				
-persian	g1-f-08	0019	#ds	#ds	#ds	#ds				
-persian	g1-f-08	0019	Inhā	pro.3pl	pro.h:a	pro	h	a		
-persian	g1-f-08	0019	bordand	take.pst.3pl	v:pred	v		pred		
+persian	g1-f-08	0019	#	#	#ds	#ds				
+persian	g1-f-08	0019	Inhā	PRO.3PL	pro.h:a	pro	h	a		
+persian	g1-f-08	0019	bordand	take.PST.3PL	v:pred	v		pred		
 persian	g1-f-08	0019	0	0	0:p	0		p		
-persian	g1-f-08	0020	#nc	#nc	#nc	#nc				
+persian	g1-f-08	0020	#	#	#nc	#nc				
 persian	g1-f-08	0020	Inhā	NC	nc	nc				
 persian	g1-f-08	0020	buyi	NC	nc	nc				
 persian	g1-f-08	0020	azašān	NC	nc	nc				

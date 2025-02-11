@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="persian">
         <text t_name="g1-m-03" annotators="Shirin Adibifar" speaker="PS03">
-            <file f_name="mc_persian_g1-m-03" audio="mc_persian_g1-m-03.wav" updated="2019-04-30">
+            <file f_name="mc_persian_g1-m-03" audio="mc_persian_g1-m-03.wav" updated="2019-05-08">
                 <unit uid="0001" start_time="2659" end_time="5920">
                     <utterance_id>persian_g1-m-03_0001</utterance_id>
-                    <utterance>Yek mardi az deraxt golābi mičid </utterance>
+                    <utterance>Yek mardi az deraxt golābi mičid</utterance>
                     <utterance_translation>There was a man picking pears from a tree.</utterance_translation>
                     <annotations>
                         <segment>
@@ -20,7 +20,7 @@
                         </segment>
                         <segment>
                             <gword>mardi</gword>
-                            <gloss>man.indef</gloss>
+                            <gloss>man.INDF</gloss>
                             <graid>np.h:a</graid>
                         </segment>
                         <segment>
@@ -35,19 +35,19 @@
                         </segment>
                         <segment>
                             <gword>golābi</gword>
-                            <gloss>pear.indef</gloss>
+                            <gloss>pear.INDF</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>mičid</gword>
-                            <gloss>pick.pst.impf.3sg</gloss>
+                            <gloss>pick.PST.IPFV.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
                 <unit uid="0002" start_time="5920" end_time="9232">
                     <utterance_id>persian_g1-m-03_0002</utterance_id>
-                    <utterance>yek bačeyi miāyad </utterance>
+                    <utterance>yek bačeyi miāyad</utterance>
                     <utterance_translation>A boy came,</utterance_translation>
                     <annotations>
                         <segment>
@@ -62,19 +62,19 @@
                         </segment>
                         <segment>
                             <gword>bačeyi</gword>
-                            <gloss>boy.indef</gloss>
+                            <gloss>boy.INDF</gloss>
                             <graid>np.h:s</graid>
                         </segment>
                         <segment>
                             <gword>miāyad</gword>
-                            <gloss>come.prs.indic.3sg</gloss>
+                            <gloss>come.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0003" start_time="9232" end_time="13615">
+                <unit uid="0003" start_time="9232" end_time="14190">
                     <utterance_id>persian_g1-m-03_0003</utterance_id>
-                    <utterance>sabade golābihā rā barmidārad </utterance>
+                    <utterance>sabade golābihā rā barmidārad</utterance>
                     <utterance_translation>took the pear's basket,</utterance_translation>
                     <annotations>
                         <segment>
@@ -89,29 +89,29 @@
                         </segment>
                         <segment>
                             <gword>sabade</gword>
-                            <gloss>basket=ezafe</gloss>
+                            <gloss>basket=EZAFE</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>golābihā</gword>
-                            <gloss>pear.pl</gloss>
+                            <gloss>pear.PL</gloss>
                             <graid>rn_lex</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc_rn</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
                             <gword>barmidārad</gword>
-                            <gloss>take.prs.indic.3sg</gloss>
+                            <gloss>take.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0004" start_time="13615" end_time="15205">
+                <unit uid="0004" start_time="14190" end_time="17620">
                     <utterance_id>persian_g1-m-03_0004</utterance_id>
-                    <utterance>motevāri mišavad </utterance>
+                    <utterance>motevāri mišavad</utterance>
                     <utterance_translation>and went away.</utterance_translation>
                     <annotations>
                         <segment>
@@ -127,18 +127,18 @@
                         <segment>
                             <gword>motevāri</gword>
                             <gloss>escaping</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
-                            <gword>mišavad </gword>
-                            <gloss>come.prs.indic.3sg</gloss>
+                            <gword>mišavad</gword>
+                            <gloss>come.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0005" start_time="15205" end_time="21758">
+                <unit uid="0005" start_time="17620" end_time="21933">
                     <utterance_id>persian_g1-m-03_0005</utterance_id>
-                    <utterance>bad dar asare yek sānehe golābihā mirizand </utterance>
+                    <utterance>bad dar asare yek sānehe golābihā mirizand</utterance>
                     <utterance_translation>Due to an accident the pears fell.</utterance_translation>
                     <annotations>
                         <segment>
@@ -158,7 +158,7 @@
                         </segment>
                         <segment>
                             <gword>asare</gword>
-                            <gloss>effect=ezafe</gloss>
+                            <gloss>effect=EZAFE</gloss>
                             <graid>adp</graid>
                         </segment>
                         <segment>
@@ -173,19 +173,19 @@
                         </segment>
                         <segment>
                             <gword>golābihā</gword>
-                            <gloss>pear.pl</gloss>
+                            <gloss>pear.PL</gloss>
                             <graid>np:s</graid>
                         </segment>
                         <segment>
                             <gword>mirizand</gword>
-                            <gloss>spill.prs.indic.3pl</gloss>
+                            <gloss>spill.PRS.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0007" start_time="21758" end_time="23339">
-                    <utterance_id>persian_g1-m-03_0007</utterance_id>
-                    <utterance>yek seri bače miāyand </utterance>
+                <unit uid="0006" start_time="21933" end_time="23339">
+                    <utterance_id>persian_g1-m-03_0006</utterance_id>
+                    <utterance>yek seri bače miāyand</utterance>
                     <utterance_translation>There came a few boys,</utterance_translation>
                     <annotations>
                         <segment>
@@ -210,13 +210,13 @@
                         </segment>
                         <segment>
                             <gword>miāyand</gword>
-                            <gloss>come.prs.indic.pl</gloss>
+                            <gloss>come.PRS.IND.PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0008" start_time="23339" end_time="25612">
-                    <utterance_id>persian_g1-m-03_0008</utterance_id>
+                <unit uid="0007" start_time="23339" end_time="25612">
+                    <utterance_id>persian_g1-m-03_0007</utterance_id>
                     <utterance>komakaš mikonand golābihā rā jam mikonand</utterance>
                     <utterance_translation>helped him to gather the pears,</utterance_translation>
                     <annotations>
@@ -233,16 +233,16 @@
                         <segment>
                             <gword>komak</gword>
                             <gloss>helping</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=pro.3sg</gloss>
-                            <graid>=pro.h:p </graid>
+                            <gloss>=PRO.3SG</gloss>
+                            <graid>=pro.h:p</graid>
                         </segment>
                         <segment>
                             <gword>mikonand</gword>
-                            <gloss>do.prs.indic.pl</gloss>
+                            <gloss>do.PRS.IND.PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -257,34 +257,34 @@
                         </segment>
                         <segment>
                             <gword>golābihā</gword>
-                            <gloss>pear.pl</gloss>
+                            <gloss>pear.PL</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc_rn</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
                             <gword>jam</gword>
                             <gloss>collected</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mikonand</gword>
-                            <gloss>do.prs.indic.3pl</gloss>
+                            <gloss>do.PRS.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0009" start_time="25612" end_time="28657">
-                    <utterance_id>persian_g1-m-03_0009</utterance_id>
-                    <utterance>bad ke dārad miravad kolāhaš rā miāyand pas midahand </utterance>
+                <unit uid="0008" start_time="25612" end_time="28657">
+                    <utterance_id>persian_g1-m-03_0008</utterance_id>
+                    <utterance>bad ke dārad miravad kolāhaš rā miāyand pas midahand</utterance>
                     <utterance_translation>and when he was about to go, they came to give him his hat back.</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#ac</gword>
-                            <gloss>#ac</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#ac</graid>
                         </segment>
                         <segment>
@@ -304,12 +304,12 @@
                         </segment>
                         <segment>
                             <gword>dārad</gword>
-                            <gloss>aux.impf</gloss>
+                            <gloss>AUX.IPFV</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
                             <gword>miravad</gword>
-                            <gloss>go.prs.indic.3sg</gloss>
+                            <gloss>go.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -329,34 +329,34 @@
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=pro.3sg.poss</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=PRO.3SG.POSS</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc_rn</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
                             <gword>miāyand</gword>
-                            <gloss>aux.prosp</gloss>
+                            <gloss>AUX.PROSP</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
                             <gword>pas</gword>
                             <gloss>back</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>midahand</gword>
-                            <gloss>give.prs.indic.3pl</gloss>
+                            <gloss>give.PRS.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0010" start_time="28657" end_time="30805">
-                    <utterance_id>persian_g1-m-03_0010</utterance_id>
-                    <utterance>be jāyaš se tā golābi migirand mixorand </utterance>
+                <unit uid="0009" start_time="28657" end_time="30805">
+                    <utterance_id>persian_g1-m-03_0009</utterance_id>
+                    <utterance>be jāyaš se tā golābi migirand mixorand</utterance>
                     <utterance_translation>In return they got three pears and ate them.</utterance_translation>
                     <annotations>
                         <segment>
@@ -382,7 +382,7 @@
                         <segment>
                             <gword>=aš</gword>
                             <gloss>=aš</gloss>
-                            <graid>=pro:poss</graid>
+                            <graid>=rn_pro:poss</graid>
                         </segment>
                         <segment>
                             <gword>se</gword>
@@ -401,7 +401,7 @@
                         </segment>
                         <segment>
                             <gword>migirand</gword>
-                            <gloss>take.prs.indic.3pl</gloss>
+                            <gloss>take.PRS.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -416,7 +416,7 @@
                         </segment>
                         <segment>
                             <gword>mixorand</gword>
-                            <gloss>eat.prs.indic.3pl</gloss>
+                            <gloss>eat.PRS.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -426,8 +426,8 @@
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0011" start_time="30805" end_time="35000">
-                    <utterance_id>persian_g1-m-03_0011</utterance_id>
+                <unit uid="0010" start_time="30805" end_time="35000">
+                    <utterance_id>persian_g1-m-03_0010</utterance_id>
                     <utterance>az kenāre ān mard ke golābihāyaš dozdide šode bud rad mišavad</utterance>
                     <utterance_translation>They crossed (the path of) the man whose pears had been stolen.</utterance_translation>
                     <annotations>
@@ -462,8 +462,8 @@
                             <graid>np.h:l</graid>
                         </segment>
                         <segment>
-                            <gword>#rc</gword>
-                            <gloss>#rc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc</graid>
                         </segment>
                         <segment>
@@ -473,27 +473,27 @@
                         </segment>
                         <segment>
                             <gword>golābihā</gword>
-                            <gloss>pear.pl</gloss>
+                            <gloss>pear.PL</gloss>
                             <graid>np:s</graid>
                         </segment>
                         <segment>
                             <gword>=yaš</gword>
-                            <gloss>=pro.3sg.poss</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=PRO.3SG.POSS</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>dozdide</gword>
-                            <gloss>steal.ptcp</gloss>
+                            <gloss>steal.PTCP</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>šode</gword>
-                            <gloss>become.pst.ptcp</gloss>
+                            <gloss>become.PST.PTCP</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>aux.pst.3sg</gloss>
+                            <gloss>AUX.PST.3SG</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
@@ -504,18 +504,18 @@
                         <segment>
                             <gword>rad</gword>
                             <gloss>passing</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mišavad</gword>
-                            <gloss>become.prs.indic.3sg</gloss>
+                            <gloss>become.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
                 </unit>
-                <unit uid="0012" start_time="35000" end_time="42796">
-                    <utterance_id>persian_g1-m-03_0012</utterance_id>
-                    <utterance>marde ham mifahmad :p ke golābihāyaš yek etefāqi oftāde ke dozdide šodeand </utterance>
+                <unit uid="0011" start_time="35000" end_time="42796">
+                    <utterance_id>persian_g1-m-03_0011</utterance_id>
+                    <utterance>marde ham mifahmad :p ke golābihāyaš yek etefāqi oftāde ke dozdide šodeand</utterance>
                     <utterance_translation>The man found out that his pears had been stolen.</utterance_translation>
                     <annotations>
                         <segment>
@@ -525,7 +525,7 @@
                         </segment>
                         <segment>
                             <gword>marde</gword>
-                            <gloss>man.def</gloss>
+                            <gloss>man.DEF</gloss>
                             <graid>np.h:a</graid>
                         </segment>
                         <segment>
@@ -535,12 +535,12 @@
                         </segment>
                         <segment>
                             <gword>mifahmad</gword>
-                            <gloss>find.out.prs.indic.3sg</gloss>
+                            <gloss>find.out.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss>#cc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc:p</graid>
                         </segment>
                         <segment>
@@ -550,13 +550,13 @@
                         </segment>
                         <segment>
                             <gword>golābihā</gword>
-                            <gloss>pear.pl</gloss>
+                            <gloss>pear.PL</gloss>
                             <graid>np:obl</graid>
                         </segment>
                         <segment>
                             <gword>=yaš</gword>
-                            <gloss>=pro.3sg.poss</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=PRO.3SG.POSS</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>yek</gword>
@@ -570,12 +570,12 @@
                         </segment>
                         <segment>
                             <gword>oftāde</gword>
-                            <gloss>fall.perf.indic.3sg</gloss>
+                            <gloss>fall.PFV.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
-                            <gword>#cc</gword>
-                            <gloss>#cc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#cc</graid>
                         </segment>
                         <segment>
@@ -590,12 +590,12 @@
                         </segment>
                         <segment>
                             <gword>dozdide</gword>
-                            <gloss>steal.pst.ptcp</gloss>
+                            <gloss>steal.PST.PTCP</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>šodeand</gword>
-                            <gloss>become.pst.3pl</gloss>
+                            <gloss>become.PST.3PL</gloss>
                             <graid>aux</graid>
                         </segment>
                     </annotations>

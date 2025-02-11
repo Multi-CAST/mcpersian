@@ -1,105 +1,105 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g1-m-03	0001	#	#	#	#				
 persian	g1-m-03	0001	Yek	one	ln_deti	ln_deti				
-persian	g1-m-03	0001	mardi	man.indef	np.h:a	np	h	a		
+persian	g1-m-03	0001	mardi	man.INDF	np.h:a	np	h	a		
 persian	g1-m-03	0001	az	from	adp	adp				
 persian	g1-m-03	0001	deraxt	tree	np:obl	np		obl		
-persian	g1-m-03	0001	golābi	pear.indef	np:p	np		p		
-persian	g1-m-03	0001	mičid	pick.pst.impf.3sg	v:pred	v		pred		
+persian	g1-m-03	0001	golābi	pear.INDF	np:p	np		p		
+persian	g1-m-03	0001	mičid	pick.PST.IPFV.3SG	v:pred	v		pred		
 persian	g1-m-03	0002	#	#	#	#				
 persian	g1-m-03	0002	yek	one	ln_deti	ln_deti				
-persian	g1-m-03	0002	bačeyi	boy.indef	np.h:s	np	h	s		
-persian	g1-m-03	0002	miāyad	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-m-03	0002	bačeyi	boy.INDF	np.h:s	np	h	s		
+persian	g1-m-03	0002	miāyad	come.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-m-03	0003	#	#	#	#				
 persian	g1-m-03	0003	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0003	sabade	basket=ezafe	np:p	np		p		
-persian	g1-m-03	0003	golābihā	pear.pl	rn_lex	rn_lex				
-persian	g1-m-03	0003	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-m-03	0003	barmidārad	take.prs.indic.3sg	v:pred	v		pred		
+persian	g1-m-03	0003	sabade	basket=EZAFE	np:p	np		p		
+persian	g1-m-03	0003	golābihā	pear.PL	rn_lex	rn_lex				
+persian	g1-m-03	0003	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-m-03	0003	barmidārad	take.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-m-03	0004	#	#	#	#				
 persian	g1-m-03	0004	0	0	0.h:s	0	h	s		
-persian	g1-m-03	0004	motevāri	escaping	lvc	lvc				
-persian	g1-m-03	0004	mišavad 	come.prs.indic.3sg	v:pred	v		pred		
+persian	g1-m-03	0004	motevāri	escaping	other:lvc	other		lvc		
+persian	g1-m-03	0004	mišavad	come.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-m-03	0005	#	#	#	#				
 persian	g1-m-03	0005	bad	then	other	other				
 persian	g1-m-03	0005	dar	in	adp	adp				
-persian	g1-m-03	0005	asare	effect=ezafe	adp	adp				
+persian	g1-m-03	0005	asare	effect=EZAFE	adp	adp				
 persian	g1-m-03	0005	yek	one	ln_deti	ln_deti				
 persian	g1-m-03	0005	sānehe	accident	np:other	np		other		
-persian	g1-m-03	0005	golābihā	pear.pl	np:s	np		s		
-persian	g1-m-03	0005	mirizand	spill.prs.indic.3pl	v:pred	v		pred		
+persian	g1-m-03	0005	golābihā	pear.PL	np:s	np		s		
+persian	g1-m-03	0005	mirizand	spill.PRS.IND.3PL	v:pred	v		pred		
+persian	g1-m-03	0006	#	#	#	#				
+persian	g1-m-03	0006	yek	one	ln_deti	ln_deti				
+persian	g1-m-03	0006	seri	row	ln_class	ln_class				
+persian	g1-m-03	0006	bače	boy	np.h:s	np	h	s		
+persian	g1-m-03	0006	miāyand	come.PRS.IND.PL	v:pred	v		pred		
 persian	g1-m-03	0007	#	#	#	#				
-persian	g1-m-03	0007	yek	one	ln_deti	ln_deti				
-persian	g1-m-03	0007	seri	row	ln_class	ln_class				
-persian	g1-m-03	0007	bače	boy	np.h:s	np	h	s		
-persian	g1-m-03	0007	miāyand	come.prs.indic.pl	v:pred	v		pred		
+persian	g1-m-03	0007	0	0	0.h:a	0	h	a		
+persian	g1-m-03	0007	komak	helping	other:lvc	other		lvc		
+persian	g1-m-03	0007	=aš	=PRO.3SG	=pro.h:p	=pro	h	p		
+persian	g1-m-03	0007	mikonand	do.PRS.IND.PL	v:pred	v		pred		
+persian	g1-m-03	0007	#	#	#	#				
+persian	g1-m-03	0007	0	0	0.h:a	0	h	a		
+persian	g1-m-03	0007	golābihā	pear.PL	np:p	np		p		
+persian	g1-m-03	0007	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-m-03	0007	jam	collected	other:lvc	other		lvc		
+persian	g1-m-03	0007	mikonand	do.PRS.IND.3PL	v:pred	v		pred		
+persian	g1-m-03	0008	#	#	#ac	#ac				
+persian	g1-m-03	0008	bad	when	other	other				
+persian	g1-m-03	0008	ke	ke	ke	ke				
+persian	g1-m-03	0008	0	0	0.h:s	0	h	s		
+persian	g1-m-03	0008	dārad	AUX.IPFV	aux	aux				
+persian	g1-m-03	0008	miravad	go.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-m-03	0008	#	#	#	#				
 persian	g1-m-03	0008	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0008	komak	helping	lvc	lvc				
-persian	g1-m-03	0008	=aš	=pro.3sg	=pro.h:p 	=pro	h	p 		
-persian	g1-m-03	0008	mikonand	do.prs.indic.pl	v:pred	v		pred		
-persian	g1-m-03	0008	#	#	#	#				
-persian	g1-m-03	0008	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0008	golābihā	pear.pl	np:p	np		p		
-persian	g1-m-03	0008	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-m-03	0008	jam	collected	lvc	lvc				
-persian	g1-m-03	0008	mikonand	do.prs.indic.3pl	v:pred	v		pred		
-persian	g1-m-03	0009	#ac	#ac	#ac	#ac				
-persian	g1-m-03	0009	bad	when	other	other				
-persian	g1-m-03	0009	ke	ke	ke	ke				
-persian	g1-m-03	0009	0	0	0.h:s	0	h	s		
-persian	g1-m-03	0009	dārad	aux.impf	aux	aux				
-persian	g1-m-03	0009	miravad	go.prs.indic.3sg	v:pred	v		pred		
+persian	g1-m-03	0008	kolāh	hat	np:p	np		p		
+persian	g1-m-03	0008	=aš	=PRO.3SG.POSS	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-m-03	0008	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g1-m-03	0008	miāyand	AUX.PROSP	aux	aux				
+persian	g1-m-03	0008	pas	back	other:lvc	other		lvc		
+persian	g1-m-03	0008	midahand	give.PRS.IND.3PL	v:pred	v		pred		
 persian	g1-m-03	0009	#	#	#	#				
 persian	g1-m-03	0009	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0009	kolāh	hat	np:p	np		p		
-persian	g1-m-03	0009	=aš	=pro.3sg.poss	=pro.h:poss	=pro	h	poss		
-persian	g1-m-03	0009	=rā	=acc	=acc_rn	=acc_rn				
-persian	g1-m-03	0009	miāyand	aux.prosp	aux	aux				
-persian	g1-m-03	0009	pas	back	lvc	lvc				
-persian	g1-m-03	0009	midahand	give.prs.indic.3pl	v:pred	v		pred		
+persian	g1-m-03	0009	be	for	adp	adp				
+persian	g1-m-03	0009	jāy	place	other	other				
+persian	g1-m-03	0009	=aš	=aš	=rn_pro:poss	=rn_pro		poss		
+persian	g1-m-03	0009	se	three	ln_qu	ln_qu				
+persian	g1-m-03	0009	tā	piece	ln_class	ln_class				
+persian	g1-m-03	0009	golābi	pear	np:p	np		p		
+persian	g1-m-03	0009	migirand	take.PRS.IND.3PL	v:pred	v		pred		
+persian	g1-m-03	0009	#	#	#	#				
+persian	g1-m-03	0009	0	0	0.h:a	0	h	a		
+persian	g1-m-03	0009	mixorand	eat.PRS.IND.3PL	v:pred	v		pred		
+persian	g1-m-03	0009	0	0	0:p	0		p		
 persian	g1-m-03	0010	#	#	#	#				
-persian	g1-m-03	0010	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0010	be	for	adp	adp				
-persian	g1-m-03	0010	jāy	place	other	other				
-persian	g1-m-03	0010	=aš	=aš	=pro:poss	=pro		poss		
-persian	g1-m-03	0010	se	three	ln_qu	ln_qu				
-persian	g1-m-03	0010	tā	piece	ln_class	ln_class				
-persian	g1-m-03	0010	golābi	pear	np:p	np		p		
-persian	g1-m-03	0010	migirand	take.prs.indic.3pl	v:pred	v		pred		
-persian	g1-m-03	0010	#	#	#	#				
-persian	g1-m-03	0010	0	0	0.h:a	0	h	a		
-persian	g1-m-03	0010	mixorand	eat.prs.indic.3pl	v:pred	v		pred		
-persian	g1-m-03	0010	0	0	0:p	0		p		
+persian	g1-m-03	0010	0	0	0.h:s	0	h	s		
+persian	g1-m-03	0010	az	from	adp	adp				
+persian	g1-m-03	0010	kenāre	side=ez	adp	adp				
+persian	g1-m-03	0010	ān	that	ln_dem	ln_dem				
+persian	g1-m-03	0010	mard	man	np.h:l	np	h	l		
+persian	g1-m-03	0010	#	#	#rc	#rc				
+persian	g1-m-03	0010	ke	that	ke	ke				
+persian	g1-m-03	0010	golābihā	pear.PL	np:s	np		s		
+persian	g1-m-03	0010	=yaš	=PRO.3SG.POSS	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-m-03	0010	dozdide	steal.PTCP	v:pred	v		pred		
+persian	g1-m-03	0010	šode	become.PST.PTCP	aux	aux				
+persian	g1-m-03	0010	bud	AUX.PST.3SG	aux	aux				
+persian	g1-m-03	0010	%	%	%	%				
+persian	g1-m-03	0010	rad	passing	other:lvc	other		lvc		
+persian	g1-m-03	0010	mišavad	become.PRS.IND.3SG	v:pred	v		pred		
 persian	g1-m-03	0011	#	#	#	#				
-persian	g1-m-03	0011	0	0	0.h:s	0	h	s		
-persian	g1-m-03	0011	az	from	adp	adp				
-persian	g1-m-03	0011	kenāre	side=ez	adp	adp				
-persian	g1-m-03	0011	ān	that	ln_dem	ln_dem				
-persian	g1-m-03	0011	mard	man	np.h:l	np	h	l		
-persian	g1-m-03	0011	#rc	#rc	#rc	#rc				
+persian	g1-m-03	0011	marde	man.DEF	np.h:a	np	h	a		
+persian	g1-m-03	0011	ham	add	other	other				
+persian	g1-m-03	0011	mifahmad	find.out.PRS.IND.3SG	v:pred	v		pred		
+persian	g1-m-03	0011	#	#	#cc:p	#cc		p		
 persian	g1-m-03	0011	ke	that	ke	ke				
-persian	g1-m-03	0011	golābihā	pear.pl	np:s	np		s		
-persian	g1-m-03	0011	=yaš	=pro.3sg.poss	=pro.h:poss	=pro	h	poss		
-persian	g1-m-03	0011	dozdide	steal.ptcp	v:pred	v		pred		
-persian	g1-m-03	0011	šode	become.pst.ptcp	aux	aux				
-persian	g1-m-03	0011	bud	aux.pst.3sg	aux	aux				
-persian	g1-m-03	0011	%	%	%	%				
-persian	g1-m-03	0011	rad	passing	lvc	lvc				
-persian	g1-m-03	0011	mišavad	become.prs.indic.3sg	v:pred	v		pred		
-persian	g1-m-03	0012	#	#	#	#				
-persian	g1-m-03	0012	marde	man.def	np.h:a	np	h	a		
-persian	g1-m-03	0012	ham	add	other	other				
-persian	g1-m-03	0012	mifahmad	find.out.prs.indic.3sg	v:pred	v		pred		
-persian	g1-m-03	0012	#cc	#cc	#cc:p	#cc		p		
-persian	g1-m-03	0012	ke	that	ke	ke				
-persian	g1-m-03	0012	golābihā	pear.pl	np:obl	np		obl		
-persian	g1-m-03	0012	=yaš	=pro.3sg.poss	=pro.h:poss	=pro	h	poss		
-persian	g1-m-03	0012	yek	one	ln_deti	ln_deti				
-persian	g1-m-03	0012	etefāqi	accident	np:s	np		s		
-persian	g1-m-03	0012	oftāde	fall.perf.indic.3sg	v:pred	v		pred		
-persian	g1-m-03	0012	#cc	#cc	#cc	#cc				
-persian	g1-m-03	0012	ke	ke	ke	ke				
-persian	g1-m-03	0012	0	0	0:s	0		s		
-persian	g1-m-03	0012	dozdide	steal.pst.ptcp	v:pred	v		pred		
-persian	g1-m-03	0012	šodeand	become.pst.3pl	aux	aux				
+persian	g1-m-03	0011	golābihā	pear.PL	np:obl	np		obl		
+persian	g1-m-03	0011	=yaš	=PRO.3SG.POSS	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g1-m-03	0011	yek	one	ln_deti	ln_deti				
+persian	g1-m-03	0011	etefāqi	accident	np:s	np		s		
+persian	g1-m-03	0011	oftāde	fall.PFV.IND.3SG	v:pred	v		pred		
+persian	g1-m-03	0011	#	#	#cc	#cc				
+persian	g1-m-03	0011	ke	ke	ke	ke				
+persian	g1-m-03	0011	0	0	0:s	0		s		
+persian	g1-m-03	0011	dozdide	steal.PST.PTCP	v:pred	v		pred		
+persian	g1-m-03	0011	šodeand	become.PST.3PL	aux	aux				

@@ -1,4 +1,4 @@
-corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	reflex
+corpus	text	uid	gword	gloss	graid	gform	ganim	gfunc	refind	isnref
 persian	g2-m-11	0001	#	#	#	#				
 persian	g2-m-11	0001	In	this	other	other				
 persian	g2-m-11	0001	ke	that	ke	ke				
@@ -7,59 +7,59 @@ persian	g2-m-11	0001	yek	one	ln_deti	ln_deti
 persian	g2-m-11	0001	fardi	person	np.h:s	np	h	s		
 persian	g2-m-11	0001	ruye	on	adp	adp				
 persian	g2-m-11	0001	deraxt	tree	np:l	np		l		
-persian	g2-m-11	0001	bud	be.pst.3sg	predex	predex				
+persian	g2-m-11	0001	bud	be.PST.3SG	predex	predex				
 persian	g2-m-11	0001	#	#	#	#				
 persian	g2-m-11	0001	0	0	0.h:a	0	h	a		
-persian	g2-m-11	0001	dāšt	aux.pst.3sg	aux	aux				
+persian	g2-m-11	0001	dāšt	AUX.PST.3SG	aux	aux				
 persian	g2-m-11	0001	mive	fruit	np:p	np		p		
-persian	g2-m-11	0001	mičid	pick.pst.impf.3sg	v:pred	v		pred		
+persian	g2-m-11	0001	mičid	pick.PST.IPFV.3SG	v:pred	v		pred		
 persian	g2-m-11	0002	#	#	#neg	#neg				
 persian	g2-m-11	0002	hālā	now	other	other				
-persian	g2-m-11	0002	0	0	0.1.a	0	1.a			
-persian	g2-m-11	0002	nemidānam	neg.know.prs.indic.1sg	v:pred	v		pred		
+persian	g2-m-11	0002	0	0	0.1:a	0	1	a		
+persian	g2-m-11	0002	nemidānam	NEG.know.PRS.IND.1SG	v:pred	v		pred		
 persian	g2-m-11	0002	#	#	#	#				
 persian	g2-m-11	0002	yek	one	ln_deti	ln_deti				
-persian	g2-m-11	0002	šaxse	person=ezafe	np.h:s	np	h	s		
+persian	g2-m-11	0002	šaxse	person=EZAFE	np.h:s	np	h	s		
 persian	g2-m-11	0002	digari	another	rn_lex	rn_lex				
-persian	g2-m-11	0002	bud	be.pst.3sg	predex	predex				
+persian	g2-m-11	0002	bud	be.PST.3SG	predex	predex				
 persian	g2-m-11	0002	#	#	#	#				
 persian	g2-m-11	0002	0	0	0.h:s	0	h	s		
 persian	g2-m-11	0002	šāyad	maybe	other	other				
 persian	g2-m-11	0002	pesar	boy	np.h:pred	np	h	pred		
-persian	g2-m-11	0002	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0002	bud	be.pst.3sg	cop	cop				
+persian	g2-m-11	0002	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0002	bud	be.PST.3SG	cop	cop				
 persian	g2-m-11	0002	#	#	#	#				
 persian	g2-m-11	0002	yā	or	other	other				
 persian	g2-m-11	0002	0	0	0.h:s	0	h	s		
 persian	g2-m-11	0002	hamkār	colleague	np.h:pred	np	h	pred		
-persian	g2-m-11	0002	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0002	bud	be.pst.3sg	cop	cop				
+persian	g2-m-11	0002	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0002	bud	be.PST.3SG	cop	cop				
 persian	g2-m-11	0002	#	#	#	#				
 persian	g2-m-11	0002	0	0	0.h:s	0	h	s		
-persian	g2-m-11	0002	āmad	come.pst.prosp.3sg	v:pred	v		pred		
+persian	g2-m-11	0002	āmad	come.PST.PROSP.3SG	v:pred	v		pred		
 persian	g2-m-11	0002	ke	that	ke	ke				
-persian	g2-m-11	0002	mivehā	fruit.pl	np:p	np		p		
-persian	g2-m-11	0002	=rā	=acc	=acc_rn	=acc_rn				
-persian	g2-m-11	0002	bebarad	take.prs.subj.3sg	v:pred	v		pred		
+persian	g2-m-11	0002	mivehā	fruit.PL	np:p	np		p		
+persian	g2-m-11	0002	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g2-m-11	0002	bebarad	take.PRS.SBJV.3SG	v:pred	v		pred		
 persian	g2-m-11	0003	#	#	#	#				
 persian	g2-m-11	0003	tuye	in	other	other				
 persian	g2-m-11	0003	rāh	way	other	other				
 persian	g2-m-11	0003	bexatere	because.of	other	other				
 persian	g2-m-11	0003	yek	one	other	other				
-persian	g2-m-11	0003	havasparti	absent-mindedness	other	other				
+persian	g2-m-11	0003	havasparti	absentmindedness	other	other				
 persian	g2-m-11	0003	dočarxe	bike	np:s	np		s		
-persian	g2-m-11	0003	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0003	mixorad	collide.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-11	0003	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0003	mixorad	collide.PRS.IND.3SG	v:pred	v		pred		
 persian	g2-m-11	0003	be	to	adp	adp				
 persian	g2-m-11	0003	yek	one	ln_deti	ln_deti				
-persian	g2-m-11	0003	sangi	stone.indef	np:g	np		g		
+persian	g2-m-11	0003	sangi	stone.INDF	np:g	np		g		
 persian	g2-m-11	0003	#	#	#	#				
 persian	g2-m-11	0003	ke	that	ke	ke				
-persian	g2-m-11	0003	mivehāyi	fruit.pl.indef	np:p	np		p		
+persian	g2-m-11	0003	mivehāyi	fruit.PL.INDF	np:p	np		p		
 persian	g2-m-11	0003	ke	that	ke	ke				
 persian	g2-m-11	0003	0	0	0.h:a	0	h	a		
-persian	g2-m-11	0003	dāšt	aux.pst.3sg	aux	aux				
-persian	g2-m-11	0003	mibord	take.pst.impf.3sg	v:pred	v		pred		
+persian	g2-m-11	0003	dāšt	AUX.PST.3SG	aux	aux				
+persian	g2-m-11	0003	mibord	take.PST.IPFV.3SG	v:pred	v		pred		
 persian	g2-m-11	0003	be	to	adp	adp				
 persian	g2-m-11	0003	harjāyi	everywhere	other	other				
 persian	g2-m-11	0003	hālā	now	other	other				
@@ -69,14 +69,14 @@ persian	g2-m-11	0003	yā	or	other	other
 persian	g2-m-11	0003	harčize	whatever	other	other				
 persian	g2-m-11	0003	digari	other	other	other				
 persian	g2-m-11	0004	#	#	#	#				
-persian	g2-m-11	0004	0	0	0:h.s_cp	0		h.s_cp		
-persian	g2-m-11	0004	mixorad	eat.prs.indic.3sg	v:pred	v		pred		
-persian	g2-m-11	0004	zamin	ground	lvc	lvc				
+persian	g2-m-11	0004	0	0	0.h:s_cp	0	h	s_cp		
+persian	g2-m-11	0004	mixorad	eat.PRS.IND.3SG	v:pred	v		pred		
+persian	g2-m-11	0004	zamin	ground	other:lvc	other		lvc		
 persian	g2-m-11	0004	#	#	#	#				
 persian	g2-m-11	0004	va	and	other	other				
-persian	g2-m-11	0004	mivehā	fruit.pl	np:s	np		s		
-persian	g2-m-11	0004	paxš	scattered	lvc	lvc				
-persian	g2-m-11	0004	mišavad	become.prs.indic.3sg	v:pred	v		pred		
+persian	g2-m-11	0004	mivehā	fruit.PL	np:s	np		s		
+persian	g2-m-11	0004	paxš	scattered	other:lvc	other		lvc		
+persian	g2-m-11	0004	mišavad	become.PRS.IND.3SG	v:pred	v		pred		
 persian	g2-m-11	0004	ruye	on	adp	adp				
 persian	g2-m-11	0004	zamin	ground	np:l	np		l		
 persian	g2-m-11	0005	#	#	#	#				
@@ -84,26 +84,26 @@ persian	g2-m-11	0005	bad	then	other	other
 persian	g2-m-11	0005	čand	a.few	ln_qu	ln_qu				
 persian	g2-m-11	0005	nafar	person	class_np.h:a	class_np	h	a		
 persian	g2-m-11	0005	az	from	rn_adp	rn_adp				
-persian	g2-m-11	0005	dustān	friend.pl	rn_np.h:obl	rn_np	h	obl		
-persian	g2-m-11	0005	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
+persian	g2-m-11	0005	dustān	friend.PL	rn_np.h:poss	rn_np	h	poss		
+persian	g2-m-11	0005	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
 persian	g2-m-11	0005	yā	nc	nc	nc				
 persian	g2-m-11	0005	ānhāyi	nc	nc	nc				
-persian	g2-m-11	0005	#rc	#rc	#rc	#rc				
+persian	g2-m-11	0005	#	#	#rc	#rc				
 persian	g2-m-11	0005	ke	that	ke	ke				
-persian	g2-m-11	0005	ānhā	pro.3pl	pro.h:s_cp	pro	h	s_cp		
+persian	g2-m-11	0005	ānhā	PRO.3PL	pro.h:s_cp	pro	h	s_cp		
 persian	g2-m-11	0005	ham	add	other	other				
 persian	g2-m-11	0005	tuye	in	adp	adp				
 persian	g2-m-11	0005	ān	that	ln_dem	ln_dem				
 persian	g2-m-11	0005	mohavate	area	np:l	np		l		
-persian	g2-m-11	0005	kār	work	lvc	lvc				
-persian	g2-m-11	0005	mikardand	do.pst.indic.3pl	v:pred	v		pred		
+persian	g2-m-11	0005	kār	work	other:lvc	other		lvc		
+persian	g2-m-11	0005	mikardand	do.PST.IND.3PL	v:pred	v		pred		
 persian	g2-m-11	0005	%	%	%	%				
-persian	g2-m-11	0005	āmadand	come.pst.3pl	aux	aux				
+persian	g2-m-11	0005	āmadand	come.PST.3PL	aux	aux				
 persian	g2-m-11	0005	be	to	adp	adp				
-persian	g2-m-11	0005	=heš	=pro.3sg	=pro.h:p	=pro	h	p		
-persian	g2-m-11	0005	komak	help	lvc	lvc				
-persian	g2-m-11	0005	kardand	do.pst.3pl	v:pred	v		pred		
-persian	g2-m-11	0006	#nc	#nc	#nc	#nc				
+persian	g2-m-11	0005	=heš	=PRO.3SG	=pro.h:p	=pro	h	p		
+persian	g2-m-11	0005	komak	help	other:lvc	other		lvc		
+persian	g2-m-11	0005	kardand	do.PST.3PL	v:pred	v		pred		
+persian	g2-m-11	0006	#	#	#nc	#nc				
 persian	g2-m-11	0006	va	NC	nc	nc				
 persian	g2-m-11	0006	darhāle	NC	nc	nc				
 persian	g2-m-11	0006	harkat	NC	nc	nc				
@@ -114,65 +114,65 @@ persian	g2-m-11	0006	=heš	NC	nc	nc
 persian	g2-m-11	0006	#	#	#	#				
 persian	g2-m-11	0006	0	0	0.h:a	0	h	a		
 persian	g2-m-11	0006	kolāh	hat	np:p	np		p		
-persian	g2-m-11	0006	=aš	=poss.3sg	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0006	=rā	=acc	=acc	=acc				
-persian	g2-m-11	0006	#nc	#nc	#nc	#nc				
+persian	g2-m-11	0006	=aš	=POSS.3SG	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0006	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g2-m-11	0006	#	#	#nc	#nc				
 persian	g2-m-11	0006	ke	that	ke	ke				
-persian	g2-m-11	0006	didand	see.pst.3pl	nc	nc				
+persian	g2-m-11	0006	didand	see.PST.3PL	nc	nc				
 persian	g2-m-11	0006	ruye	on	nc	nc				
 persian	g2-m-11	0006	zamin	ground	nc	nc				
-persian	g2-m-11	0006	ast	be.prs.3sg	nc	nc				
+persian	g2-m-11	0006	ast	be.PRS.3SG	nc	nc				
 persian	g2-m-11	0006	%	%	%	%				
 persian	g2-m-11	0006	be	to	adp	adp				
-persian	g2-m-11	0006	=heš	=pro.3sg	=pro.h:g	=pro	h	g		
-persian	g2-m-11	0006	bargardāndand	return.pst.indic.3pl	v:pred	v		pred		
+persian	g2-m-11	0006	=heš	=PRO.3SG	=pro.h:g	=pro	h	g		
+persian	g2-m-11	0006	bargardāndand	return.PST.IND.3PL	v:pred	v		pred		
 persian	g2-m-11	0007	#	#	#	#				
 persian	g2-m-11	0007	darezāye	in.return	other	other				
 persian	g2-m-11	0007	ān	that	other	other				
 persian	g2-m-11	0007	kār	work	other	other				
-persian	g2-m-11	0007	0	0	0.1.s_cp	0	1.s_cp			
-persian	g2-m-11	0007	fekr	thought	lvc	lvc				
-persian	g2-m-11	0007	mikonam	do.prs.indic.1sg	v:pred	v		pred		
+persian	g2-m-11	0007	0	0	0.1:s_cp	0	1	s_cp		
+persian	g2-m-11	0007	fekr	thought	other:lvc	other		lvc		
+persian	g2-m-11	0007	mikonam	do.PRS.IND.1SG	v:pred	v		pred		
 persian	g2-m-11	0007	ke	that	ke	ke				
 persian	g2-m-11	0007	#	#	#	#				
-persian	g2-m-11	0007	ānhā	pro.3pl	pro.h:a	pro	h	a		
+persian	g2-m-11	0007	ānhā	PRO.3PL	pro.h:a	pro	h	a		
 persian	g2-m-11	0007	čand	a.few	ln_qu	ln_qu				
 persian	g2-m-11	0007	tā	piece	class_np:p	class_np		p		
 persian	g2-m-11	0007	az	from	rn_adp	rn_adp				
-persian	g2-m-11	0007	mivehā	fruit.pl	rn_np:obl	rn_np		obl		
-persian	g2-m-11	0007	=rā	=acc	=acc_rn	=acc_rn				
-persian	g2-m-11	0007	bardāštand	pick.pst.3pl	v:pred	v		pred		
+persian	g2-m-11	0007	mivehā	fruit.PL	rn_np:poss	rn_np		poss		
+persian	g2-m-11	0007	=rā	=ACC	=rn_acc	=rn_acc				
+persian	g2-m-11	0007	bardāštand	pick.PST.3PL	v:pred	v		pred		
 persian	g2-m-11	0007	#	#	#cc	#cc				
 persian	g2-m-11	0007	ke	that	ke	ke				
 persian	g2-m-11	0007	0	0	0.h:a	0	h	a		
 persian	g2-m-11	0007	be	to	adp	adp				
-persian	g2-m-11	0007	rāhe	way=ezafe	np:p	np		p		
-persian	g2-m-11	0007	xod	self	refl.h:poss	refl	h	poss		
-persian	g2-m-11	0007	=ešān	=poss.3pl	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0007	edāme	continuing	lvc	lvc				
-persian	g2-m-11	0007	dahand	give.prs.3pl	v:pred	v		pred		
+persian	g2-m-11	0007	rāhe	way=EZAFE	np:p	np		p		
+persian	g2-m-11	0007	xod	self	rn_refl.h:poss	rn_refl	h	poss		
+persian	g2-m-11	0007	=ešān	=POSS.3PL	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0007	edāme	continuing	other:lvc	other		lvc		
+persian	g2-m-11	0007	dahand	give.PRS.3PL	v:pred	v		pred		
 persian	g2-m-11	0008	#	#	#	#				
 persian	g2-m-11	0008	dar	in	adp	adp				
-persian	g2-m-11	0008	rāhe	way=ezafe	other	other				
+persian	g2-m-11	0008	rāhe	way=EZAFE	other	other				
 persian	g2-m-11	0008	bargašt	return	other	other				
 persian	g2-m-11	0008	hālā	now	other	other				
-persian	g2-m-11	0008	mivehāyi	fruit.pl.indef	np.h:s	np	h	s		
+persian	g2-m-11	0008	mivehāyi	fruit.PL.INDF	np.h:s	np	h	s		
 persian	g2-m-11	0008	ke	that	ke	ke				
 persian	g2-m-11	0008	dast	hand	np:l	np		l		
-persian	g2-m-11	0008	=ešān	=poss.3pl	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0008	bud	be.pst.3sg	cop	cop				
+persian	g2-m-11	0008	=ešān	=POSS.3PL	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0008	bud	be.PST.3SG	cop	cop				
 persian	g2-m-11	0008	#	#	#	#				
 persian	g2-m-11	0008	ān	that	ln_dem	ln_dem				
-persian	g2-m-11	0008	šaxsi	person	ind_pro.h:s_cp	ind_pro	h	s_cp		
-persian	g2-m-11	0008	#rc	#rc	#rc	#rc				
+persian	g2-m-11	0008	šaxsi	person	indef_other.h:s_cp	indef_other	h	s_cp		
+persian	g2-m-11	0008	#	#	#rc	#rc				
 persian	g2-m-11	0008	ke	that	ke	ke				
 persian	g2-m-11	0008	ruye	on	adp	adp				
 persian	g2-m-11	0008	deraxt	tree	np:l	np		l		
-persian	g2-m-11	0008	bud	be.pst.3sg	cop	cop				
+persian	g2-m-11	0008	bud	be.PST.3SG	cop	cop				
 persian	g2-m-11	0008	%	%	%	%				
-persian	g2-m-11	0008	dāšt	aux.pst.3sg	aux	aux				
-persian	g2-m-11	0008	kār	work	lvc	lvc				
-persian	g2-m-11	0008	mikard	do.pst.impf.3sg	v:pred	v		pred		
+persian	g2-m-11	0008	dāšt	AUX.PST.3SG	aux	aux				
+persian	g2-m-11	0008	kār	work	other:lvc	other		lvc		
+persian	g2-m-11	0008	mikard	do.PST.IPFV.3SG	v:pred	v		pred		
 persian	g2-m-11	0009	#	#	#	#				
 persian	g2-m-11	0009	be	to	other	other				
 persian	g2-m-11	0009	gomāne	opinion	other	other				
@@ -180,7 +180,7 @@ persian	g2-m-11	0009	inke	that	other	other
 persian	g2-m-11	0009	āyā	whether	other	other				
 persian	g2-m-11	0009	0	0	0.h:s	0	h	s		
 persian	g2-m-11	0009	dozd	thief	np.h:pred	np	h	pred		
-persian	g2-m-11	0009	bud	be.pst.3sg	cop	cop				
+persian	g2-m-11	0009	bud	be.PST.3SG	cop	cop				
 persian	g2-m-11	0009	yā	or	other	other				
 persian	g2-m-11	0009	har	every	other	other				
 persian	g2-m-11	0009	čize	thing	other	other				
@@ -189,20 +189,20 @@ persian	g2-m-11	0009	#	#	#	#
 persian	g2-m-11	0009	0	0	0.h:a	0	h	a		
 persian	g2-m-11	0009	be	to	adp	adp				
 persian	g2-m-11	0009	dast	hand	np:p	np		p		
-persian	g2-m-11	0009	=ešān	=poss.3pl	=pro.h:poss	=pro	h	poss		
-persian	g2-m-11	0009	negāh	look	lvc	lvc				
-persian	g2-m-11	0009	kard	do.pst.3sg	v:pred	v		pred		
+persian	g2-m-11	0009	=ešān	=POSS.3PL	=rn_pro.h:poss	=rn_pro	h	poss		
+persian	g2-m-11	0009	negāh	look	other:lvc	other		lvc		
+persian	g2-m-11	0009	kard	do.PST.3SG	v:pred	v		pred		
 persian	g2-m-11	0009	#	#	#	#				
 persian	g2-m-11	0009	0	0	0.h:s_cp	0	h	s_cp		
-persian	g2-m-11	0009	taajob	surprise	lvc	lvc				
-persian	g2-m-11	0009	kard	do.pst.3sg	v:pred	v		pred		
+persian	g2-m-11	0009	taajob	surprise	other:lvc	other		lvc		
+persian	g2-m-11	0009	kard	do.PST.3SG	v:pred	v		pred		
 persian	g2-m-11	0009	#	#	#	#				
 persian	g2-m-11	0009	va	and	other	other				
-persian	g2-m-11	0009	ānhā	pro.3pl	pro.h:s	pro	h	s		
+persian	g2-m-11	0009	ānhā	PRO.3PL	pro.h:s	pro	h	s		
 persian	g2-m-11	0009	ham	add	other	other				
-persian	g2-m-11	0009	rad	passing	lvc	lvc				
-persian	g2-m-11	0009	šodand	become.pst.3pl	v:pred	v		pred		
+persian	g2-m-11	0009	rad	passing	other:lvc	other		lvc		
+persian	g2-m-11	0009	šodand	become.PST.3PL	v:pred	v		pred		
 persian	g2-m-11	0009	#	#	#	#				
 persian	g2-m-11	0009	va	and	other	other				
 persian	g2-m-11	0009	0	0	0.h:s	0	h	s		
-persian	g2-m-11	0009	raftand	go.pst.3pl	v:pred	v		pred		
+persian	g2-m-11	0009	raftand	go.PST.3PL	v:pred	v		pred		

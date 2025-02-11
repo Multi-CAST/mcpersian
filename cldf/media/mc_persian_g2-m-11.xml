@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<multicast version="1606">
+<multicast version="1905">
     <corpus c_name="persian">
         <text t_name="g2-m-11" annotators="Shirin Adibifar" speaker="PS25">
-            <file f_name="mc_persian_g2-m-11" audio="mc_persian_g2-m-11.wav" updated="2016-06-23">
+            <file f_name="mc_persian_g2-m-11" audio="mc_persian_g2-m-11.wav" updated="2019-05-08">
                 <unit uid="0001" start_time="1574" end_time="5007">
                     <utterance_id>persian_g2-m-11_0001</utterance_id>
                     <utterance>Inke aval yek fardi ruye deraxt bud dāšt mive mičid</utterance>
@@ -50,7 +50,7 @@
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>predex</graid>
                         </segment>
                         <segment>
@@ -65,7 +65,7 @@
                         </segment>
                         <segment>
                             <gword>dāšt</gword>
-                            <gloss>aux.pst.3sg</gloss>
+                            <gloss>AUX.PST.3SG</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
@@ -75,7 +75,7 @@
                         </segment>
                         <segment>
                             <gword>mičid</gword>
-                            <gloss>pick.pst.impf.3sg</gloss>
+                            <gloss>pick.PST.IPFV.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -98,11 +98,11 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0</gloss>
-                            <graid>0.1.a</graid>
+                            <graid>0.1:a</graid>
                         </segment>
                         <segment>
                             <gword>nemidānam</gword>
-                            <gloss>neg.know.prs.indic.1sg</gloss>
+                            <gloss>NEG.know.PRS.IND.1SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -117,7 +117,7 @@
                         </segment>
                         <segment>
                             <gword>šaxse</gword>
-                            <gloss>person=ezafe</gloss>
+                            <gloss>person=EZAFE</gloss>
                             <graid>np.h:s</graid>
                         </segment>
                         <segment>
@@ -127,7 +127,7 @@
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>predex</graid>
                         </segment>
                         <segment>
@@ -152,12 +152,12 @@
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=poss.3sg</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3SG</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                         <segment>
@@ -182,12 +182,12 @@
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=poss.3sg</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3SG</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                         <segment>
@@ -202,7 +202,7 @@
                         </segment>
                         <segment>
                             <gword>āmad</gword>
-                            <gloss>come.pst.prosp.3sg</gloss>
+                            <gloss>come.PST.PROSP.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -212,17 +212,17 @@
                         </segment>
                         <segment>
                             <gword>mivehā</gword>
-                            <gloss>fruit.pl</gloss>
+                            <gloss>fruit.PL</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc_rn</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
                             <gword>bebarad</gword>
-                            <gloss>take.prs.subj.3sg</gloss>
+                            <gloss>take.PRS.SBJV.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -259,7 +259,7 @@
                         </segment>
                         <segment>
                             <gword>havasparti</gword>
-                            <gloss>absent-mindedness</gloss>
+                            <gloss>absentmindedness</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -269,12 +269,12 @@
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=poss.3sg</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3SG</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>mixorad</gword>
-                            <gloss>collide.prs.indic.3sg</gloss>
+                            <gloss>collide.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -289,7 +289,7 @@
                         </segment>
                         <segment>
                             <gword>sangi</gword>
-                            <gloss>stone.indef</gloss>
+                            <gloss>stone.INDF</gloss>
                             <graid>np:g</graid>
                         </segment>
                         <segment>
@@ -304,7 +304,7 @@
                         </segment>
                         <segment>
                             <gword>mivehāyi</gword>
-                            <gloss>fruit.pl.indef</gloss>
+                            <gloss>fruit.PL.INDF</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
@@ -319,12 +319,12 @@
                         </segment>
                         <segment>
                             <gword>dāšt</gword>
-                            <gloss>aux.pst.3sg</gloss>
+                            <gloss>AUX.PST.3SG</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
                             <gword>mibord</gword>
-                            <gloss>take.pst.impf.3sg</gloss>
+                            <gloss>take.PST.IPFV.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -372,7 +372,7 @@
                 <unit uid="0004" start_time="21346" end_time="25609">
                     <utterance_id>persian_g2-m-11_0004</utterance_id>
                     <utterance>mixorad zamin va mivehā paxš mišavad ruye zamin</utterance>
-                    <utterance_translation>he fell down and all the fruits spilled out </utterance_translation>
+                    <utterance_translation>he fell down and all the fruits spilled out</utterance_translation>
                     <annotations>
                         <segment>
                             <gword>#</gword>
@@ -382,17 +382,17 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0</gloss>
-                            <graid>0:h.s_cp</graid>
+                            <graid>0.h:s_cp</graid>
                         </segment>
                         <segment>
                             <gword>mixorad</gword>
-                            <gloss>eat.prs.indic.3sg</gloss>
+                            <gloss>eat.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
                             <gword>zamin</gword>
                             <gloss>ground</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>#</gword>
@@ -406,17 +406,17 @@
                         </segment>
                         <segment>
                             <gword>mivehā</gword>
-                            <gloss>fruit.pl</gloss>
+                            <gloss>fruit.PL</gloss>
                             <graid>np:s</graid>
                         </segment>
                         <segment>
                             <gword>paxš</gword>
                             <gloss>scattered</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mišavad</gword>
-                            <gloss>become.prs.indic.3sg</gloss>
+                            <gloss>become.PRS.IND.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -463,13 +463,13 @@
                         </segment>
                         <segment>
                             <gword>dustān</gword>
-                            <gloss>friend.pl</gloss>
-                            <graid>rn_np.h:obl</graid>
+                            <gloss>friend.PL</gloss>
+                            <graid>rn_np.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=poss.3sg</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3SG</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>yā</gword>
@@ -482,8 +482,8 @@
                             <graid>nc</graid>
                         </segment>
                         <segment>
-                            <gword>#rc</gword>
-                            <gloss>#rc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc</graid>
                         </segment>
                         <segment>
@@ -493,7 +493,7 @@
                         </segment>
                         <segment>
                             <gword>ānhā</gword>
-                            <gloss>pro.3pl</gloss>
+                            <gloss>PRO.3PL</gloss>
                             <graid>pro.h:s_cp</graid>
                         </segment>
                         <segment>
@@ -519,11 +519,11 @@
                         <segment>
                             <gword>kār</gword>
                             <gloss>work</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mikardand</gword>
-                            <gloss>do.pst.indic.3pl</gloss>
+                            <gloss>do.PST.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -533,7 +533,7 @@
                         </segment>
                         <segment>
                             <gword>āmadand</gword>
-                            <gloss>come.pst.3pl</gloss>
+                            <gloss>come.PST.3PL</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
@@ -543,17 +543,17 @@
                         </segment>
                         <segment>
                             <gword>=heš</gword>
-                            <gloss>=pro.3sg</gloss>
+                            <gloss>=PRO.3SG</gloss>
                             <graid>=pro.h:p</graid>
                         </segment>
                         <segment>
                             <gword>komak</gword>
                             <gloss>help</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>kardand</gword>
-                            <gloss>do.pst.3pl</gloss>
+                            <gloss>do.PST.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -564,8 +564,8 @@
                     <utterance_translation>when he was about to leave, they gave him back his hat which was on the ground</utterance_translation>
                     <annotations>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -620,17 +620,17 @@
                         </segment>
                         <segment>
                             <gword>=aš</gword>
-                            <gloss>=poss.3sg</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3SG</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
-                            <gword>#nc</gword>
-                            <gloss>#nc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#nc</graid>
                         </segment>
                         <segment>
@@ -640,7 +640,7 @@
                         </segment>
                         <segment>
                             <gword>didand</gword>
-                            <gloss>see.pst.3pl</gloss>
+                            <gloss>see.PST.3PL</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -655,7 +655,7 @@
                         </segment>
                         <segment>
                             <gword>ast</gword>
-                            <gloss>be.prs.3sg</gloss>
+                            <gloss>be.PRS.3SG</gloss>
                             <graid>nc</graid>
                         </segment>
                         <segment>
@@ -670,12 +670,12 @@
                         </segment>
                         <segment>
                             <gword>=heš</gword>
-                            <gloss>=pro.3sg</gloss>
+                            <gloss>=PRO.3SG</gloss>
                             <graid>=pro.h:g</graid>
                         </segment>
                         <segment>
                             <gword>bargardāndand</gword>
-                            <gloss>return.pst.indic.3pl</gloss>
+                            <gloss>return.PST.IND.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -708,16 +708,16 @@
                         <segment>
                             <gword>0</gword>
                             <gloss>0</gloss>
-                            <graid>0.1.s_cp</graid>
+                            <graid>0.1:s_cp</graid>
                         </segment>
                         <segment>
                             <gword>fekr</gword>
                             <gloss>thought</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mikonam</gword>
-                            <gloss>do.prs.indic.1sg</gloss>
+                            <gloss>do.PRS.IND.1SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -732,7 +732,7 @@
                         </segment>
                         <segment>
                             <gword>ānhā</gword>
-                            <gloss>pro.3pl</gloss>
+                            <gloss>PRO.3PL</gloss>
                             <graid>pro.h:a</graid>
                         </segment>
                         <segment>
@@ -752,17 +752,17 @@
                         </segment>
                         <segment>
                             <gword>mivehā</gword>
-                            <gloss>fruit.pl</gloss>
-                            <graid>rn_np:obl</graid>
+                            <gloss>fruit.PL</gloss>
+                            <graid>rn_np:poss</graid>
                         </segment>
                         <segment>
                             <gword>=rā</gword>
-                            <gloss>=acc</gloss>
-                            <graid>=acc_rn</graid>
+                            <gloss>=ACC</gloss>
+                            <graid>=rn_acc</graid>
                         </segment>
                         <segment>
                             <gword>bardāštand</gword>
-                            <gloss>pick.pst.3pl</gloss>
+                            <gloss>pick.PST.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -787,27 +787,27 @@
                         </segment>
                         <segment>
                             <gword>rāhe</gword>
-                            <gloss>way=ezafe</gloss>
+                            <gloss>way=EZAFE</gloss>
                             <graid>np:p</graid>
                         </segment>
                         <segment>
                             <gword>xod</gword>
                             <gloss>self</gloss>
-                            <graid>refl.h:poss</graid>
+                            <graid>rn_refl.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>=ešān</gword>
-                            <gloss>=poss.3pl</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3PL</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>edāme</gword>
                             <gloss>continuing</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>dahand</gword>
-                            <gloss>give.prs.3pl</gloss>
+                            <gloss>give.PRS.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -829,7 +829,7 @@
                         </segment>
                         <segment>
                             <gword>rāhe</gword>
-                            <gloss>way=ezafe</gloss>
+                            <gloss>way=EZAFE</gloss>
                             <graid>other</graid>
                         </segment>
                         <segment>
@@ -844,7 +844,7 @@
                         </segment>
                         <segment>
                             <gword>mivehāyi</gword>
-                            <gloss>fruit.pl.indef</gloss>
+                            <gloss>fruit.PL.INDF</gloss>
                             <graid>np.h:s</graid>
                         </segment>
                         <segment>
@@ -859,12 +859,12 @@
                         </segment>
                         <segment>
                             <gword>=ešān</gword>
-                            <gloss>=poss.3pl</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3PL</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                         <segment>
@@ -880,11 +880,11 @@
                         <segment>
                             <gword>šaxsi</gword>
                             <gloss>person</gloss>
-                            <graid>ind_pro.h:s_cp</graid>
+                            <graid>indef_other.h:s_cp</graid>
                         </segment>
                         <segment>
-                            <gword>#rc</gword>
-                            <gloss>#rc</gloss>
+                            <gword>#</gword>
+                            <gloss>#</gloss>
                             <graid>#rc</graid>
                         </segment>
                         <segment>
@@ -904,7 +904,7 @@
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                         <segment>
@@ -914,17 +914,17 @@
                         </segment>
                         <segment>
                             <gword>dāšt</gword>
-                            <gloss>aux.pst.3sg</gloss>
+                            <gloss>AUX.PST.3SG</gloss>
                             <graid>aux</graid>
                         </segment>
                         <segment>
                             <gword>kār</gword>
                             <gloss>work</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>mikard</gword>
-                            <gloss>do.pst.impf.3sg</gloss>
+                            <gloss>do.PST.IPFV.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
@@ -971,7 +971,7 @@
                         </segment>
                         <segment>
                             <gword>bud</gword>
-                            <gloss>be.pst.3sg</gloss>
+                            <gloss>be.PST.3SG</gloss>
                             <graid>cop</graid>
                         </segment>
                         <segment>
@@ -1016,17 +1016,17 @@
                         </segment>
                         <segment>
                             <gword>=ešān</gword>
-                            <gloss>=poss.3pl</gloss>
-                            <graid>=pro.h:poss</graid>
+                            <gloss>=POSS.3PL</gloss>
+                            <graid>=rn_pro.h:poss</graid>
                         </segment>
                         <segment>
                             <gword>negāh</gword>
                             <gloss>look</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>kard</gword>
-                            <gloss>do.pst.3sg</gloss>
+                            <gloss>do.PST.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1042,11 +1042,11 @@
                         <segment>
                             <gword>taajob</gword>
                             <gloss>surprise</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>kard</gword>
-                            <gloss>do.pst.3sg</gloss>
+                            <gloss>do.PST.3SG</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1061,7 +1061,7 @@
                         </segment>
                         <segment>
                             <gword>ānhā</gword>
-                            <gloss>pro.3pl</gloss>
+                            <gloss>PRO.3PL</gloss>
                             <graid>pro.h:s</graid>
                         </segment>
                         <segment>
@@ -1072,11 +1072,11 @@
                         <segment>
                             <gword>rad</gword>
                             <gloss>passing</gloss>
-                            <graid>lvc</graid>
+                            <graid>other:lvc</graid>
                         </segment>
                         <segment>
                             <gword>šodand</gword>
-                            <gloss>become.pst.3pl</gloss>
+                            <gloss>become.PST.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                         <segment>
@@ -1096,7 +1096,7 @@
                         </segment>
                         <segment>
                             <gword>raftand</gword>
-                            <gloss>go.pst.3pl</gloss>
+                            <gloss>go.PST.3PL</gloss>
                             <graid>v:pred</graid>
                         </segment>
                     </annotations>
